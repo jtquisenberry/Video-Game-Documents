@@ -1,6 +1,6 @@
 ---
 title: "Masters of the Universe: Legends Unite – Solo He-Man Strategy Guide & Playthrough Transcripts"
-author: "jquisenberry"
+author: "jtquisenberry"
 date: "2026-09-30"
 description: "A comprehensive strategy guide, reference tables, mechanic deep-dives, exact damage formulas, and deck-thinning transcripts for clearing Biome 6 (Anti-Eternia) in a solo He-Man run."
 tags:
