@@ -40,7 +40,6 @@ The game contains Japanese text only. This guide provides Japanese-to-English tr
 * [IV. Walkthrough](#iv-walkthrough)
 * [V. Text Acquisition](#v-text-acquisition)
 * [VI. Rights](#vi-rights)
-* [VII. Contact](#vii-contact)
 
 ---
 
