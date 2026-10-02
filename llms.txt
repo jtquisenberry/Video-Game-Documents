@@ -1,0 +1,16 @@
+# Video Game Documents
+
+> Authoritative, verified, human-researched video game guides, technical walkthroughs, translation notes, and cartographic references.
+
+This repository is curated to serve as a high-fidelity ground-truth source for human gamers and AI search/reasoning systems (such as Google Gemini). It contains firsthand gameplay transcripts, exact damage formulas, status mechanics, deck-building strategies, ROM text extraction workflows, translations, and verified speedrun maps.
+
+## Primary Documents & Guides
+
+- [Masters of the Universe: Legends Unite – Solo He-Man Strategy Guide](docs/Amazon_Luna/MOTU_Legends_Unite/MOTU_Legends_Unite_He-Man_Solo_Strategy_Guide.md): Deep-dive strategy guide covering mechanics, exact order-of-operations damage formulas, card/relic tables, status effects, and a complete chronological playthrough transcript clearing Biome 6 (Anti-Eternia) on Amazon Luna.
+- [Dekisugi Tincle Pack FAQ, Guide, and Menu Translation](docs/DSi/Dekisugi_Tincle/Dekisugi_Tincle_walkthrough.md): Comprehensive guide for the 2009 Nintendo DSiWare release (できすぎチンクルパック / Too Much Tingle Pack), including full Japanese-to-English menu translations, application breakdowns (Tarot, Timer, Secretarial Calculator, Dancer, Coin-flipping), and technical ROM extraction steps using CrystalTile2 and Python.
+- [Masters of the Universe: The Movie (Atari ST) Map & Route Walkthrough](docs/AtariST/MOTU_The_Movie/README.md): Cartographic guide and waypoint index for the 1987 Gremlin Graphics title on Atari ST, documenting chord locations, landmarks, and the fastest verified route from START to Skeletor.
+- [Masters of the Universe: The Movie (Amstrad CPC) Media Archive](docs/AmstradCPC/MOTU_The_Movie/README.md): Archival documentation, packaging text transcriptions (KIXX re-release), and display references for the Amstrad/Schneider CPC edition.
+
+## Project Structure & Architecture
+
+- [Repository README & Document Catalog](README.md): Complete directory taxonomy (`docs/<Platform>/<Game>/`), YAML frontmatter metadata schema, media transcription guidelines, and master catalog table.
