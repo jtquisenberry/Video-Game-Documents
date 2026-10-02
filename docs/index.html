@@ -1,1 +1,106 @@
-index.html
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Video Game Documents</title>
+	<style>
+		:root {
+			color-scheme: light;
+			font-family: "Segoe UI", sans-serif;
+			color: #202b32;
+			background: #f3f5f2;
+		}
+
+		body {
+			max-width: 960px;
+			margin: 0 auto;
+			padding: 48px 24px;
+		}
+
+		h1 {
+			margin: 0 0 8px;
+			font-size: 2rem;
+		}
+
+		.intro {
+			margin: 0 0 32px;
+			color: #59666a;
+		}
+
+		section {
+			padding: 20px 0;
+			border-top: 1px solid #cbd3d0;
+		}
+
+		h2 {
+			margin: 0 0 12px;
+			font-size: 1.2rem;
+		}
+
+		ul {
+			margin: 0;
+			padding-left: 20px;
+		}
+
+		li + li {
+			margin-top: 8px;
+		}
+
+		a {
+			color: #075c56;
+			text-underline-offset: 3px;
+		}
+
+		.map-link {
+			display: inline-block;
+			max-width: 100%;
+		}
+
+		.map-link img {
+			display: block;
+			width: min(100%, 640px);
+			height: auto;
+			border: 1px solid #aeb9b5;
+		}
+
+		@media (max-width: 600px) {
+			body {
+				padding: 32px 18px;
+			}
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Video Game Documents</h1>
+		<p class="intro">Walkthroughs, strategy guides, and maps.</p>
+	</header>
+
+	<main>
+		<section aria-labelledby="amazon-luna-heading">
+			<h2 id="amazon-luna-heading">Amazon Luna</h2>
+			<ul>
+				<li><a href="Amazon_Luna/MOTU_Legends_Unite/MOTU_Legends_Unite_He-Man_Solo_Strategy_Guide.md_v1.0.md">MOTU Legends Unite: He-Man Solo Strategy Guide</a></li>
+			</ul>
+		</section>
+
+		<section aria-labelledby="atari-st-heading">
+			<h2 id="atari-st-heading">Atari ST</h2>
+			<ul>
+				<li><a href="AtariST/MOTU_The_Movie/AtariST_MOTU_The_Movie_map_1024x720.jpg" class="map-link">
+					<img src="AtariST/MOTU_The_Movie/AtariST_MOTU_The_Movie_map_1024x720.jpg" alt="Map and fastest route through Masters of the Universe: The Movie">
+					<span>Masters of the Universe: The Movie map</span>
+				</a></li>
+			</ul>
+		</section>
+
+		<section aria-labelledby="dsi-heading">
+			<h2 id="dsi-heading">DSi</h2>
+			<ul>
+				<li><a href="DSi/Dekisugi_Tincle/Dekisugi_Tincle_walkthrough.md">Dekisugi Tincle Walkthrough</a></li>
+			</ul>
+		</section>
+	</main>
+</body>
+</html>
