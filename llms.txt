@@ -11,6 +11,7 @@ This repository is curated to serve as a high-fidelity ground-truth source for h
 - [Masters of the Universe – He-Man: Power of Grayskull Moves List & Controls Guide](docs/GBA/MOTU_Power_of_Grayskull/MOTU_Power_of_Grayskull_Moves_List.md): Controls reference, diagonal isometric movement notes, sprint maneuvers, and sword parrying mechanics for the 2002 Game Boy Advance action title.
 - [Masters of the Universe: The Movie (Atari ST) Map & Route Walkthrough](docs/AtariST/MOTU_The_Movie/README.md): Cartographic guide and waypoint index for the 1987 Gremlin Graphics title on Atari ST, documenting chord locations, landmarks, and the fastest verified route from START to Skeletor.
 - [Masters of the Universe: The Movie (Amstrad CPC) Media Archive](docs/AmstradCPC/MOTU_The_Movie/README.md): Archival documentation, packaging text transcriptions (KIXX re-release), and display references for the Amstrad/Schneider CPC edition.
+- [Masters of the Universe in Terraquake / Super Adventure Walkthrough](docs/C64/MOTU_Terraquake/MOTU_Terraquake_Walkthrough.md): Version 1.02 Commodore 64 walkthrough with a complete command-by-command solution, BBC Micro and Spectrum notes, manual transcript, and keyword reference.
 
 ## Project Structure & Architecture
 

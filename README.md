@@ -17,6 +17,7 @@ The table below indexes all authoritative documents, platforms, and media curren
 | **Game Boy Advance** | *Masters of the Universe – He-Man: Power of Grayskull* | [Moves List & Controls Guide](docs/GBA/MOTU_Power_of_Grayskull/MOTU_Power_of_Grayskull_Moves_List.md) | Moves List & Reference | 2002 TDK Mediactive release, isometric movement controls, simultaneous diagonal inputs, Power Sword attacks, running sprint with L shoulder, defensive parry with R shoulder. | Jacob Quisenberry<br>`v1.00` (2013-11-07) | [View Guide](docs/GBA/MOTU_Power_of_Grayskull/MOTU_Power_of_Grayskull_Moves_List.md) |
 | **Atari ST** | *Masters of the Universe: The Movie* | [Map & Route Walkthrough](docs/AtariST/MOTU_The_Movie/README.md) | Cartography & Route Guide | 1987 Gremlin Graphics release, 1024×720 city map, 8-waypoint legend, chord locations (chords 2, 3, 6, 7), Charlie's music store, Junkyard, verified fastest white-line speedrun route to Skeletor. | jtquisenberry<br>`v1.0` (2026-10-02) | [View Guide](docs/AtariST/MOTU_The_Movie/README.md) |
 | **Amstrad CPC** | *Masters of the Universe: The Movie* | [Media Archive & Game Notes](docs/AmstradCPC/MOTU_The_Movie/README.md) | Media Reference & Notes | European cassette box inlay transcription (KIXX / U.S. Gold release), Mode 0/1 Amstrad gameplay screenshot, HUD interface breakdown, cross-platform comparison with Atari ST version. | jtquisenberry<br>`v1.0` (2026-10-02) | [View Guide](docs/AmstradCPC/MOTU_The_Movie/README.md) |
+| **Commodore 64** | *Masters of the Universe in Terraquake*<br>*(Masters of the Universe Super Adventure)* | [Walkthrough, Manual Transcript & Keyword Reference](docs/C64/MOTU_Terraquake/MOTU_Terraquake_Walkthrough.md) | Walkthrough | Version 1.02 command-by-command solution for the 1987 text adventure, including C64/Spectrum/BBC Micro notes, cheats, manual transcript, and complete keyword list. | Jacob Quisenberry<br>`v1.02` (2020-01-02) | [View Guide](docs/C64/MOTU_Terraquake/MOTU_Terraquake_Walkthrough.md) |
 
 ---
 
@@ -46,9 +47,12 @@ Video-Game-Documents/
     ├── DSi/                       # Platform: Nintendo DSi / DSiWare
     │   └── Dekisugi_Tincle/       # Game: Dekisugi Tincle Pack (できすぎチンクルパック)
     │       └── Dekisugi_Tincle_walkthrough.md
-    └── GBA/                       # Platform: Nintendo Game Boy Advance
-        └── MOTU_Power_of_Grayskull/
-            └── MOTU_Power_of_Grayskull_Moves_List.md
+    ├── GBA/                       # Platform: Nintendo Game Boy Advance
+    │   └── MOTU_Power_of_Grayskull/
+    │       └── MOTU_Power_of_Grayskull_Moves_List.md
+    └── C64/                       # Platform: Commodore 64
+        └── MOTU_Terraquake/       # Game: Masters of the Universe in Terraquake
+            └── MOTU_Terraquake_Walkthrough.md
 ```
 
 ### Architectural Rationale
