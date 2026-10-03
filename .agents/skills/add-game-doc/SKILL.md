@@ -68,15 +68,17 @@ Whenever a document is added or modified, update all five points:
 4. **`docs/index.html`:**
    - Add a `<article class="card">` under `<section class="catalog-grid">`.
    - Add a `TechArticle` / `VideoGame` node in the Schema.org JSON-LD graph.
-   - **CRITICAL — URL rules for card buttons** (GitHub Pages serves `docs/` as web root; Jekyll converts `.md` → `.html`):
+   - **CRITICAL — URL rules for card buttons:** GitHub Pages serves `docs/` as the web root and runs Jekyll during deployment. Jekyll automatically converts each Markdown document into a human-readable `.html` page at the corresponding URL; do not create or commit a separate HTML file. Linking to that generated `.html` page is expected for human visitors.
 
      | Button | href pattern | Notes |
      |---|---|---|
-     | Primary "Read Guide" | `<Platform>/<Game>/file.html` | No `docs/` prefix; `.html` extension |
+     | Primary "Read Guide" | `<Platform>/<Game>/file.html` | No `docs/` prefix; link to the generated page for human readers |
      | "View Markdown (.md)" | `https://raw.githubusercontent.com/jtquisenberry/Video-Game-Documents/main/docs/<Platform>/<Game>/file.md` | Full absolute URL; `docs/` IS required here |
      | "GitHub" source link | `https://github.com/jtquisenberry/Video-Game-Documents/blob/main/docs/<Platform>/<Game>/file.md` | Full absolute URL; `docs/` IS required here |
 
-   - **NEVER** link to `https://jtquisenberry.github.io/Video-Game-Documents/<path>.md` — Jekyll does not serve `.md` files raw; those URLs return 404.
+   - Keep both reader paths: use the generated `.html` Pages URL for the title and primary action, and keep a raw `.md` URL for LLMs and other Markdown consumers.
+   - **NEVER** link to `https://jtquisenberry.github.io/Video-Game-Documents/<path>.md` — Pages/Jekyll publishes the rendered `.html` output, not the source `.md`, so those Pages `.md` URLs return 404.
+   - The generated `.html` targets do not exist as source files in the repository. Do not treat them as broken local links or remove them merely because there is no corresponding `.html` file under `docs/`; validate these URLs against the deployed GitHub Pages site after deployment.
 
    - **Card template:**
      ```html
