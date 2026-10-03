@@ -60,4 +60,4 @@ This folder archives verified media assets from the original physical European c
 ## Cross-Platform Reference
 
 For the full navigational street map, chord coordinate breakdown, and speedrun pathing, see the sister directory:
-* [Atari ST Navigation Map & Route Guide](../../AtariST/MOTU_The_Movie/README.md)
+* [Atari ST Navigation Map & Route Guide](../../AtariST/MOTU_The_Movie/README.html)
