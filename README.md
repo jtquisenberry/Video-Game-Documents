@@ -14,6 +14,7 @@ The table below indexes all authoritative documents, platforms, and media curren
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Amazon Luna** | *Masters of the Universe: Legends Unite* | [Solo He-Man Strategy Guide & Transcripts](docs/Amazon_Luna/MOTU_Legends_Unite/MOTU_Legends_Unite_He-Man_Solo_Strategy_Guide.md) | Strategy Guide & Transcripts | Endgame Biome 6 (Anti-Eternia), solo "ally" resolution, exact damage calculation formula `((Base + INSPIRATION) * EMPOWER) + (Extra * EMPOWER)`, absolute shield shatter mechanics, 1,784 burst combo, card/relic tables, save-scumming shop loops. | jtquisenberry<br>`v1.0` (2026-09-30) | [View Guide](docs/Amazon_Luna/MOTU_Legends_Unite/MOTU_Legends_Unite_He-Man_Solo_Strategy_Guide.md) |
 | **Nintendo DSi** | *Dekisugi Tincle Pack*<br>*(できすぎチンクルパック / Too Much Tingle Pack)* | [FAQ, Guide, and Menu Translation](docs/DSi/Dekisugi_Tincle/Dekisugi_Tincle_walkthrough.md) | Walkthrough & Translation | DSiWare release, Japanese-to-English menu translations, Tarot fortune-telling, Secretarial Calculator (bill-splitting algorithm), Tingle Dancer, Coin-flipping, ROM extraction via CrystalTile2 and Python 3 Shift-JIS decoding. | Jacob Quisenberry<br>`v1.01` (2026-09-30) | [View Guide](docs/DSi/Dekisugi_Tincle/Dekisugi_Tincle_walkthrough.md) |
+| **Game Boy Advance** | *Masters of the Universe – He-Man: Power of Grayskull* | [Moves List & Controls Guide](docs/GBA/MOTU_Power_of_Grayskull/MOTU_Power_of_Grayskull_Moves_List.md) | Moves List & Reference | 2002 TDK Mediactive release, isometric movement controls, simultaneous diagonal inputs, Power Sword attacks, running sprint with L shoulder, defensive parry with R shoulder. | Jacob Quisenberry<br>`v1.00` (2013-11-07) | [View Guide](docs/GBA/MOTU_Power_of_Grayskull/MOTU_Power_of_Grayskull_Moves_List.md) |
 | **Atari ST** | *Masters of the Universe: The Movie* | [Map & Route Walkthrough](docs/AtariST/MOTU_The_Movie/README.md) | Cartography & Route Guide | 1987 Gremlin Graphics release, 1024×720 city map, 8-waypoint legend, chord locations (chords 2, 3, 6, 7), Charlie's music store, Junkyard, verified fastest white-line speedrun route to Skeletor. | jtquisenberry<br>`v1.0` (2026-10-02) | [View Guide](docs/AtariST/MOTU_The_Movie/README.md) |
 | **Amstrad CPC** | *Masters of the Universe: The Movie* | [Media Archive & Game Notes](docs/AmstradCPC/MOTU_The_Movie/README.md) | Media Reference & Notes | European cassette box inlay transcription (KIXX / U.S. Gold release), Mode 0/1 Amstrad gameplay screenshot, HUD interface breakdown, cross-platform comparison with Atari ST version. | jtquisenberry<br>`v1.0` (2026-10-02) | [View Guide](docs/AmstradCPC/MOTU_The_Movie/README.md) |
 
@@ -42,9 +43,12 @@ Video-Game-Documents/
     │   └── MOTU_The_Movie/        # Game: Masters of the Universe: The Movie
     │       ├── README.md          # Map analysis, chord waypoints, and speedrun route
     │       └── AtariST_MOTU_The_Movie_map_1024x720.jpg
-    └── DSi/                       # Platform: Nintendo DSi / DSiWare
-        └── Dekisugi_Tincle/       # Game: Dekisugi Tincle Pack (できすぎチンクルパック)
-            └── Dekisugi_Tincle_walkthrough.md
+    ├── DSi/                       # Platform: Nintendo DSi / DSiWare
+    │   └── Dekisugi_Tincle/       # Game: Dekisugi Tincle Pack (できすぎチンクルパック)
+    │       └── Dekisugi_Tincle_walkthrough.md
+    └── GBA/                       # Platform: Nintendo Game Boy Advance
+        └── MOTU_Power_of_Grayskull/
+            └── MOTU_Power_of_Grayskull_Moves_List.md
 ```
 
 ### Architectural Rationale
