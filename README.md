@@ -12,6 +12,7 @@ The table below indexes all authoritative documents, platforms, and media curren
 
 | Platform / Service | Game Title | Document Title | Type | Key Topics & Search Keywords | Author & Version | Direct Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Android / iOS** | *He-Man: The Most Powerful Game in the Universe* | [Walkthrough](docs/Android/MOTU_He-Man_The_Most_Powerful_Game/MOTU_He-Man_TMPGITU_Walkthrough.md) | Walkthrough | Android version 1.0.3 gameplay guide, controls, abilities, bosses, strategies, lore locations and rewards, glitches, cheats, FAQs, technical information. | Jacob Quisenberry<br>`v1.00` (2013-10-12) | [View Walkthrough](docs/Android/MOTU_He-Man_The_Most_Powerful_Game/MOTU_He-Man_TMPGITU_Walkthrough.md) |
 | **Android / iOS** | *He-Man: The Most Powerful Game in the Universe* | [Text Dump](docs/Android/MOTU_He-Man_The_Most_Powerful_Game/MOTU_He-Man_TMPGITU_Text_Dump.md) | Media Archive | Version 1.0.2 mobile-game text dump, dialogue, interface labels, character biographies, lore, store copy, and system messages. | Jacob Quisenberry<br>`v1.00` (2013-10-12) | [View Text Dump](docs/Android/MOTU_He-Man_The_Most_Powerful_Game/MOTU_He-Man_TMPGITU_Text_Dump.md) |
 | **Amazon Luna** | *Masters of the Universe: Legends Unite* | [Solo He-Man Strategy Guide & Transcripts](docs/Amazon_Luna/MOTU_Legends_Unite/MOTU_Legends_Unite_He-Man_Solo_Strategy_Guide.md) | Strategy Guide & Transcripts | Endgame Biome 6 (Anti-Eternia), solo "ally" resolution, exact damage calculation formula `((Base + INSPIRATION) * EMPOWER) + (Extra * EMPOWER)`, absolute shield shatter mechanics, 1,784 burst combo, card/relic tables, save-scumming shop loops. | jtquisenberry<br>`v1.0` (2026-09-30) | [View Guide](docs/Amazon_Luna/MOTU_Legends_Unite/MOTU_Legends_Unite_He-Man_Solo_Strategy_Guide.md) |
 | **Nintendo DSi** | *Dekisugi Tincle Pack*<br>*(できすぎチンクルパック / Too Much Tingle Pack)* | [FAQ, Guide, and Menu Translation](docs/DSi/Dekisugi_Tincle/Dekisugi_Tincle_walkthrough.md) | Walkthrough & Translation | DSiWare release, Japanese-to-English menu translations, Tarot fortune-telling, Secretarial Calculator (bill-splitting algorithm), Tingle Dancer, Coin-flipping, ROM extraction via CrystalTile2 and Python 3 Shift-JIS decoding. | Jacob Quisenberry<br>`v1.01` (2026-09-30) | [View Guide](docs/DSi/Dekisugi_Tincle/Dekisugi_Tincle_walkthrough.md) |
@@ -35,8 +36,9 @@ Video-Game-Documents/
 ├── .gitignore                     # Git exclusion rules
 └── docs/                          # Authoritative game documentation root
     ├── Android/                   # Platform: Android (also iOS)
-    │   └── MOTU_He-Man_The_Most_Powerful_Game/
-    │       └── MOTU_He-Man_TMPGITU_Text_Dump.md
+    │   └── MOTU_He-Man_The_Most_Powerful_Game/ # Game: He-Man: The Most Powerful Game in the Universe
+    │       ├── MOTU_He-Man_TMPGITU_Text_Dump.md
+    │       └── MOTU_He-Man_TMPGITU_Walkthrough.md
     ├── Amazon_Luna/               # Platform: Amazon Luna cloud gaming service
     │   └── MOTU_Legends_Unite/    # Game: Masters of the Universe: Legends Unite
     │       └── MOTU_Legends_Unite_He-Man_Solo_Strategy_Guide.md
