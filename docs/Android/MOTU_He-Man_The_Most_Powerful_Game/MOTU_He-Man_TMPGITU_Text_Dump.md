@@ -18,7 +18,7 @@ tags:
   - android
   - ios
   - text dump
-summary: "Verbatim text dump from version 1.0.2 of the Android game, with Android and iOS listed in the source. Preserves extracted dialogue, interface labels, character biographies, lore, store text, and system messages."
+summary: "Verbatim text dump from version 1.0.2 of the Android game. Preserves extracted dialogue, interface labels, character biographies, lore, store text, and system messages."
 ---
 
 
