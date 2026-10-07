@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jtquisenberry.github.io/Video-Game-Documents/sitemap.xml

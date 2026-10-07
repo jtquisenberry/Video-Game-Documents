@@ -3,104 +3,705 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Video Game Documents</title>
+	<title>Video Game Documents | Authoritative Strategy Guides, Walkthroughs & Maps</title>
+	<meta name="description" content="An authoritative, human-researched knowledge repository of video game strategy guides, exact damage formulas, Japanese-to-English translations, and cartographic references.">
+	<meta name="keywords" content="video game guides, walkthroughs, strategy guides, Masters of the Universe, He-Man, Amazon Luna, Atari ST, Amstrad CPC, Nintendo DSi, Dekisugi Tincle Pack, game maps, damage formula, retro gaming">
+	<meta name="author" content="jtquisenberry">
+	<link rel="canonical" href="https://jtquisenberry.github.io/Video-Game-Documents/">
+
+	<!-- Open Graph / Facebook / Discord -->
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://jtquisenberry.github.io/Video-Game-Documents/">
+	<meta property="og:title" content="Video Game Documents | Authoritative Guides & References">
+	<meta property="og:description" content="Authoritative game documentation: exact formulas, deck pruning transcripts, menu translations, and route maps for Amazon Luna, Atari ST, Amstrad CPC, and Nintendo DSi.">
+	<meta property="og:image" content="https://jtquisenberry.github.io/Video-Game-Documents/AtariST/MOTU_The_Movie/AtariST_MOTU_The_Movie_map_1024x720.jpg">
+
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="Video Game Documents">
+	<meta name="twitter:description" content="Authoritative video game strategy guides, mechanics breakdowns, translations, and maps.">
+	<meta name="twitter:image" content="https://jtquisenberry.github.io/Video-Game-Documents/AtariST/MOTU_The_Movie/AtariST_MOTU_The_Movie_map_1024x720.jpg">
+
+	<!-- Structured Data (JSON-LD) for Search Engines & Gemini Grounding -->
+	<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@graph": [
+			{
+				"@type": "WebSite",
+				"@id": "https://jtquisenberry.github.io/Video-Game-Documents/#website",
+				"url": "https://jtquisenberry.github.io/Video-Game-Documents/",
+				"name": "Video Game Documents",
+				"description": "Authoritative video game strategy guides, mechanics breakdowns, Japanese-to-English translations, and cartographic references.",
+				"inLanguage": "en"
+			},
+			{
+				"@type": "CollectionPage",
+				"@id": "https://jtquisenberry.github.io/Video-Game-Documents/#webpage",
+				"url": "https://jtquisenberry.github.io/Video-Game-Documents/",
+				"name": "Video Game Documents - Authoritative Guides & Walkthroughs",
+				"isPartOf": { "@id": "https://jtquisenberry.github.io/Video-Game-Documents/#website" },
+				"hasPart": [
+					{
+						"@type": "TechArticle",
+						"name": "Masters of the Universe: Legends Unite – Solo He-Man Strategy Guide",
+						"description": "Comprehensive strategy guide, reference tables, mechanic deep-dives, exact damage formulas, and deck-thinning transcripts for clearing Biome 6 (Anti-Eternia) on Amazon Luna.",
+						"url": "https://jtquisenberry.github.io/Video-Game-Documents/Amazon_Luna/MOTU_Legends_Unite/MOTU_Legends_Unite_He-Man_Solo_Strategy_Guide.html",
+						"about": {
+							"@type": "VideoGame",
+							"name": "Masters of the Universe: Legends Unite",
+							"gamePlatform": "Amazon Luna"
+						}
+					},
+					{
+						"@type": "TechArticle",
+						"name": "Dekisugi Tincle Pack FAQ, Guide, and Menu Translation",
+						"description": "Complete Japanese-to-English menu translations, mini-game walkthroughs, and ROM text extraction workflows for the Nintendo DSiWare title.",
+						"url": "https://jtquisenberry.github.io/Video-Game-Documents/DSi/Dekisugi_Tincle/Dekisugi_Tincle_walkthrough.html",
+						"about": {
+							"@type": "VideoGame",
+							"name": "Dekisugi Tincle Pack",
+							"alternateName": ["できすぎチンクルパック", "Too Much Tingle Pack"],
+							"gamePlatform": "Nintendo DSi"
+						}
+					},
+					{
+						"@type": "TechArticle",
+						"name": "Masters of the Universe – He-Man: Power of Grayskull Moves List & Controls Guide",
+						"description": "Reference guide for basic movement, sword combat, diagonal walking, running, and parrying controls for Masters of the Universe - He-Man: Power of Grayskull on Game Boy Advance.",
+						"url": "https://jtquisenberry.github.io/Video-Game-Documents/GBA/MOTU_Power_of_Grayskull/MOTU_Power_of_Grayskull_Moves_List.html",
+						"about": {
+							"@type": "VideoGame",
+							"name": "Masters of the Universe – He-Man: Power of Grayskull",
+							"alternateName": ["He-Man: Power of Grayskull", "MOTU: Power of Grayskull"],
+							"gamePlatform": "Game Boy Advance"
+						}
+					},
+					{
+						"@type": "TechArticle",
+						"name": "Masters of the Universe: The Movie (Atari ST) Map & Route Walkthrough",
+						"description": "Authoritative street navigation map, 8-waypoint legend, chord locations, and optimal speedrun route from START to Skeletor.",
+						"url": "https://jtquisenberry.github.io/Video-Game-Documents/AtariST/MOTU_The_Movie/README.html",
+						"about": {
+							"@type": "VideoGame",
+							"name": "Masters of the Universe: The Movie",
+							"gamePlatform": "Atari ST"
+						}
+					},
+					{
+						"@type": "TechArticle",
+						"name": "Masters of the Universe: The Movie (Amstrad CPC) Media Archive & Game Notes",
+						"description": "Archival documentation, European cassette box art transcriptions (KIXX re-release), and Mode 0/1 gameplay screen references.",
+						"url": "https://jtquisenberry.github.io/Video-Game-Documents/AmstradCPC/MOTU_The_Movie/README.html",
+						"about": {
+							"@type": "VideoGame",
+							"name": "Masters of the Universe: The Movie",
+							"gamePlatform": "Amstrad CPC"
+						}
+					},
+					{
+						"@type": "TechArticle",
+						"name": "Masters of the Universe in Terraquake / Super Adventure: Walkthrough, Manual Transcript, and Keyword Reference",
+						"description": "Version 1.02 Commodore 64 walkthrough with a complete command-by-command solution, cross-version notes for BBC Micro and Spectrum, a manual transcript, and the game's keyword list.",
+						"url": "https://jtquisenberry.github.io/Video-Game-Documents/C64/MOTU_Terraquake/MOTU_Terraquake_Walkthrough.html",
+						"about": {
+							"@type": "VideoGame",
+							"name": "Masters of the Universe in Terraquake",
+							"alternateName": "Masters of the Universe Super Adventure",
+							"gamePlatform": "Commodore 64"
+						}
+					},
+					{
+						"@type": "TechArticle",
+						"name": "Masters of the Universe: The Power of He-Man - Atari 2600 Game Manual",
+						"description": "Verbatim transcription of the Atari 2600 game manual, including gameplay instructions, controls, weapons, enemies, scoring, levels, and warranty information.",
+						"url": "https://jtquisenberry.github.io/Video-Game-Documents/Atari2600/MOTU_Power_of_He-Man/MOTU_Power_of_He-Man_Manual.html",
+						"about": {
+							"@type": "VideoGame",
+							"name": "Masters of the Universe: The Power of He-Man",
+							"gamePlatform": "Atari 2600"
+						}
+					},
+					{
+						"@type": "TechArticle",
+						"name": "He-Man: The Most Powerful Game in the Universe - Text Dump",
+						"description": "Verbatim version 1.0.2 mobile-game text dump with dialogue, interface labels, character biographies, lore, store copy, and system messages; source lists Android and iOS.",
+						"url": "https://jtquisenberry.github.io/Video-Game-Documents/Android/MOTU_He-Man_The_Most_Powerful_Game/MOTU_He-Man_TMPGITU_Text_Dump.html",
+						"about": {
+							"@type": "VideoGame",
+							"name": "He-Man: The Most Powerful Game in the Universe",
+							"gamePlatform": ["Android", "iOS"]
+						}
+					},
+					{
+						"@type": "TechArticle",
+						"name": "He-Man: The Most Powerful Game in the Universe - Walkthrough",
+						"description": "Version 1.0.3 Android walkthrough covering controls, abilities, strategies, boss tactics, lore locations, FAQs, glitches, and technical information; the guide notes applicability to iOS.",
+						"url": "https://jtquisenberry.github.io/Video-Game-Documents/Android/MOTU_He-Man_The_Most_Powerful_Game/MOTU_He-Man_TMPGITU_Walkthrough.html",
+						"about": {
+							"@type": "VideoGame",
+							"name": "He-Man: The Most Powerful Game in the Universe",
+							"gamePlatform": ["Android", "iOS"]
+						}
+					}
+				]
+			}
+		]
+	}
+	</script>
+
 	<style>
 		:root {
-			color-scheme: light;
-			font-family: "Segoe UI", sans-serif;
-			color: #202b32;
-			background: #f3f5f2;
+			--bg-primary: #0f141c;
+			--bg-surface: #18202c;
+			--bg-card: #1e2838;
+			--border: #2d3b4e;
+			--border-accent: #3b82f6;
+			--text-main: #f1f5f9;
+			--text-muted: #94a3b8;
+			--text-bright: #38bdf8;
+			--accent: #2563eb;
+			--accent-hover: #1d4ed8;
+			--tag-bg: #1e3a5f;
+			--tag-text: #93c5fd;
+			--code-bg: #090d14;
+			font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+			color: var(--text-main);
+			background-color: var(--bg-primary);
+			line-height: 1.6;
+		}
+
+		@media (prefers-color-scheme: light) {
+			:root {
+				--bg-primary: #f8fafc;
+				--bg-surface: #ffffff;
+				--bg-card: #f1f5f9;
+				--border: #e2e8f0;
+				--border-accent: #2563eb;
+				--text-main: #0f172a;
+				--text-muted: #475569;
+				--text-bright: #0284c7;
+				--accent: #2563eb;
+				--accent-hover: #1d4ed8;
+				--tag-bg: #dbeafe;
+				--tag-text: #1e40af;
+				--code-bg: #e2e8f0;
+			}
+		}
+
+		* {
+			box-sizing: border-box;
 		}
 
 		body {
-			max-width: 960px;
+			max-width: 1040px;
 			margin: 0 auto;
-			padding: 48px 24px;
+			padding: 40px 20px 80px;
+		}
+
+		header {
+			margin-bottom: 36px;
+			padding-bottom: 24px;
+			border-bottom: 1px solid var(--border);
+		}
+
+		.header-top {
+			display: flex;
+			justify-content: space-between;
+			align-items: flex-start;
+			flex-wrap: wrap;
+			gap: 16px;
 		}
 
 		h1 {
 			margin: 0 0 8px;
-			font-size: 2rem;
+			font-size: 2.2rem;
+			font-weight: 800;
+			letter-spacing: -0.02em;
+			color: var(--text-main);
 		}
 
-		.intro {
-			margin: 0 0 32px;
-			color: #59666a;
-		}
-
-		section {
-			padding: 20px 0;
-			border-top: 1px solid #cbd3d0;
-		}
-
-		h2 {
-			margin: 0 0 12px;
-			font-size: 1.2rem;
-		}
-
-		ul {
+		.tagline {
 			margin: 0;
-			padding-left: 20px;
+			font-size: 1.1rem;
+			color: var(--text-muted);
+			max-width: 680px;
 		}
 
-		li + li {
-			margin-top: 8px;
+		.quick-links {
+			display: flex;
+			gap: 10px;
+			flex-wrap: wrap;
 		}
 
-		a {
-			color: #075c56;
-			text-underline-offset: 3px;
+		.pill-button {
+			display: inline-flex;
+			align-items: center;
+			gap: 6px;
+			padding: 6px 14px;
+			font-size: 0.85rem;
+			font-weight: 600;
+			text-decoration: none;
+			border-radius: 9999px;
+			border: 1px solid var(--border);
+			background-color: var(--bg-surface);
+			color: var(--text-bright);
+			transition: all 0.15s ease;
 		}
 
-		.map-link {
+		.pill-button:hover {
+			border-color: var(--border-accent);
+			background-color: var(--accent);
+			color: #ffffff;
+		}
+
+		.intro-banner {
+			background-color: var(--bg-surface);
+			border: 1px solid var(--border);
+			border-left: 4px solid var(--border-accent);
+			padding: 16px 20px;
+			border-radius: 8px;
+			margin-bottom: 36px;
+		}
+
+		.intro-banner p {
+			margin: 0;
+			font-size: 0.95rem;
+			color: var(--text-muted);
+		}
+
+		.intro-banner strong {
+			color: var(--text-main);
+		}
+
+		.catalog-grid {
+			display: grid;
+			grid-template-columns: 1fr;
+			gap: 24px;
+		}
+
+		.card {
+			background-color: var(--bg-surface);
+			border: 1px solid var(--border);
+			border-radius: 12px;
+			overflow: hidden;
+			transition: transform 0.15s ease, border-color 0.15s ease;
+		}
+
+		.card:hover {
+			border-color: var(--border-accent);
+			transform: translateY(-2px);
+		}
+
+		.card-content {
+			padding: 24px;
+		}
+
+		.card-header {
+			display: flex;
+			justify-content: space-between;
+			align-items: flex-start;
+			flex-wrap: wrap;
+			gap: 12px;
+			margin-bottom: 12px;
+		}
+
+		.platform-badge {
 			display: inline-block;
-			max-width: 100%;
+			padding: 4px 10px;
+			border-radius: 6px;
+			font-size: 0.75rem;
+			font-weight: 700;
+			text-transform: uppercase;
+			letter-spacing: 0.05em;
+			background-color: var(--tag-bg);
+			color: var(--tag-text);
 		}
 
-		.map-link img {
+		.card-title {
+			margin: 4px 0 0;
+			font-size: 1.35rem;
+			font-weight: 700;
+		}
+
+		.card-title a {
+			color: var(--text-main);
+			text-decoration: none;
+		}
+
+		.card-title a:hover {
+			color: var(--text-bright);
+			text-decoration: underline;
+		}
+
+		.card-subtitle {
+			margin: 2px 0 12px;
+			font-size: 0.95rem;
+			color: var(--text-muted);
+			font-style: italic;
+		}
+
+		.card-desc {
+			margin: 0 0 16px;
+			font-size: 0.95rem;
+			color: var(--text-muted);
+		}
+
+		.highlight-list {
+			margin: 0 0 16px;
+			padding-left: 20px;
+			font-size: 0.9rem;
+			color: var(--text-muted);
+		}
+
+		.highlight-list li {
+			margin-bottom: 6px;
+		}
+
+		.card-media-preview {
+			margin: 16px 0;
+			border-radius: 8px;
+			overflow: hidden;
+			border: 1px solid var(--border);
+			background-color: var(--code-bg);
+		}
+
+		.card-media-preview img {
 			display: block;
-			width: min(100%, 640px);
-			height: auto;
-			border: 1px solid #aeb9b5;
+			width: 100%;
+			max-height: 380px;
+			object-fit: cover;
 		}
 
-		@media (max-width: 600px) {
-			body {
-				padding: 32px 18px;
-			}
+		.card-actions {
+			display: flex;
+			gap: 12px;
+			flex-wrap: wrap;
+			margin-top: 18px;
+			padding-top: 14px;
+			border-top: 1px solid var(--border);
+		}
+
+		.btn-primary {
+			background-color: var(--accent);
+			color: #ffffff;
+			text-decoration: none;
+			padding: 8px 18px;
+			border-radius: 6px;
+			font-size: 0.9rem;
+			font-weight: 600;
+			transition: background-color 0.15s ease;
+		}
+
+		.btn-primary:hover {
+			background-color: var(--accent-hover);
+		}
+
+		.btn-secondary {
+			background-color: transparent;
+			color: var(--text-bright);
+			border: 1px solid var(--border);
+			text-decoration: none;
+			padding: 8px 16px;
+			border-radius: 6px;
+			font-size: 0.9rem;
+			font-weight: 600;
+			transition: all 0.15s ease;
+		}
+
+		.btn-secondary:hover {
+			border-color: var(--border-accent);
+			background-color: var(--bg-card);
+		}
+
+		footer {
+			margin-top: 60px;
+			padding-top: 24px;
+			border-top: 1px solid var(--border);
+			font-size: 0.85rem;
+			color: var(--text-muted);
+			text-align: center;
+		}
+
+		footer a {
+			color: var(--text-bright);
+			text-decoration: none;
+		}
+
+		footer a:hover {
+			text-decoration: underline;
 		}
 	</style>
 </head>
 <body>
 	<header>
-		<h1>Video Game Documents</h1>
-		<p class="intro">Walkthroughs, strategy guides, and maps.</p>
+		<div class="header-top">
+			<div>
+				<h1>Video Game Documents</h1>
+				<p class="tagline">Authoritative strategy guides, mechanics breakdowns, Japanese-to-English translations, and cartographic references.</p>
+			</div>
+			<nav class="quick-links" aria-label="Quick links">
+				<a href="llms.txt" class="pill-button" title="Machine-readable guide for AI & LLM ingestion">🤖 llms.txt</a>
+				<a href="https://github.com/jtquisenberry/Video-Game-Documents" class="pill-button" title="View repository on GitHub">📁 GitHub Repo</a>
+			</nav>
+		</div>
 	</header>
 
 	<main>
-		<section aria-labelledby="amazon-luna-heading">
-			<h2 id="amazon-luna-heading">Amazon Luna</h2>
-			<ul>
-				<li><a href="./Amazon_Luna/MOTU_Legends_Unite/MOTU_Legends_Unite_He-Man_Solo_Strategy_Guide.md_v1.0.md">MOTU Legends Unite: He-Man Solo Strategy Guide</a></li>
-			</ul>
-		</section>
+		<div class="intro-banner">
+			<p>
+				<strong>Verified Ground Truth:</strong> This archive documents firsthand gameplay data, exact mathematical damage formulas, complete playthrough decision logs, ROM text extraction pipelines, and spatial speedrun maps. Optimized for human enthusiasts and AI search grounding (Google Gemini).
+			</p>
+		</div>
 
-		<section aria-labelledby="atari-st-heading">
-			<h2 id="atari-st-heading">Atari ST</h2>
-			<ul>
-				<li><a href="./AtariST/MOTU_The_Movie/AtariST_MOTU_The_Movie_map_1024x720.jpg" class="map-link">
-					<img src="./AtariST/MOTU_The_Movie/AtariST_MOTU_The_Movie_map_1024x720.jpg" alt="Map and fastest route through Masters of the Universe: The Movie">
-					<span>Masters of the Universe: The Movie map</span>
-				</a></li>
-			</ul>
-		</section>
+		<section class="catalog-grid" aria-label="Document Catalog">
+			<!-- Amazon Luna: MOTU Legends Unite -->
+			<article class="card">
+				<div class="card-content">
+					<div class="card-header">
+						<span class="platform-badge">Amazon Luna</span>
+						<span style="font-size: 0.85rem; color: var(--text-muted);">v1.0 (2026-09-30)</span>
+					</div>
+					<h2 class="card-title">
+						<a href="Amazon_Luna/MOTU_Legends_Unite/MOTU_Legends_Unite_He-Man_Solo_Strategy_Guide.html">Masters of the Universe: Legends Unite – Solo He-Man Strategy Guide</a>
+					</h2>
+					<p class="card-subtitle">Complete Biome 6 (Anti-Eternia) Endgame Guide & Playthrough Transcripts</p>
+					<p class="card-desc">
+						A deep-dive technical strategy guide verifying core engine interactions, damage calculation priority sequences, card/relic tables, and turn-by-turn game-state logs for beating Anti-Eternia Ram Man.
+					</p>
+					<ul class="highlight-list">
+						<li><strong>Exact Damage Formula:</strong> <code>Total = ((Base Damage + INSPIRATION) * EMPOWER) + (Extra Damage * EMPOWER)</code></li>
+						<li><strong>Key Mechanics:</strong> Solo target logic ("ally" includes He-Man), absolute shield strip via SHATTER, and multi-turn EMPOWER stacking up to 8x.</li>
+						<li><strong>Record High Burst:</strong> Documented 1,784 damage OTK combo.</li>
+						<li><strong>Playthrough Transcript:</strong> Full chronological decisions, campfire pruning, shop rerolls, and boss turns.</li>
+					</ul>
+					<div class="card-actions">
+						<a href="Amazon_Luna/MOTU_Legends_Unite/MOTU_Legends_Unite_He-Man_Solo_Strategy_Guide.html" class="btn-primary">Read Strategy Guide</a>
+						<a href="https://raw.githubusercontent.com/jtquisenberry/Video-Game-Documents/main/docs/Amazon_Luna/MOTU_Legends_Unite/MOTU_Legends_Unite_He-Man_Solo_Strategy_Guide.md" class="btn-secondary" target="_blank" rel="noopener">View Markdown (.md)</a>
+						<a href="https://github.com/jtquisenberry/Video-Game-Documents/blob/main/docs/Amazon_Luna/MOTU_Legends_Unite/MOTU_Legends_Unite_He-Man_Solo_Strategy_Guide.md" class="btn-secondary" target="_blank" rel="noopener">GitHub</a>
+					</div>
+				</div>
+			</article>
 
-		<section aria-labelledby="dsi-heading">
-			<h2 id="dsi-heading">DSi</h2>
-			<ul>
-				<li><a href="./DSi/Dekisugi_Tincle/Dekisugi_Tincle_walkthrough.md">Dekisugi Tincle Walkthrough</a></li>
-			</ul>
+			<!-- Atari ST: MOTU The Movie -->
+			<article class="card">
+				<div class="card-content">
+					<div class="card-header">
+						<span class="platform-badge">Atari ST</span>
+						<span style="font-size: 0.85rem; color: var(--text-muted);">v1.0 (2026-10-02)</span>
+					</div>
+					<h2 class="card-title">
+						<a href="AtariST/MOTU_The_Movie/README.html">Masters of the Universe: The Movie – Map & Route Walkthrough</a>
+					</h2>
+					<p class="card-subtitle">1987 Gremlin Graphics Release • Verified Speedrun Navigation</p>
+					<p class="card-desc">
+						Full city cartography detailing all eight critical waypoints, chord retrieval points, and the verified fastest route through the town to reach Skeletor.
+					</p>
+					<div class="card-media-preview">
+						<a href="AtariST/MOTU_The_Movie/AtariST_MOTU_The_Movie_map_1024x720.jpg">
+							<img src="AtariST/MOTU_The_Movie/AtariST_MOTU_The_Movie_map_1024x720.jpg" alt="In-game town navigation map of Masters of the Universe: The Movie on Atari ST showing fastest route from START to Skeletor">
+						</a>
+					</div>
+					<ul class="highlight-list">
+						<li><strong>8-Node Legend:</strong> Pinpoints START (Node 1), Chord locations (Nodes 2, 3, 6, 7), Charlie's music store (Node 5), the Junkyard (Node 4), and Skeletor (Node 8).</li>
+						<li><strong>Optimal Route:</strong> Step-by-step navigation instructions along the verified white speedrun path.</li>
+					</ul>
+					<div class="card-actions">
+						<a href="AtariST/MOTU_The_Movie/README.html" class="btn-primary">View Map Guide & Legend</a>
+						<a href="https://raw.githubusercontent.com/jtquisenberry/Video-Game-Documents/main/docs/AtariST/MOTU_The_Movie/README.md" class="btn-secondary" target="_blank" rel="noopener">View Markdown (.md)</a>
+						<a href="AtariST/MOTU_The_Movie/AtariST_MOTU_The_Movie_map_1024x720.jpg" class="btn-secondary" target="_blank">Full-Res Map (JPG)</a>
+					</div>
+				</div>
+			</article>
+
+			<!-- Nintendo DSi: Dekisugi Tincle Pack -->
+			<article class="card">
+				<div class="card-content">
+					<div class="card-header">
+						<span class="platform-badge">Nintendo DSi</span>
+						<span style="font-size: 0.85rem; color: var(--text-muted);">v1.01 (2026-09-30)</span>
+					</div>
+					<h2 class="card-title">
+						<a href="DSi/Dekisugi_Tincle/Dekisugi_Tincle_walkthrough.html">Dekisugi Tincle Pack – FAQ, Guide, and Menu Translation</a>
+					</h2>
+					<p class="card-subtitle">できすぎチンクルパック (Too Much Tingle Pack) • Nintendo DSiWare</p>
+					<p class="card-desc">
+						Comprehensive English translations and operational walkthroughs for all five components of the rare 2009 Japan-only DSiWare release, plus technical ROM text extraction scripts.
+					</p>
+					<ul class="highlight-list">
+						<li><strong>Applications Covered:</strong> Tarot fortune-telling, Tingle Timer, Secretarial Calculator (restaurant bill-splitting algorithm), Tingle Dancer, and Coin-flipping mini-games.</li>
+						<li><strong>Menu Translation:</strong> Line-by-line Japanese text transcription and English translations.</li>
+						<li><strong>Technical Extraction:</strong> Step-by-step ROM dumping and Python 3 Shift-JIS decompressor code using CrystalTile2.</li>
+					</ul>
+					<div class="card-actions">
+						<a href="DSi/Dekisugi_Tincle/Dekisugi_Tincle_walkthrough.html" class="btn-primary">Read Translation Guide</a>
+						<a href="https://raw.githubusercontent.com/jtquisenberry/Video-Game-Documents/main/docs/DSi/Dekisugi_Tincle/Dekisugi_Tincle_walkthrough.md" class="btn-secondary" target="_blank" rel="noopener">View Markdown (.md)</a>
+						<a href="https://github.com/jtquisenberry/Video-Game-Documents/blob/main/docs/DSi/Dekisugi_Tincle/Dekisugi_Tincle_walkthrough.md" class="btn-secondary" target="_blank" rel="noopener">GitHub</a>
+					</div>
+				</div>
+			</article>
+
+			<!-- Game Boy Advance: MOTU Power of Grayskull -->
+			<article class="card">
+				<div class="card-content">
+					<div class="card-header">
+						<span class="platform-badge">Game Boy Advance</span>
+						<span style="font-size: 0.85rem; color: var(--text-muted);">v1.00 (2013-11-07)</span>
+					</div>
+					<h2 class="card-title">
+						<a href="GBA/MOTU_Power_of_Grayskull/MOTU_Power_of_Grayskull_Moves_List.html">Masters of the Universe – He-Man: Power of Grayskull</a>
+					</h2>
+					<p class="card-subtitle">Moves List & Basic Controls Reference • TDK Mediactive (2002)</p>
+					<p class="card-desc">
+						Reference guide for foundational movement and combat controls in the isometric GBA action-adventure title, including diagonal inputs, sword combat, running, and parrying.
+					</p>
+					<ul class="highlight-list">
+						<li><strong>Movement & Direction:</strong> Complete D-Pad directional navigation and simultaneous multi-button diagonal isometric traversal.</li>
+						<li><strong>Action & Defense:</strong> Power Sword attack mechanics (B button), vertical jumping (A button), sprinting via Left Shoulder (L), and defensive parrying via Right Shoulder (R).</li>
+					</ul>
+					<div class="card-actions">
+						<a href="GBA/MOTU_Power_of_Grayskull/MOTU_Power_of_Grayskull_Moves_List.html" class="btn-primary">Read Moves List</a>
+						<a href="https://raw.githubusercontent.com/jtquisenberry/Video-Game-Documents/main/docs/GBA/MOTU_Power_of_Grayskull/MOTU_Power_of_Grayskull_Moves_List.md" class="btn-secondary" target="_blank" rel="noopener">View Markdown (.md)</a>
+						<a href="https://github.com/jtquisenberry/Video-Game-Documents/blob/main/docs/GBA/MOTU_Power_of_Grayskull/MOTU_Power_of_Grayskull_Moves_List.md" class="btn-secondary" target="_blank" rel="noopener">GitHub</a>
+					</div>
+				</div>
+			</article>
+
+			<!-- Amstrad CPC: MOTU The Movie -->
+			<article class="card">
+				<div class="card-content">
+					<div class="card-header">
+						<span class="platform-badge">Amstrad CPC</span>
+						<span style="font-size: 0.85rem; color: var(--text-muted);">v1.0 (2026-10-02)</span>
+					</div>
+					<h2 class="card-title">
+						<a href="AmstradCPC/MOTU_The_Movie/README.html">Masters of the Universe: The Movie – Media Archive & Game Notes</a>
+					</h2>
+					<p class="card-subtitle">European Cassette Packaging & Display Reference • Gremlin Graphics / KIXX</p>
+					<p class="card-desc">
+						Archival documentation and packaging text transcriptions from the European cassette jewel case release, alongside Amstrad Mode 0/1 HUD and screenshot analysis.
+					</p>
+					<ul class="highlight-list">
+						<li><strong>Box Art Transcription:</strong> Full transcript of the KIXX budget re-release inlay for AMSTRAD/SCHNEIDER CPC.</li>
+						<li><strong>Cross-Platform Analysis:</strong> Explains differences between 8-bit CPC cassette gameplay and 16-bit Atari ST disk release.</li>
+					</ul>
+					<div class="card-actions">
+						<a href="AmstradCPC/MOTU_The_Movie/README.html" class="btn-primary">View Media Notes</a>
+						<a href="https://raw.githubusercontent.com/jtquisenberry/Video-Game-Documents/main/docs/AmstradCPC/MOTU_The_Movie/README.md" class="btn-secondary" target="_blank" rel="noopener">View Markdown (.md)</a>
+						<a href="AmstradCPC/MOTU_The_Movie/He-Man_MOTU_CPC_Box.PNG" class="btn-secondary" target="_blank">View Box Art (PNG)</a>
+					</div>
+				</div>
+			</article>
+			<!-- Commodore 64: Terraquake -->
+			<article class="card">
+				<div class="card-content">
+					<div class="card-header">
+						<span class="platform-badge">Commodore 64</span>
+						<span style="font-size: 0.85rem; color: var(--text-muted);">v1.02 (2020-01-02)</span>
+					</div>
+					<h2 class="card-title">
+						<a href="C64/MOTU_Terraquake/MOTU_Terraquake_Walkthrough.html">Masters of the Universe in Terraquake / Super Adventure</a>
+					</h2>
+					<p class="card-subtitle">Complete Walkthrough, Manual Transcript &amp; Keyword Reference</p>
+					<p class="card-desc">
+						A full command-by-command solution for the 1987 text adventure, with platform-specific notes for the Commodore 64, Spectrum, and BBC Micro versions.
+					</p>
+					<ul class="highlight-list">
+						<li><strong>Complete solution:</strong> Main victory route and failure ending.</li>
+						<li><strong>Reference material:</strong> Cheats, manual transcript, and complete game keyword list.</li>
+					</ul>
+					<div class="card-actions">
+						<a href="C64/MOTU_Terraquake/MOTU_Terraquake_Walkthrough.html" class="btn-primary">Read Walkthrough</a>
+						<a href="https://raw.githubusercontent.com/jtquisenberry/Video-Game-Documents/main/docs/C64/MOTU_Terraquake/MOTU_Terraquake_Walkthrough.md" class="btn-secondary" target="_blank" rel="noopener">View Markdown (.md)</a>
+						<a href="https://github.com/jtquisenberry/Video-Game-Documents/blob/main/docs/C64/MOTU_Terraquake/MOTU_Terraquake_Walkthrough.md" class="btn-secondary" target="_blank" rel="noopener">GitHub</a>
+					</div>
+				</div>
+			</article>
+			<!-- Atari 2600: The Power of He-Man -->
+			<article class="card">
+				<div class="card-content">
+					<div class="card-header">
+						<span class="platform-badge">Atari 2600</span>
+						<span style="font-size: 0.85rem; color: var(--text-muted);">v1.00 (2013-10-11)</span>
+					</div>
+					<h2 class="card-title">
+						<a href="Atari2600/MOTU_Power_of_He-Man/MOTU_Power_of_He-Man_Manual.html">Masters of the Universe: The Power of He-Man - Game Manual</a>
+					</h2>
+					<p class="card-subtitle">Atari 2600 Manual Transcription</p>
+					<p class="card-desc">
+						A transcription of the original manual, covering the Wind Raider journey to Castle Grayskull, the battle with Skeletor, controls, scoring, and level progression.
+					</p>
+					<ul class="highlight-list">
+						<li><strong>Gameplay:</strong> Wind Raider flight, Evil Warriors, weapons, rolling walls, and laser blasts.</li>
+						<li><strong>Reference:</strong> Difficulty switches, scoring values, level information, and warranty text.</li>
+					</ul>
+					<div class="card-actions">
+						<a href="Atari2600/MOTU_Power_of_He-Man/MOTU_Power_of_He-Man_Manual.html" class="btn-primary">Read Manual</a>
+						<a href="https://raw.githubusercontent.com/jtquisenberry/Video-Game-Documents/main/docs/Atari2600/MOTU_Power_of_He-Man/MOTU_Power_of_He-Man_Manual.md" class="btn-secondary" target="_blank" rel="noopener">View Markdown (.md)</a>
+						<a href="https://github.com/jtquisenberry/Video-Game-Documents/blob/main/docs/Atari2600/MOTU_Power_of_He-Man/MOTU_Power_of_He-Man_Manual.md" class="btn-secondary" target="_blank" rel="noopener">GitHub</a>
+					</div>
+				</div>
+			</article>
+			<!-- Android / iOS: He-Man: The Most Powerful Game in the Universe -->
+			<article class="card">
+				<div class="card-content">
+					<div class="card-header">
+						<span class="platform-badge">Android / iOS</span>
+						<span style="font-size: 0.85rem; color: var(--text-muted);">v1.00 (2013-10-12)</span>
+					</div>
+					<h2 class="card-title">
+						<a href="Android/MOTU_He-Man_The_Most_Powerful_Game/MOTU_He-Man_TMPGITU_Text_Dump.html">He-Man: The Most Powerful Game in the Universe - Text Dump</a>
+					</h2>
+					<p class="card-subtitle">Mobile Game Text Archive</p>
+					<p class="card-desc">
+						A verbatim archive of text extracted from version 1.0.2, including game dialogue, interface strings, character biographies, lore, store copy, and system messages.
+					</p>
+					<ul class="highlight-list">
+						<li><strong>Platforms:</strong> Android and iOS, as listed in the source document.</li>
+						<li><strong>Archive contents:</strong> Dialogue, UI labels, lore entries, character descriptions, and purchase/error messages.</li>
+					</ul>
+					<div class="card-actions">
+						<a href="Android/MOTU_He-Man_The_Most_Powerful_Game/MOTU_He-Man_TMPGITU_Text_Dump.html" class="btn-primary">Read Text Dump</a>
+						<a href="https://raw.githubusercontent.com/jtquisenberry/Video-Game-Documents/main/docs/Android/MOTU_He-Man_The_Most_Powerful_Game/MOTU_He-Man_TMPGITU_Text_Dump.md" class="btn-secondary" target="_blank" rel="noopener">View Markdown (.md)</a>
+						<a href="https://github.com/jtquisenberry/Video-Game-Documents/blob/main/docs/Android/MOTU_He-Man_The_Most_Powerful_Game/MOTU_He-Man_TMPGITU_Text_Dump.md" class="btn-secondary" target="_blank" rel="noopener">GitHub</a>
+					</div>
+				</div>
+			</article>
+			<!-- Android / iOS: He-Man: The Most Powerful Game in the Universe Walkthrough -->
+			<article class="card">
+				<div class="card-content">
+					<div class="card-header">
+						<span class="platform-badge">Android / iOS</span>
+						<span style="font-size: 0.85rem; color: var(--text-muted);">v1.00 (2013-10-12)</span>
+					</div>
+					<h2 class="card-title">
+						<a href="Android/MOTU_He-Man_The_Most_Powerful_Game/MOTU_He-Man_TMPGITU_Walkthrough.html">He-Man: The Most Powerful Game in the Universe - Walkthrough</a>
+					</h2>
+					<p class="card-subtitle">Android / iOS Walkthrough and Reference</p>
+					<p class="card-desc">
+						A gameplay guide for Android version 1.0.3, with notes on applicability to iOS. It includes combat strategies, boss tactics, and a detailed guide to collectible lore.
+					</p>
+					<ul class="highlight-list">
+						<li><strong>Gameplay:</strong> Controls, abilities, strategies, boss fights, glitches, and FAQs.</li>
+						<li><strong>Collectibles:</strong> Lore summary and level-by-level guide to lore locations and rewards.</li>
+					</ul>
+					<div class="card-actions">
+						<a href="Android/MOTU_He-Man_The_Most_Powerful_Game/MOTU_He-Man_TMPGITU_Walkthrough.html" class="btn-primary">Read Walkthrough</a>
+						<a href="https://raw.githubusercontent.com/jtquisenberry/Video-Game-Documents/main/docs/Android/MOTU_He-Man_The_Most_Powerful_Game/MOTU_He-Man_TMPGITU_Walkthrough.md" class="btn-secondary" target="_blank" rel="noopener">View Markdown (.md)</a>
+						<a href="https://github.com/jtquisenberry/Video-Game-Documents/blob/main/docs/Android/MOTU_He-Man_The_Most_Powerful_Game/MOTU_He-Man_TMPGITU_Walkthrough.md" class="btn-secondary" target="_blank" rel="noopener">GitHub</a>
+					</div>
+				</div>
+			</article>
 		</section>
 	</main>
+
+	<footer>
+		<p>
+			Video Game Documents • Authored by <a href="https://github.com/jtquisenberry">jtquisenberry</a> • Licensed under <a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU General Public License v3</a>
+		</p>
+		<p>
+			All game trademarks, artwork, and titles belong to their respective copyright holders and are referenced for archival and research purposes.
+		</p>
+	</footer>
 </body>
 </html>

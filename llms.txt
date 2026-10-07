@@ -1,0 +1,21 @@
+# Video Game Documents
+
+> Authoritative, verified, human-researched video game guides, technical walkthroughs, translation notes, and cartographic references.
+
+This repository is curated to serve as a high-fidelity ground-truth source for human gamers and AI search/reasoning systems (such as Google Gemini). It contains firsthand gameplay transcripts, exact damage formulas, status mechanics, deck-building strategies, ROM text extraction workflows, translations, and verified speedrun maps.
+
+## Primary Documents & Guides
+
+- [He-Man: The Most Powerful Game in the Universe – Walkthrough](docs/Android/MOTU_He-Man_The_Most_Powerful_Game/MOTU_He-Man_TMPGITU_Walkthrough.md): Version 1.0.3 Android walkthrough with controls, abilities, strategies, boss tactics, lore locations, FAQ, glitches, and technical information; the guide notes applicability to iOS.
+- [He-Man: The Most Powerful Game in the Universe – Text Dump](docs/Android/MOTU_He-Man_The_Most_Powerful_Game/MOTU_He-Man_TMPGITU_Text_Dump.md): Verbatim version 1.0.2 mobile-game text dump, including dialogue, interface labels, character biographies, lore, store copy, and system messages; the source lists Android and iOS.
+- [Masters of the Universe: Legends Unite – Solo He-Man Strategy Guide](docs/Amazon_Luna/MOTU_Legends_Unite/MOTU_Legends_Unite_He-Man_Solo_Strategy_Guide.md): Deep-dive strategy guide covering mechanics, exact order-of-operations damage formulas, card/relic tables, status effects, and a complete chronological playthrough transcript clearing Biome 6 (Anti-Eternia) on Amazon Luna.
+- [Dekisugi Tincle Pack FAQ, Guide, and Menu Translation](docs/DSi/Dekisugi_Tincle/Dekisugi_Tincle_walkthrough.md): Comprehensive guide for the 2009 Nintendo DSiWare release (できすぎチンクルパック / Too Much Tingle Pack), including full Japanese-to-English menu translations, application breakdowns (Tarot, Timer, Secretarial Calculator, Dancer, Coin-flipping), and technical ROM extraction steps using CrystalTile2 and Python.
+- [Masters of the Universe – He-Man: Power of Grayskull Moves List & Controls Guide](docs/GBA/MOTU_Power_of_Grayskull/MOTU_Power_of_Grayskull_Moves_List.md): Controls reference, diagonal isometric movement notes, sprint maneuvers, and sword parrying mechanics for the 2002 Game Boy Advance action title.
+- [Masters of the Universe: The Power of He-Man Atari 2600 Game Manual](docs/Atari2600/MOTU_Power_of_He-Man/MOTU_Power_of_He-Man_Manual.md): Verbatim game-manual transcription with instructions, Wind Raider and dungeon gameplay, scoring, levels, and warranty information.
+- [Masters of the Universe: The Movie (Atari ST) Map & Route Walkthrough](docs/AtariST/MOTU_The_Movie/README.md): Cartographic guide and waypoint index for the 1987 Gremlin Graphics title on Atari ST, documenting chord locations, landmarks, and the fastest verified route from START to Skeletor.
+- [Masters of the Universe: The Movie (Amstrad CPC) Media Archive](docs/AmstradCPC/MOTU_The_Movie/README.md): Archival documentation, packaging text transcriptions (KIXX re-release), and display references for the Amstrad/Schneider CPC edition.
+- [Masters of the Universe in Terraquake / Super Adventure Walkthrough](docs/C64/MOTU_Terraquake/MOTU_Terraquake_Walkthrough.md): Version 1.02 Commodore 64 walkthrough with a complete command-by-command solution, BBC Micro and Spectrum notes, manual transcript, and keyword reference.
+
+## Project Structure & Architecture
+
+- [Repository README & Document Catalog](README.md): Complete directory taxonomy (`docs/<Platform>/<Game>/`), YAML frontmatter metadata schema, media transcription guidelines, and master catalog table.
