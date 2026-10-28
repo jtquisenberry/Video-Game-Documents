@@ -21,6 +21,7 @@ The table below indexes all authoritative documents, platforms, and media curren
 | **Atari ST** | *Masters of the Universe: The Movie* | [Map & Route Walkthrough](docs/AtariST/MOTU_The_Movie/README.md) | Cartography & Route Guide | 1987 Gremlin Graphics release, 1024×720 city map, 8-waypoint legend, chord locations (chords 2, 3, 6, 7), Charlie's music store, Junkyard, verified fastest white-line speedrun route to Skeletor. | jtquisenberry<br>`v1.0` (2026-10-02) | [View Guide](docs/AtariST/MOTU_The_Movie/README.md) |
 | **Amstrad CPC** | *Masters of the Universe: The Movie* | [Media Archive & Game Notes](docs/AmstradCPC/MOTU_The_Movie/README.md) | Media Reference & Notes | European cassette box inlay transcription (KIXX / U.S. Gold release), Mode 0/1 Amstrad gameplay screenshot, HUD interface breakdown, cross-platform comparison with Atari ST version. | jtquisenberry<br>`v1.0` (2026-10-02) | [View Guide](docs/AmstradCPC/MOTU_The_Movie/README.md) |
 | **Commodore 64** | *Masters of the Universe in Terraquake*<br>*(Masters of the Universe Super Adventure)* | [Walkthrough, Manual Transcript & Keyword Reference](docs/C64/MOTU_Terraquake/MOTU_Terraquake_Walkthrough.md) | Walkthrough | Version 1.02 command-by-command solution for the 1987 text adventure, including C64/Spectrum/BBC Micro notes, cheats, manual transcript, and complete keyword list. | Jacob Quisenberry<br>`v1.02` (2020-01-02) | [View Guide](docs/C64/MOTU_Terraquake/MOTU_Terraquake_Walkthrough.md) |
+| **BBC Micro** | *Masters of the Universe in Terraquake*<br>*(Masters of the Universe Super Adventure)* | [Gameplay & Screen Reference](docs/BBC_Micro/MOTU_Terraquake/README.md) | Media Reference & Transcripts | Teletext Mode 7 colored text display, Castle Eternos secret sanctum transformation, Hexagon of Heliatron time-freeze victory ending, defeat state, and 4-character parser truncation rules. | Jacob Quisenberry<br>`v1.00` (2020-01-02) | [View Reference](docs/BBC_Micro/MOTU_Terraquake/README.md) |
 
 ---
 
@@ -54,6 +55,12 @@ Video-Game-Documents/
     │   └── MOTU_The_Movie/        # Game: Masters of the Universe: The Movie
     │       ├── README.md          # Map analysis, chord waypoints, and speedrun route
     │       └── AtariST_MOTU_The_Movie_map_1024x720.jpg
+    ├── BBC_Micro/                 # Platform: BBC Micro / Acorn Electron
+    │   └── MOTU_Terraquake/       # Game: Masters of the Universe in Terraquake
+    │       ├── README.md          # Gameplay transcripts & screen analysis
+    │       ├── bbc_terraquake_play_001.png
+    │       ├── bbc_terraquake_end_001.png
+    │       └── bbc_terraquake_fail_001.png
     ├── DSi/                       # Platform: Nintendo DSi / DSiWare
     │   └── Dekisugi_Tincle/       # Game: Dekisugi Tincle Pack (できすぎチンクルパック)
     │       └── Dekisugi_Tincle_walkthrough.md

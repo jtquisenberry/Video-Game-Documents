@@ -15,6 +15,7 @@ This repository is curated to serve as a high-fidelity ground-truth source for h
 - [Masters of the Universe: The Movie (Atari ST) Map & Route Walkthrough](AtariST/MOTU_The_Movie/README.md): Cartographic guide and waypoint index for the 1987 Gremlin Graphics title on Atari ST, documenting chord locations, landmarks, and the fastest verified route from START to Skeletor.
 - [Masters of the Universe: The Movie (Amstrad CPC) Media Archive](AmstradCPC/MOTU_The_Movie/README.md): Archival documentation, packaging text transcriptions (KIXX re-release), and display references for the Amstrad/Schneider CPC edition.
 - [Masters of the Universe in Terraquake / Super Adventure Walkthrough](C64/MOTU_Terraquake/MOTU_Terraquake_Walkthrough.md): Version 1.02 Commodore 64 walkthrough with a complete command-by-command solution, BBC Micro and Spectrum notes, manual transcript, and keyword reference.
+- [Masters of the Universe in Terraquake (BBC Micro) Gameplay & Screen Reference](BBC_Micro/MOTU_Terraquake/README.md): Archival gameplay transcripts, Teletext Mode 7 display references, and victory/defeat game state captures for the 1987 BBC Micro text adventure.
 
 ## Project Structure & Architecture
 
