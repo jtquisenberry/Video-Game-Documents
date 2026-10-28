@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://jtquisenberry.github.io/Video-Game-Documents/</loc>
-		<lastmod>2026-10-03</lastmod>
+		<lastmod>2026-10-28</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
@@ -68,8 +68,32 @@
 	</url>
 	<url>
 		<loc>https://jtquisenberry.github.io/Video-Game-Documents/llms.txt</loc>
-		<lastmod>2026-10-03</lastmod>
+		<lastmod>2026-10-28</lastmod>
 		<changefreq>weekly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://jtquisenberry.github.io/Video-Game-Documents/C64/MOTU_The_Movie/README.html</loc>
+		<lastmod>2026-10-28</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://jtquisenberry.github.io/Video-Game-Documents/MSX/MOTU_The_Movie/README.html</loc>
+		<lastmod>2026-10-28</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://jtquisenberry.github.io/Video-Game-Documents/ZX_Spectrum/MOTU_Terraquake/README.html</loc>
+		<lastmod>2026-10-28</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	<url>
+		<loc>https://jtquisenberry.github.io/Video-Game-Documents/ColecoVision/MOTU_Power_of_He-Man/README.html</loc>
+		<lastmod>2026-10-28</lastmod>
+		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
 </urlset>
