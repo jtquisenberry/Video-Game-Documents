@@ -29,6 +29,16 @@ The table below indexes all authoritative documents, platforms, and media curren
 | **ZX Spectrum** | *Masters of the Universe: The Ilearth Stone*<br>*(The Arcade Game)* | [Illustrated Screen Reference & Cheats](docs/ZX_Spectrum/MOTU_The_Ilearth_Stone/README.md) | Media Archive & Reference | Archival screen references (intro, playfield, combat, ending, failure), palette analysis, dedicated text victory sequence, *Your Sinclair* issue 32 POKEs, Hackers Anon memory cheats, 48K/128K loading. | Jacob Quisenberry<br>`v1.00` (2019-12-15) | [View Reference](docs/ZX_Spectrum/MOTU_The_Ilearth_Stone/README.md) |
 | **Handheld LCD** | *Masters of the Universe Electronic Game* | [Handheld LCD Walkthrough, Cartography & Hardware Archive](docs/Handheld_LCD/MOTU_Electronic_Game/MOTU_Electronic_Game_Walkthrough.md) | Strategy Guide | 1982/1983 Mattel Electronics handheld (model 4612-0340), earliest MOTU electronic video game, 100-room toroidal maze, compass rotation, 12 prison cells triangulation, Screeech relocation, Power Sword hurling, hardware & packaging transcripts. | Jacob Quisenberry<br>`v1.00` (2020-09-16) | [View Guide](docs/Handheld_LCD/MOTU_Electronic_Game/MOTU_Electronic_Game_Walkthrough.md) |
 | **ColecoVision** | *Masters of the Universe: The Power of He-Man* | [Unreleased Prototype Archive](docs/ColecoVision/MOTU_Power_of_He-Man/README.md) | Media Archive | 1983 unreleased Mattel prototype (catalog #7759): dealer catalog text, EPROM prototype board photos, TMS9918A title screen capture, CGE exhibition documentation, and gameplay mechanics description. | Jacob Quisenberry<br>`v1.00` (2026-10-27) | [View Archive](docs/ColecoVision/MOTU_Power_of_He-Man/README.md) |
+| **PlayStation 2** | *Masters of the Universe: He-Man: Defender of Grayskull* | [Cheat Codes](docs/PS2/MOTU_Defender_of_Grayskull/MOTU_Defender_of_Grayskull_Cheats.md) | Strategy Guide | PS2 options-menu cheat codes: Invulnerability (`RIGHT, O, UP, LEFT, X`), Unlock All Levels (`X, LEFT, UP, O, DOWN`), Unlimited Grayskull Power (`DOWN, RIGHT, X, O, DOWN`), Double Damage (`O, RIGHT, X, UP, X`). Planned GameCube / Xbox versions unreleased. | Jacob Quisenberry<br>`v1.00` (2013-11-07) | [View Cheats](docs/PS2/MOTU_Defender_of_Grayskull/MOTU_Defender_of_Grayskull_Cheats.md) |
+| **Web Browser** | *He-Man and the Masters of the Universe: The Courage of Adam* | [Web Browser Game Archive](docs/Web_Browser/MOTU_Courage_of_Adam/README.md) | Media Archive | 2003 Cartoon Network UK Shockwave/Macromedia Director browser game; Wayback Machine capture URLs for index JSP and `.dcr` binary; preservation notes for Director emulation (Dirplayer); 2002 animated series context. | Jacob Quisenberry<br>`v1.00` (2026-11-05) | [View Archive](docs/Web_Browser/MOTU_Courage_of_Adam/README.md) |
+| **Web Browser** | *He-Man and the Masters of the Universe: Lair of the Slime Mutant* | [Web Browser Game Archive](docs/Web_Browser/MOTU_Lair_of_the_Slime_Mutant/README.md) | Media Archive | 2004 Toonami UK Shockwave/Macromedia Director browser game; Wayback Machine capture URLs for launch HTML and `.dcr` binary; Slime Pit thematic context; third-party replay aggregator references. | Jacob Quisenberry<br>`v1.00` (2026-11-05) | [View Archive](docs/Web_Browser/MOTU_Lair_of_the_Slime_Mutant/README.md) |
+| **Android / iOS** | *Masters of the Universe: Battle for Grayskull* | [Mobile Game Archive & Media Reference](docs/Android/MOTU_Battle_for_Grayskull/README.md) | Media Archive | 2021 Ludia idle RPG/castle defense; 10 screenshots: app store banner, product images 1–2, Battle Cat character detail, gameplay loop, holding-castle defense, Level 150 progression, max Battle Pass, max Heroic skill tree, max Evil skill tree. | Jacob Quisenberry<br>`v1.00` (2026-11-05) | [View Archive](docs/Android/MOTU_Battle_for_Grayskull/README.md) |
+| **Android / iOS** | *He-Man: Combat Simulator* | [Mobile Game Archive & Media Reference](docs/Android/MOTU_Combat_Simulator/README.md) | Media Archive | Ludia mobile combat simulator; 8 screenshots: loading screen, Level 100 in-game combat, Sorceress at max level, full arena zoom-out view, app store product images 1–4; character upgrade system documentation. | Jacob Quisenberry<br>`v1.00` (2026-11-05) | [View Archive](docs/Android/MOTU_Combat_Simulator/README.md) |
+| **Android / iOS** | *Masters of the Universe: Guardians of Grayskull* | [Mobile Game Archive & Ending Reference](docs/Android/MOTU_Guardians_of_Grayskull/README.md) | Media Archive | Kabam mobile RPG; 2 ending screens documenting the game's story conclusion (end-1 and end-2); preservation archive for live-service title subject to server shutdown. | Jacob Quisenberry<br>`v1.00` (2026-11-05) | [View Archive](docs/Android/MOTU_Guardians_of_Grayskull/README.md) |
+| **Android / iOS** | *He-Man: Masters of the Universe Heroes* | [Mobile Game Archive & Media Reference](docs/Android/MOTU_He-Man_Heroes/README.md) | Media Archive | Budge Studios mobile action/adventure; 2 screenshots: app store banner and in-game gameplay capture; family-targeted 2021 Netflix series–styled title. | Jacob Quisenberry<br>`v1.00` (2026-11-05) | [View Archive](docs/Android/MOTU_He-Man_Heroes/README.md) |
+| **Android / iOS** | *Masters of the Universe: Skeletor* | [Mobile Game Archive & Progression Reference](docs/Android/MOTU_Skeletor/README.md) | Media Archive | Ludia villain-perspective idle RPG; 4 screenshots: intro/title screen, level-end results, max Evil Battle Pass completion, Snake Mountain at maximum upgrade level; Snake Mountain hub documentation. | Jacob Quisenberry<br>`v1.00` (2026-11-05) | [View Archive](docs/Android/MOTU_Skeletor/README.md) |
+| **Android / iOS** | *He-Man: Tappers of Grayskull* | [Mobile Game Release Archive](docs/Android/He-Man_Tappers_of_Grayskull/README.md) | Media Archive | 2016 Animoca Brands idle tapper; simultaneous Android/iOS release (August 31, 2016); official Animoca press release and YouTube trailer references; idle-tapper genre context. | Jacob Quisenberry<br>`v1.00` (2026-11-05) | [View Archive](docs/Android/He-Man_Tappers_of_Grayskull/README.md) |
+| **Android / iOS** | *Masters of the Universe VR* / *View-Master Masters of the Universe VR* | [Mobile VR Game Archive](docs/Android/MOTU_VR/README.md) | Media Archive | 2016 Mattel View-Master VR experience; Android release Nov 1, iOS release Oct 31, 2016; Google Cardboard compatible; Google Play and App Store links; View-Master VR hardware context. | Jacob Quisenberry<br>`v1.00` (2026-11-05) | [View Archive](docs/Android/MOTU_VR/README.md) |
 
 ---
 
@@ -44,9 +54,28 @@ Video-Game-Documents/
 ├── .gitignore                     # Git exclusion rules
 └── docs/                          # Authoritative game documentation root
     ├── Android/                   # Platform: Android (also iOS)
-    │   └── MOTU_He-Man_The_Most_Powerful_Game/ # Game: He-Man: The Most Powerful Game in the Universe
-    │       ├── MOTU_He-Man_TMPGITU_Text_Dump.md
-    │       └── MOTU_He-Man_TMPGITU_Walkthrough.md
+    │   ├── He-Man_Tappers_of_Grayskull/ # Game: He-Man: Tappers of Grayskull (2016, Animoca Brands)
+    │   │   └── README.md
+    │   ├── MOTU_Battle_for_Grayskull/ # Game: Masters of the Universe: Battle for Grayskull (2021, Ludia)
+    │   │   ├── README.md
+    │   │   └── motu-battle-for-grayskull-*.png / .jpg
+    │   ├── MOTU_Combat_Simulator/  # Game: He-Man: Combat Simulator (Ludia)
+    │   │   ├── README.md
+    │   │   └── He-Man-combat-simulator-*.png / .jpg
+    │   ├── MOTU_Guardians_of_Grayskull/ # Game: Masters of the Universe: Guardians of Grayskull (2022, Kabam)
+    │   │   ├── README.md
+    │   │   └── motu-guardians-of-grayskull-*.jpg
+    │   ├── MOTU_He-Man_Heroes/     # Game: He-Man: Masters of the Universe Heroes (2022, Budge Studios)
+    │   │   ├── README.md
+    │   │   └── motu-he-man-heroes-*.png
+    │   ├── MOTU_He-Man_The_Most_Powerful_Game/ # Game: He-Man: The Most Powerful Game in the Universe
+    │   │   ├── MOTU_He-Man_TMPGITU_Text_Dump.md
+    │   │   └── MOTU_He-Man_TMPGITU_Walkthrough.md
+    │   ├── MOTU_Skeletor/          # Game: Masters of the Universe: Skeletor (Ludia)
+    │   │   ├── README.md
+    │   │   └── motu-skeletor-*.jpg
+    │   └── MOTU_VR/                # Game: Masters of the Universe VR / View-Master VR (2016, Mattel)
+    │       └── README.md
     ├── Amazon_Luna/               # Platform: Amazon Luna cloud gaming service
     │   └── MOTU_Legends_Unite/    # Game: Masters of the Universe: Legends Unite
     │       └── MOTU_Legends_Unite_He-Man_Solo_Strategy_Guide.md
@@ -95,6 +124,14 @@ Video-Game-Documents/
     │   └── MOTU_The_Movie/        # Game: Masters of the Universe: The Movie
     │       ├── README.md          # Screen archive & HUD analysis
     │       └── msx_motu_movie_*.png
+    ├── PS2/                       # Platform: Sony PlayStation 2
+    │   └── MOTU_Defender_of_Grayskull/ # Game: Masters of the Universe: He-Man: Defender of Grayskull
+    │       └── MOTU_Defender_of_Grayskull_Cheats.md
+    ├── Web_Browser/               # Platform: Web Browser (Shockwave / Flash)
+    │   ├── MOTU_Courage_of_Adam/  # Game: He-Man: The Courage of Adam (2003, Cartoon Network UK)
+    │   │   └── README.md
+    │   └── MOTU_Lair_of_the_Slime_Mutant/ # Game: He-Man: Lair of the Slime Mutant (2004, Toonami UK)
+    │       └── README.md
     └── ZX_Spectrum/               # Platform: Sinclair ZX Spectrum 48K/128K
         ├── MOTU_Terraquake/       # Game: Masters of the Universe in Terraquake
         │   ├── README.md          # Split-screen illustration archive & transcripts
