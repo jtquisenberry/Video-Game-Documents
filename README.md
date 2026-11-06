@@ -21,10 +21,13 @@ The table below indexes all authoritative documents, platforms, and media curren
 | **Atari ST** | *Masters of the Universe: The Movie* | [Map & Route Walkthrough](docs/AtariST/MOTU_The_Movie/README.md) | Cartography & Route Guide | 1987 Gremlin Graphics release, 1024×720 city map, 8-waypoint legend, chord locations (chords 2, 3, 6, 7), Charlie's music store, Junkyard, verified fastest white-line speedrun route to Skeletor. | jtquisenberry<br>`v1.0` (2026-10-02) | [View Guide](docs/AtariST/MOTU_The_Movie/README.md) |
 | **Amstrad CPC** | *Masters of the Universe: The Movie* | [Media Archive & Game Notes](docs/AmstradCPC/MOTU_The_Movie/README.md) | Media Reference & Notes | European cassette box inlay transcription (KIXX / U.S. Gold release), Mode 0/1 Amstrad gameplay screenshot, HUD interface breakdown, cross-platform comparison with Atari ST version. | jtquisenberry<br>`v1.0` (2026-10-02) | [View Guide](docs/AmstradCPC/MOTU_The_Movie/README.md) |
 | **Commodore 64** | *Masters of the Universe in Terraquake*<br>*(Masters of the Universe Super Adventure)* | [Walkthrough, Manual Transcript & Keyword Reference](docs/C64/MOTU_Terraquake/MOTU_Terraquake_Walkthrough.md) | Walkthrough | Version 1.02 command-by-command solution for the 1987 text adventure, including C64/Spectrum/BBC Micro notes, cheats, manual transcript, and complete keyword list. | Jacob Quisenberry<br>`v1.02` (2020-01-02) | [View Guide](docs/C64/MOTU_Terraquake/MOTU_Terraquake_Walkthrough.md) |
+| **Commodore 64** | *Masters of the Universe: The Ilearth Stone*<br>*(The Arcade Game)* | [Walkthrough, Mechanics & Box Transcript](docs/C64/MOTU_The_Ilearth_Stone/MOTU_The_Ilearth_Stone_Walkthrough.md) | Walkthrough | Platformer mechanics, jump trajectory scaling, elevator rotation dismount, HUD analysis, 6-ingredient Atom Smasher recipe, Spiked Ball avoidance, full castle walkthrough, European box transcript, Spectrum differences. | Jacob Quisenberry<br>`v1.00` (2013-11-19) | [View Guide](docs/C64/MOTU_The_Ilearth_Stone/MOTU_The_Ilearth_Stone_Walkthrough.md) |
 | **BBC Micro** | *Masters of the Universe in Terraquake*<br>*(Masters of the Universe Super Adventure)* | [Gameplay & Screen Reference](docs/BBC_Micro/MOTU_Terraquake/README.md) | Media Reference & Transcripts | Teletext Mode 7 colored text display, Castle Eternos secret sanctum transformation, Hexagon of Heliatron time-freeze victory ending, defeat state, and 4-character parser truncation rules. | Jacob Quisenberry<br>`v1.00` (2020-01-02) | [View Reference](docs/BBC_Micro/MOTU_Terraquake/README.md) |
 | **Commodore 64** | *Masters of the Universe: The Movie* | [Cheats, Cartography & Gameplay Reference](docs/C64/MOTU_The_Movie/README.md) | Media Archive & Reference | Verified unlimited-lives POKE cheats (`POKE 6266,234` etc.), C64 overhead city radar map, HUD architecture (SCORE, CHORD, LIVES, HEALTH, TIMER), and complete victory/defeat screen transcripts. | Jacob Quisenberry<br>`v1.00` (2013-10-11) | [View Reference](docs/C64/MOTU_The_Movie/README.md) |
 | **MSX** | *Masters of the Universe: The Movie* | [Media Archive & Gameplay Reference](docs/MSX/MOTU_The_Movie/README.md) | Media Archive & Reference | 1987 Gremlin Graphics MSX release; vertical compass HUD (compass rose, Power Sword gauge, Havoc Staff gauge, CHORD, TIMER), MSX Mode 2 screen archive, and verbatim victory/defeat transcripts. | jtquisenberry<br>`v1.00` (2026-10-27) | [View Reference](docs/MSX/MOTU_The_Movie/README.md) |
 | **ZX Spectrum** | *Masters of the Universe in Terraquake*<br>*(Masters of the Universe Super Adventure)* | [Illustrated Screen Reference](docs/ZX_Spectrum/MOTU_Terraquake/README.md) | Media Archive & Reference | Unique split-screen graphic illustrations (upper color artwork + He-Man/Skeletor standing sprites), Spectrum 48K/128K courtyard scene, victory ending, defeat state, and verbatim parser transcripts. | Jacob Quisenberry<br>`v1.00` (2026-10-27) | [View Reference](docs/ZX_Spectrum/MOTU_Terraquake/README.md) |
+| **ZX Spectrum** | *Masters of the Universe: The Ilearth Stone*<br>*(The Arcade Game)* | [Illustrated Screen Reference & Cheats](docs/ZX_Spectrum/MOTU_The_Ilearth_Stone/README.md) | Media Archive & Reference | Archival screen references (intro, playfield, combat, ending, failure), palette analysis, dedicated text victory sequence, *Your Sinclair* issue 32 POKEs, Hackers Anon memory cheats, 48K/128K loading. | Jacob Quisenberry<br>`v1.00` (2019-12-15) | [View Reference](docs/ZX_Spectrum/MOTU_The_Ilearth_Stone/README.md) |
+| **Handheld LCD** | *Masters of the Universe Electronic Game* | [Handheld LCD Walkthrough, Cartography & Hardware Archive](docs/Handheld_LCD/MOTU_Electronic_Game/MOTU_Electronic_Game_Walkthrough.md) | Strategy Guide | 1982/1983 Mattel Electronics handheld (model 4612-0340), earliest MOTU electronic video game, 100-room toroidal maze, compass rotation, 12 prison cells triangulation, Screeech relocation, Power Sword hurling, hardware & packaging transcripts. | Jacob Quisenberry<br>`v1.00` (2020-09-16) | [View Guide](docs/Handheld_LCD/MOTU_Electronic_Game/MOTU_Electronic_Game_Walkthrough.md) |
 | **ColecoVision** | *Masters of the Universe: The Power of He-Man* | [Unreleased Prototype Archive](docs/ColecoVision/MOTU_Power_of_He-Man/README.md) | Media Archive | 1983 unreleased Mattel prototype (catalog #7759): dealer catalog text, EPROM prototype board photos, TMS9918A title screen capture, CGE exhibition documentation, and gameplay mechanics description. | Jacob Quisenberry<br>`v1.00` (2026-10-27) | [View Archive](docs/ColecoVision/MOTU_Power_of_He-Man/README.md) |
 
 ---
@@ -68,6 +71,9 @@ Video-Game-Documents/
     ├── C64/                       # Platform: Commodore 64
     │   ├── MOTU_Terraquake/       # Game: Masters of the Universe in Terraquake
     │   │   └── MOTU_Terraquake_Walkthrough.md
+    │   ├── MOTU_The_Ilearth_Stone/ # Game: Masters of the Universe: The Ilearth Stone
+    │   │   ├── MOTU_The_Ilearth_Stone_Walkthrough.md
+    │   │   └── c64_ilearth_*.jpg
     │   └── MOTU_The_Movie/        # Game: Masters of the Universe: The Movie
     │       ├── README.md          # Cheats, city map & screen transcripts
     │       └── c64_motu_movie_*.png
@@ -81,14 +87,21 @@ Video-Game-Documents/
     ├── GBA/                       # Platform: Nintendo Game Boy Advance
     │   └── MOTU_Power_of_Grayskull/
     │       └── MOTU_Power_of_Grayskull_Moves_List.md
+    ├── Handheld_LCD/              # Platform: Dedicated Handheld LCD Electronic Games
+    │   └── MOTU_Electronic_Game/  # Game: Masters of the Universe Electronic Game (1982/1983)
+    │       ├── MOTU_Electronic_Game_Walkthrough.md
+    │       └── motu_lcd_*.jpg
     ├── MSX/                       # Platform: MSX home computers
     │   └── MOTU_The_Movie/        # Game: Masters of the Universe: The Movie
     │       ├── README.md          # Screen archive & HUD analysis
     │       └── msx_motu_movie_*.png
     └── ZX_Spectrum/               # Platform: Sinclair ZX Spectrum 48K/128K
-        └── MOTU_Terraquake/       # Game: Masters of the Universe in Terraquake
-            ├── README.md          # Split-screen illustration archive & transcripts
-            └── spectrum_terraquake_*.png
+        ├── MOTU_Terraquake/       # Game: Masters of the Universe in Terraquake
+        │   ├── README.md          # Split-screen illustration archive & transcripts
+        │   └── spectrum_terraquake_*.png
+        └── MOTU_The_Ilearth_Stone/ # Game: Masters of the Universe: The Ilearth Stone
+            ├── README.md          # Screen reference & POKE cheats
+            └── spectrum_motu_illearth_*.png
 ```
 
 ### Architectural Rationale
