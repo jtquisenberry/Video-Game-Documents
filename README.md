@@ -17,6 +17,14 @@ The table below indexes all authoritative documents, platforms, and media curren
 | **Amazon Luna** | *Masters of the Universe: Legends Unite* | [Solo He-Man Strategy Guide & Transcripts](docs/Amazon_Luna/MOTU_Legends_Unite/MOTU_Legends_Unite_He-Man_Solo_Strategy_Guide.md) | Strategy Guide & Transcripts | Endgame Biome 6 (Anti-Eternia), solo "ally" resolution, exact damage calculation formula `((Base + INSPIRATION) * EMPOWER) + (Extra * EMPOWER)`, absolute shield shatter mechanics, 1,784 burst combo, card/relic tables, save-scumming shop loops. | jtquisenberry<br>`v1.0` (2026-09-30) | [View Guide](docs/Amazon_Luna/MOTU_Legends_Unite/MOTU_Legends_Unite_He-Man_Solo_Strategy_Guide.md) |
 | **Nintendo DSi** | *Dekisugi Tincle Pack*<br>*(できすぎチンクルパック / Too Much Tingle Pack)* | [FAQ, Guide, and Menu Translation](docs/DSi/Dekisugi_Tincle/Dekisugi_Tincle_walkthrough.md) | Walkthrough & Translation | DSiWare release, Japanese-to-English menu translations, Tarot fortune-telling, Secretarial Calculator (bill-splitting algorithm), Tingle Dancer, Coin-flipping, ROM extraction via CrystalTile2 and Python 3 Shift-JIS decoding. | Jacob Quisenberry<br>`v1.01` (2026-09-30) | [View Guide](docs/DSi/Dekisugi_Tincle/Dekisugi_Tincle_walkthrough.md) |
 | **Game Boy Advance** | *Masters of the Universe – He-Man: Power of Grayskull* | [Moves List & Controls Guide](docs/GBA/MOTU_Power_of_Grayskull/MOTU_Power_of_Grayskull_Moves_List.md) | Moves List & Reference | 2002 TDK Mediactive release, isometric movement controls, simultaneous diagonal inputs, Power Sword attacks, running sprint with L shoulder, defensive parry with R shoulder. | Jacob Quisenberry<br>`v1.00` (2013-11-07) | [View Guide](docs/GBA/MOTU_Power_of_Grayskull/MOTU_Power_of_Grayskull_Moves_List.md) |
+| **Game Boy Advance** | *Tactics Ogre: The Knight of Lodis* | [A+ Ending Guide, Strategies & Cheat Code Reference](docs/GBA/Tactics_Ogre_KOL/Tactics_Ogre_Knight_of_Lodis_A_Plus_Guide.md) | Strategy Guide | Version 1.30: A+ ending requirements, GameShark/raw hexadecimal codes, low-effort playthrough, cheat-device instructions, ending transcript, and legitimate A+ strategies. | Jacob Quisenberry<br>`v1.30` (2004-08-07) | [View Guide](docs/GBA/Tactics_Ogre_KOL/Tactics_Ogre_Knight_of_Lodis_A_Plus_Guide.md) |
+| **Game Boy Advance** | *Tactics Ogre: The Knight of Lodis* | [Ending Requirements & Transcript Guide](docs/GBA/Tactics_Ogre_KOL/Tactics_Ogre_Knight_of_Lodis_Endings_Guide.md) | Strategy Guide | Version 1.20: ending conditions and transcript variations, post-ending behavior, tricks, credits, and guide history. | Jacob Quisenberry<br>`v1.20` (2004-08-01) | [View Guide](docs/GBA/Tactics_Ogre_KOL/Tactics_Ogre_Knight_of_Lodis_Endings_Guide.md) |
+| **Nintendo DS** | *Freshly-Picked Tingle's Rosy Rupeeland* | [Drifter Bodyguard Field Note](docs/DS/Tingle_Rupeeland/Tingle_Rupeeland_Drifter_Bodyguards.md) | Strategy Guide | Yamori and Ronny hiring-image references, save/reload encounter search method, Yamori's five static locations, and Teddy Todo's timed encounter; limited source note, not a full walkthrough. | Unknown (source note)<br>`v1.00` (2026-11-07) | [View Field Note](docs/DS/Tingle_Rupeeland/Tingle_Rupeeland_Drifter_Bodyguards.md) |
+| **Nintendo Game & Watch** | *The Legend of Zelda Game & Watch (ZL-65)* | [Media & Product Reference](docs/Game_and_Watch/Zelda/Zelda_Game_and_Watch_Media_Archive.md) | Media Archive | Nintendo dual-screen handheld, product ID ZL-65, UPC 035051010012, August 1989 source notes, and captioned upper/lower LCD photographs; distinguished from the Nelsonic wristwatch. | Unknown (source notes)<br>`v1.00` (2026-11-07) | [View Archive](docs/Game_and_Watch/Zelda/Zelda_Game_and_Watch_Media_Archive.md) |
+| **Nelsonic Game Watch** | *The Legend of Zelda 8321* | [Manual & Strategy Archive](docs/Game_and_Watch/Zelda/Zelda_Nelsonic_Game_Watch_Guide.md) | Walkthrough | Nelsonic 1989 wristwatch, complete FAQ/manual source text, button operations, game rules, scoring, enemy/weapon matchups, and an explicitly incomplete strategy section. | Jacob Quisenberry<br>`v1.00` (2019-02-05) | [View Archive](docs/Game_and_Watch/Zelda/Zelda_Nelsonic_Game_Watch_Guide.md) |
+| **Mobile** | *Might and Magic* | [Version 1.1.1 Puzzle Progress Note](docs/Mobile/Might_and_Magic/Might_and_Magic_Mobile_Puzzle_Note.md) | Strategy Guide | Circa-2004 mobile player question describing a wind-orb switch, spiked ball, ice pillar, locked gate, and reported character actions; no solution is present in the source. | Unknown (source note)<br>`v1.00` (2026-11-07) | [View Note](docs/Mobile/Might_and_Magic/Might_and_Magic_Mobile_Puzzle_Note.md) |
+| **PC / Windows, PlayStation 4, Xbox One** | *Toy Soldiers: War Chest* | [Bug Workarounds FAQ](docs/PC_Windows/Toy_Soldiers_War_Chest/Toy_Soldiers_War_Chest_Bug_Workarounds.md) | Strategy Guide | Version 1.01 troubleshooting FAQ for frozen menus, loss of already-owned DLC access, PC black screen, and unavailable trophy/achievement; not a unit-stat or hero-tactics guide. | Jacob Quisenberry<br>`v1.01` (2026-11-07) | [View FAQ](docs/PC_Windows/Toy_Soldiers_War_Chest/Toy_Soldiers_War_Chest_Bug_Workarounds.md) |
+| **Super Nintendo Entertainment System** | *Final Fantasy II / Final Fantasy IV* | [Spell Cycler & Magic Codes Reference](docs/SNES/Final_Fantasy_II/Final_Fantasy_II_Spell_Cycler_Code_Reference.md) | Strategy Guide | Version 1.0 SNES English FFII/Japanese FFIV reference for spell cyclers, character offsets, special abilities, code tables, spell-cell addresses, and current/max MP values. | Jacob Quisenberry<br>`v1.0` (2026-11-07 archive) | [View Reference](docs/SNES/Final_Fantasy_II/Final_Fantasy_II_Spell_Cycler_Code_Reference.md) |
 | **Atari 2600** | *Masters of the Universe: The Power of He-Man* | [Game Manual Transcription](docs/Atari2600/MOTU_Power_of_He-Man/MOTU_Power_of_He-Man_Manual.md) | Media Archive | Original Atari 2600 manual transcription covering the Wind Raider quest, Evil Warriors, ION Cannon, MUTRON bombs, Castle Grayskull, Skeletor battle, scoring, levels, and warranty. | Jacob Quisenberry<br>`v1.00` (2013-10-11) | [View Manual](docs/Atari2600/MOTU_Power_of_He-Man/MOTU_Power_of_He-Man_Manual.md) |
 | **Atari ST** | *Masters of the Universe: The Movie* | [Map & Route Walkthrough](docs/AtariST/MOTU_The_Movie/README.md) | Cartography & Route Guide | 1987 Gremlin Graphics release, 1024×720 city map, 8-waypoint legend, chord locations (chords 2, 3, 6, 7), Charlie's music store, Junkyard, verified fastest white-line speedrun route to Skeletor. | jtquisenberry<br>`v1.0` (2026-10-02) | [View Guide](docs/AtariST/MOTU_The_Movie/README.md) |
 | **Amstrad CPC** | *Masters of the Universe: The Movie* | [Media Archive & Game Notes](docs/AmstradCPC/MOTU_The_Movie/README.md) | Media Reference & Notes | European cassette box inlay transcription (KIXX / U.S. Gold release), Mode 0/1 Amstrad gameplay screenshot, HUD interface breakdown, cross-platform comparison with Atari ST version. | jtquisenberry<br>`v1.0` (2026-10-02) | [View Guide](docs/AmstradCPC/MOTU_The_Movie/README.md) |
@@ -39,6 +47,10 @@ The table below indexes all authoritative documents, platforms, and media curren
 | **Android / iOS** | *Masters of the Universe: Skeletor* | [Mobile Game Archive & Progression Reference](docs/Android/MOTU_Skeletor/README.md) | Media Archive | Ludia villain-perspective idle RPG; 4 screenshots: intro/title screen, level-end results, max Evil Battle Pass completion, Snake Mountain at maximum upgrade level; Snake Mountain hub documentation. | Jacob Quisenberry<br>`v1.00` (2026-11-05) | [View Archive](docs/Android/MOTU_Skeletor/README.md) |
 | **Android / iOS** | *He-Man: Tappers of Grayskull* | [Mobile Game Release Archive](docs/Android/He-Man_Tappers_of_Grayskull/README.md) | Media Archive | 2016 Animoca Brands idle tapper; simultaneous Android/iOS release (August 31, 2016); official Animoca press release and YouTube trailer references; idle-tapper genre context. | Jacob Quisenberry<br>`v1.00` (2026-11-05) | [View Archive](docs/Android/He-Man_Tappers_of_Grayskull/README.md) |
 | **Android / iOS** | *Masters of the Universe VR* / *View-Master Masters of the Universe VR* | [Mobile VR Game Archive](docs/Android/MOTU_VR/README.md) | Media Archive | 2016 Mattel View-Master VR experience; Android release Nov 1, iOS release Oct 31, 2016; Google Cardboard compatible; Google Play and App Store links; View-Master VR hardware context. | Jacob Quisenberry<br>`v1.00` (2026-11-05) | [View Archive](docs/Android/MOTU_VR/README.md) |
+| **Intellivision** | *Masters of the Universe: Super Masters* | [Intellivision Screen & Packaging Archive](docs/Intellivision/MOTU_Super_Masters/MOTU_Super_Masters_Media_Archive.md) | Media Archive | Title screen credits Ray Wastner and displays a 1982 Mattel copyright; two gameplay captures; four Intellivision Lives! cover reproductions with visible copy transcribed; release status not established by the available images. | Jacob Quisenberry<br>`v1.00` (2026-11-07) | [View Archive](docs/Intellivision/MOTU_Super_Masters/MOTU_Super_Masters_Media_Archive.md) |
+| **Dedicated Handheld / Epoch** | *Conveni Wars Barcode Battler II* | [Device Guide, Strategy & Zelda Card Reference](docs/Handheld/Barcode_Battler_II/Barcode_Battler_II_Guide.md) | Strategy Guide & Card Reference | Epoch's 1992 barcode-scanning LCD battle system; C0/C1/C2 modes, LCD/button reference, campaign strategy, magic and progression codes, custom barcodes, and Zelda: A Link to the Past hero/item/enemy card statistics. | Jacob Quisenberry<br>`v1.01` (2026-11-07) | [View Guide](docs/Handheld/Barcode_Battler_II/Barcode_Battler_II_Guide.md) |
+| **Mobile** | *Dragon Edge Pinball* | [Mobile Bonus Indicator Field Notes](docs/Mobile/Dragon_Edge_Pinball/Dragon_Edge_Pinball_Mechanics_Notes.md) | Strategy Guide | Preserves an unresolved question about CLR bonus indicators: two column-two dots, occasional activation during high-scoring games, a reported 100,000-point upper-dot award, and no verified trigger sequence. | Jacob Quisenberry<br>`v1.00` (2026-11-07) | [View Notes](docs/Mobile/Dragon_Edge_Pinball/Dragon_Edge_Pinball_Mechanics_Notes.md) |
+| **Handheld LCD** | *Dungeons & Dragons Computer Fantasy Game* | [LCD Screen & Coordinate Archive](docs/Handheld_LCD/Dungeons_and_Dragons/Dungeons_and_Dragons_LCD_Archive.md) | Media Archive | 1981 Mattel model 5409-0920; labeled Cursor/Attack/Move controls, three LCD state captures, and a transcription of the supplied blank A0–J9 coordinate worksheet; no completed maze map or route was in the source files. | Jacob Quisenberry<br>`v1.00` (2026-11-07) | [View Archive](docs/Handheld_LCD/Dungeons_and_Dragons/Dungeons_and_Dragons_LCD_Archive.md) |
 
 ---
 
@@ -113,20 +125,53 @@ Video-Game-Documents/
     ├── DSi/                       # Platform: Nintendo DSi / DSiWare
     │   └── Dekisugi_Tincle/       # Game: Dekisugi Tincle Pack (できすぎチンクルパック)
     │       └── Dekisugi_Tincle_walkthrough.md
+    ├── DS/                        # Platform: Nintendo DS
+    │   └── Tingle_Rupeeland/      # Game: Freshly-Picked Tingle's Rosy Rupeeland
+    │       └── Tingle_Rupeeland_Drifter_Bodyguards.md
     ├── GBA/                       # Platform: Nintendo Game Boy Advance
-    │   └── MOTU_Power_of_Grayskull/
-    │       └── MOTU_Power_of_Grayskull_Moves_List.md
+    │   ├── MOTU_Power_of_Grayskull/
+    │   │   └── MOTU_Power_of_Grayskull_Moves_List.md
+    │   └── Tactics_Ogre_KOL/      # Game: Tactics Ogre: The Knight of Lodis
+    │       ├── Tactics_Ogre_Knight_of_Lodis_A_Plus_Guide.md
+    │       └── Tactics_Ogre_Knight_of_Lodis_Endings_Guide.md
+    ├── Game_and_Watch/            # Platform: Nintendo Game & Watch and Nelsonic Game Watch
+    │   └── Zelda/                 # Distinct Nintendo dual-screen and Nelsonic wristwatch titles
+    │       ├── Zelda_Game_and_Watch_Media_Archive.md
+    │       ├── Zelda_Nelsonic_Game_Watch_Guide.md
+    │       └── assets/            # Captioned Game & Watch screen photographs
     ├── Handheld_LCD/              # Platform: Dedicated Handheld LCD Electronic Games
+    │   ├── Dungeons_and_Dragons/  # Game: Dungeons & Dragons Computer Fantasy Game (1981)
+    │   │   ├── Dungeons_and_Dragons_LCD_Archive.md
+    │   │   └── assets/            # Console and LCD screen captures
     │   └── MOTU_Electronic_Game/  # Game: Masters of the Universe Electronic Game (1982/1983)
     │       ├── MOTU_Electronic_Game_Walkthrough.md
     │       └── motu_lcd_*.jpg
+    ├── Handheld/                  # Platform: Dedicated handheld systems
+    │   └── Barcode_Battler_II/    # Game: Conveni Wars Barcode Battler II (Epoch)
+    │       ├── Barcode_Battler_II_Guide.md
+    │       └── assets/            # LCD interface display captures
+    ├── Intellivision/             # Platform: Mattel Intellivision
+    │   └── MOTU_Super_Masters/    # Game: Masters of the Universe: Super Masters
+    │       ├── MOTU_Super_Masters_Media_Archive.md
+    │       └── assets/            # Title/gameplay captures and Intellivision Lives! cover variants
     ├── MSX/                       # Platform: MSX home computers
     │   └── MOTU_The_Movie/        # Game: Masters of the Universe: The Movie
     │       ├── README.md          # Screen archive & HUD analysis
     │       └── msx_motu_movie_*.png
+    ├── Mobile/                    # Platform: Mobile games
+    │   ├── Dragon_Edge_Pinball/   # Game: Dragon Edge Pinball
+    │   │   └── Dragon_Edge_Pinball_Mechanics_Notes.md
+    │   └── Might_and_Magic/       # Game: Might and Magic (mobile source note)
+    │       └── Might_and_Magic_Mobile_Puzzle_Note.md
+    ├── PC_Windows/                # Platform: Microsoft Windows
+    │   └── Toy_Soldiers_War_Chest/
+    │       └── Toy_Soldiers_War_Chest_Bug_Workarounds.md
     ├── PS2/                       # Platform: Sony PlayStation 2
     │   └── MOTU_Defender_of_Grayskull/ # Game: Masters of the Universe: He-Man: Defender of Grayskull
     │       └── MOTU_Defender_of_Grayskull_Cheats.md
+    ├── SNES/                      # Platform: Super Nintendo Entertainment System
+    │   └── Final_Fantasy_II/      # Game: Final Fantasy II / Final Fantasy IV
+    │       └── Final_Fantasy_II_Spell_Cycler_Code_Reference.md
     ├── Web_Browser/               # Platform: Web Browser (Shockwave / Flash)
     │   ├── MOTU_Courage_of_Adam/  # Game: He-Man: The Courage of Adam (2003, Cartoon Network UK)
     │   │   └── README.md
