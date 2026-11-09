@@ -1,18 +1,18 @@
 ---
 title: "Masters of the Universe: Battle for Grayskull – Mobile Game Archive & Media Reference"
 game: "Masters of the Universe: Battle for Grayskull"
-platform: "Android"
+platform: "Android / iOS"
 alternate_titles:
   - "MOTU: Battle for Grayskull"
   - "Battle for Grayskull"
-developer: "Ludia"
-publisher: "Ludia / Mattel"
-release_year: 2021
+developer: "Twin Atlas"
+publisher: "Mattel Game Studios"
+release_year: 2026
 document_type: "Media Archive"
 author: "Jacob Quisenberry"
 version: "1.00"
 date: "2026-11-05"
-last_updated: "2026-11-05"
+last_updated: "2026-11-08"
 language: "en"
 tags:
   - masters-of-the-universe
@@ -20,31 +20,30 @@ tags:
   - battle-for-grayskull
   - android
   - mobile
-  - ludia
-  - mattel
-  - gacha
-  - idle-rpg
-  - castle-defense
+  - twin-atlas
+  - mattel-game-studios
+  - action-rpg
   - battle-pass
-summary: "Media archive and gameplay reference for Masters of the Universe: Battle for Grayskull, a 2021 Android/iOS mobile idle RPG and castle-defense gacha game by Ludia and Mattel. Documents app store product screenshots, in-game progression captures, and skill tree states at maximum level."
+summary: "Media archive and gameplay reference for Masters of the Universe: Battle for Grayskull, an Android/iOS action RPG developed by Twin Atlas and published by Mattel Game Studios, released October 6, 2026. Its visual style is based on the 2026 Masters of the Universe movie; the archive documents product screenshots, gameplay, and progression states."
 ---
 
 # Masters of the Universe: Battle for Grayskull
 
-> **Platform:** Android / iOS  
-> **Developer:** Ludia  
-> **Publisher:** Ludia / Mattel  
-> **Release Year:** 2021  
-> **Genre:** Idle RPG / Castle Defense / Gacha  
+> **Platform:** Android / iOS
+> **Developer:** Twin Atlas
+> **Publisher:** Mattel Game Studios
+> **Release Date:** October 6, 2026
+> **Genre:** Action RPG
+> **Visual Style:** Based on the 2026 *Masters of the Universe* movie
 > **Author:** Jacob Quisenberry — Version 1.00 (2026-11-05)
 
 ---
 
 ## Overview
 
-*Masters of the Universe: Battle for Grayskull* is a mobile idle RPG and castle-defense game developed by Ludia in collaboration with Mattel, released on Android and iOS in 2021. The game draws on the **2021 Netflix animated series** reboot (*Masters of the Universe: Revelation* and *Masters of the Universe: New Eternia*), featuring characters in their updated visual designs.
+*Masters of the Universe: Battle for Grayskull* is an action RPG developed by Twin Atlas and published by Mattel Game Studios. It was released for Android and iOS on October 6, 2026. Its visual style is based on the 2026 *Masters of the Universe* movie.
 
-Players collect heroes and villains from the Masters of the Universe universe, build squads, and deploy them in automated battle sequences to defend or siege Castle Grayskull. The game features a **Battle Pass** seasonal progression system, character-specific **skill trees** split between Heroic and Evil factions, and deep character-upgrade mechanics.
+The archive documents character and combat screens, Castle Grayskull encounters, a seasonal **Battle Pass**, character-specific **skill trees** split between Heroic and Evil factions, and character progression.
 
 ---
 
@@ -53,13 +52,12 @@ Players collect heroes and villains from the Masters of the Universe universe, b
 | Field | Detail |
 |---|---|
 | **Full Title** | Masters of the Universe: Battle for Grayskull |
-| **Developer** | Ludia |
-| **Publisher** | Ludia / Mattel |
+| **Developer** | Twin Atlas |
+| **Publisher** | Mattel Game Studios |
 | **Platform** | Android, iOS |
-| **Release Year** | 2021 |
-| **Genre** | Idle RPG / Castle Defense / Gacha |
-| **Setting** | Eternia — drawing on 2021 Netflix series visual style |
-| **Monetization** | Free-to-play with Battle Pass and in-app purchases |
+| **Release Date** | October 6, 2026 |
+| **Genre** | Action RPG |
+| **Visual Style** | Based on the 2026 *Masters of the Universe* movie |
 
 ---
 
@@ -73,17 +71,17 @@ The following screenshots were captured during active gameplay and document key 
 
 #### Product Screenshot 1 — Character Roster Banner
 
-![Masters of the Universe: Battle for Grayskull — App store banner showing the main character roster featuring He-Man, Skeletor, Teela, Evil-Lyn, and other characters in the 2021 Netflix animated style against Castle Grayskull backdrop](motu-battle-for-grayskull-banner.png)
+![Masters of the Universe: Battle for Grayskull — App store banner showing the main character roster featuring He-Man, Skeletor, Teela, Evil-Lyn, and other characters in a visual style based on the 2026 Masters of the Universe movie, against a Castle Grayskull backdrop](motu-battle-for-grayskull-banner.png)
 
-**Caption:** Official app store banner for *Battle for Grayskull*. The image displays the principal character roster in the 2021 Netflix animated-series visual style: He-Man in blue-and-gold armor (center), flanked by Teela in red combat gear (left), and Skeletor (right). Castle Grayskull appears prominently in the background. The game title appears in stylized Masters of the Universe franchise lettering.
+**Caption:** Official app store banner for *Battle for Grayskull*. The image displays the principal character roster in a visual style based on the 2026 *Masters of the Universe* movie: He-Man in blue-and-gold armor (center), flanked by Teela in red combat gear (left), and Skeletor (right). Castle Grayskull appears prominently in the background. The game title appears in stylized Masters of the Universe franchise lettering.
 
 ---
 
 #### Product Screenshot 2 — Store Listing Image 1
 
-![Masters of the Universe: Battle for Grayskull — App store product image 1 showing idle gameplay combat sequence with character abilities](motu-battle-for-grayskull-product-1.png)
+![Masters of the Universe: Battle for Grayskull — App store product image 1 showing an action combat sequence with character abilities](motu-battle-for-grayskull-product-1.png)
 
-**Caption:** App store product image 1. Depicts an idle combat sequence showing multiple characters deployed against an enemy wave. Character ability indicators and health bars are visible. The interface shows the castle-defense lane structure central to gameplay.
+**Caption:** App store product image 1. Depicts an action combat sequence with multiple characters facing an enemy wave. Character ability indicators and health bars are visible.
 
 ---
 
@@ -91,7 +89,7 @@ The following screenshots were captured during active gameplay and document key 
 
 ![Masters of the Universe: Battle for Grayskull — App store product image 2 showing the squad-building and character collection interface](motu-battle-for-grayskull-product-2.png)
 
-**Caption:** App store product image 2. Shows the squad-building roster interface where players select which characters to deploy. Character cards with rarity indicators, power ratings, and portrait artwork are visible. The UI reflects the game's gacha-style character-collection system.
+**Caption:** App store product image 2. Shows the character roster interface. Character cards with rarity indicators, power ratings, and portrait artwork are visible.
 
 ---
 
@@ -109,7 +107,7 @@ The following screenshots were captured during active gameplay and document key 
 
 ![Masters of the Universe: Battle for Grayskull — In-game screenshot showing the core gameplay loop during an active battle stage with heroes and enemies engaged](motu-battle-for-grayskull-gameplay-loop.jpg)
 
-**Caption:** Screenshot of the core **gameplay loop** during an active battle. The screen shows the lane-based castle-defense structure: heroic characters advance from the left side of the screen toward enemy forces on the right. Ability cooldown timers, HP bars, and stage progress indicators are visible at screen margins. The idle-combat nature of the game is evident from the automatic character movement and attack animations.
+**Caption:** Screenshot of active action-RPG combat. The screen shows heroic characters engaging enemy forces, with ability indicators, HP bars, and stage progress information visible at the edges of the display.
 
 ---
 
@@ -117,15 +115,15 @@ The following screenshots were captured during active gameplay and document key 
 
 ![Masters of the Universe: Battle for Grayskull — In-game screenshot showing Castle Grayskull being defended against an enemy assault wave](motu-battle-for-grayskull-holding-castle.jpg)
 
-**Caption:** Screenshot showing the **castle-holding defense state**. Enemy forces (Skeletor's army) are attacking Castle Grayskull from the right side of the screen while heroic defenders hold the left. The castle structure is partially visible at the left edge. This capture illustrates the core tension of the castle-defense genre: preventing enemy units from breaching the castle gate.
+**Caption:** Screenshot showing a Castle Grayskull encounter. Enemy forces associated with Skeletor approach while heroic characters hold their position; the castle structure is partially visible at the left edge.
 
 ---
 
-#### Level 150 — High-Level Progression State
+#### Level 150 — Maximum Character Level
 
-![Masters of the Universe: Battle for Grayskull — Screenshot showing player or character at level 150, documenting maximum progression state with stat values](motu-battle-for-grayskull-level-150.png)
+![Masters of the Universe: Battle for Grayskull — Screenshot showing a character at the maximum level of 150 with progression and stat values](motu-battle-for-grayskull-level-150.png)
 
-**Caption:** Screenshot documenting a **Level 150 progression state**, one of the highest character or account levels visible in this archive. This capture serves as a reference for end-game stat scaling and UI presentation at maximum progression. Level indicators, cumulative power ratings, and unlocked content are visible.
+**Caption:** Screenshot documenting a character at **Level 150, the maximum character level**. Characters cannot level beyond 150: filling the experience gauge again at Level 150 does not increase the level. This capture records the level indicator, progression display, and visible stat values at the cap.
 
 ---
 
@@ -157,15 +155,16 @@ The following screenshots were captured during active gameplay and document key 
 
 | System | Description |
 |---|---|
-| **Core Loop** | Idle/automated lane-based combat; deploy characters, they fight automatically |
-| **Castle Defense** | Defend Castle Grayskull from enemy waves; also siege enemy positions |
-| **Character Collection** | Gacha-style character acquisition across Heroic and Evil factions |
+| **Genre** | Action RPG |
+| **Combat** | Action combat and character abilities, as represented in the archived gameplay captures |
+| **Characters** | Heroic and Evil faction rosters, with character detail and progression screens |
+| **Castle Encounters** | Captures include combat around Castle Grayskull |
 | **Skill Trees** | Separate Heroic and Evil faction trees with passive stat upgrades |
 | **Battle Pass** | Seasonal tier-based progression rewarding currency, characters, and upgrades |
-| **Character Levels** | Per-character upgrade system affecting base stats and ability power |
-| **Progression Depth** | Documents suggest Level 150+ achievable with extended play |
+| **Character Levels** | Per-character progression; the maximum character level is 150 |
+| **Level Cap Behavior** | At Level 150, further experience-gauge fill does not raise the character above level 150 |
+| **Progression Depth** | Level 150 is the confirmed cap; levels above 150 are not attainable |
 
 ---
 
-*Document authored by Jacob Quisenberry. Version 1.00 — 2026-11-05.*
-
+*Document authored by Jacob Quisenberry. Version 1.00 — 2026-11-05. Metadata corrected 2026-11-08.*
