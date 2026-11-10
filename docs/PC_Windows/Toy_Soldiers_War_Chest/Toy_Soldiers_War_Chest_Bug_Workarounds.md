@@ -7,6 +7,7 @@ alternate_titles:
 developer: "Signal Studios"
 publisher: "Ubisoft"
 release_year: 2015
+release_date: "2015-08-12"
 document_type: "Strategy Guide"
 author: "Jacob Quisenberry"
 version: "1.01"
@@ -27,6 +28,8 @@ summary: "Markdown conversion of Jacob Quisenberry's version 1.01 troubleshootin
 # Toy Soldiers: War Chest Bug Workarounds & Screenshot Archive
 
 This archive converts the supplied version 1.01 FAQ into structured Markdown and includes five captioned screenshots. The FAQ describes historical, user-reported workarounds for PC, PlayStation 4, and Xbox One versions. These reports have not been independently retested against current game, platform, or system software.
+
+**Game release date:** August 12, 2015.
 
 > **Caution:** Several reports involve changing the system date, disconnecting from the internet, or modifying game files. Such steps can affect other applications, saves, online features, or installation integrity. Back up saves and files first, and use only with a game copy and content you are authorized to access. The DLC notes concern restoring access to content previously purchased or redeemed.
 
