@@ -5,14 +5,14 @@ platform: "Android"
 alternate_titles:
   - "Masters of the Universe: He-Man Combat Simulator"
   - "He-Man Combat Simulator"
-developer: "Ludia"
-publisher: "Ludia / Mattel"
+developer: "Gamefam"
+publisher: "Mattel Inc."
 release_year: 2021
 document_type: "Media Archive"
 author: "Jacob Quisenberry"
 version: "1.00"
 date: "2026-11-05"
-last_updated: "2026-11-05"
+last_updated: "2026-11-09"
 language: "en"
 tags:
   - masters-of-the-universe
@@ -20,7 +20,7 @@ tags:
   - combat-simulator
   - android
   - mobile
-  - ludia
+  - gamefam
   - mattel
   - fighting
   - combat
@@ -31,8 +31,8 @@ summary: "Media archive and gameplay reference for He-Man: Combat Simulator, a m
 # He-Man: Combat Simulator
 
 > **Platform:** Android / iOS  
-> **Developer:** Ludia  
-> **Publisher:** Ludia / Mattel  
+> **Developer:** Gamefam
+> **Publisher:** Mattel Inc.
 > **Genre:** Combat Simulator / Fighting  
 > **Author:** Jacob Quisenberry — Version 1.00 (2026-11-05)
 
@@ -40,7 +40,7 @@ summary: "Media archive and gameplay reference for He-Man: Combat Simulator, a m
 
 ## Overview
 
-*He-Man: Combat Simulator* (also known as *Masters of the Universe: He-Man Combat Simulator*) is a mobile combat and fighting game developed by Ludia for Android and iOS. The game presents turn-based or action-based combat encounters using characters from the Masters of the Universe universe, featuring upgradeable fighters with distinct ability sets and level-based progression.
+*He-Man: Combat Simulator* (also known as *Masters of the Universe: He-Man Combat Simulator*) is a mobile combat and fighting game developed by Gamefam and published by Mattel Inc. for Android and iOS. The game presents turn-based or action-based combat encounters using characters from the Masters of the Universe universe, featuring upgradeable fighters with distinct ability sets and level-based progression.
 
 The character roster includes iconic MOTU figures from multiple eras of the franchise. The **Sorceress of Castle Grayskull** is documented at maximum level in this archive, illustrating the game's character upgrade ceiling and stat presentation.
 
@@ -51,8 +51,8 @@ The character roster includes iconic MOTU figures from multiple eras of the fran
 | Field | Detail |
 |---|---|
 | **Full Title** | He-Man: Combat Simulator |
-| **Developer** | Ludia |
-| **Publisher** | Ludia / Mattel |
+| **Developer** | Gamefam |
+| **Publisher** | Mattel Inc. |
 | **Platform** | Android, iOS |
 | **Genre** | Combat Simulator / Fighting |
 | **Setting** | Eternia — Masters of the Universe universe |
@@ -143,4 +143,3 @@ The character roster includes iconic MOTU figures from multiple eras of the fran
 ---
 
 *Document authored by Jacob Quisenberry. Version 1.00 — 2026-11-05.*
-

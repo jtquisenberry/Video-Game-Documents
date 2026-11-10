@@ -8,12 +8,13 @@ alternate_titles:
   - "Intellivision Lives!"
 developer: "Mattel Electronics"
 publisher: "Mattel Electronics"
-release_year: 1982
+release_year: 1998
+release_date: "1998-12-18"
 document_type: "Media Archive"
 author: "Jacob Quisenberry"
 version: "1.00"
 date: "2026-11-07"
-last_updated: "2026-11-07"
+last_updated: "2026-11-09"
 language: "en"
 tags:
   - masters-of-the-universe
@@ -23,12 +24,12 @@ tags:
   - mattel-electronics
   - prototype
   - media-archive
-summary: "Visual archive of the Intellivision Super Masters title and gameplay screens alongside packaging art for the Intellivision Lives! collection. Captions transcribe visible cover text and describe the title screen and two platform-gameplay captures; the available images do not establish whether Super Masters was a released product."
+summary: "Visual archive of the Intellivision Super Masters title and gameplay screens alongside packaging art for the Intellivision Lives! collection. Super Masters was released on December 18, 1998; the title screen credits Ray Wastner and displays a 1982 Mattel copyright."
 ---
 
 # Masters of the Universe: Super Masters – Intellivision Screen & Packaging Archive
 
-This media archive preserves three gameplay/title-screen captures associated with *Super Masters* and four cover-art images for the *Intellivision Lives!* collection. The title screen credits Ray Wastner and displays a 1982 Mattel copyright. The available captures document the visible title and gameplay only; they do not establish the game's release status or provide a complete manual or walkthrough.
+This media archive preserves three gameplay/title-screen captures associated with *Super Masters* and four cover-art images for the *Intellivision Lives!* collection. *Super Masters* was released on December 18, 1998. Its title screen credits Ray Wastner and displays a 1982 Mattel copyright. The available captures document the visible title and gameplay only; they do not provide a complete manual or walkthrough.
 
 ## Title Screen
 
@@ -70,5 +71,6 @@ The four cover images below are alternate-size or alternate-quality reproduction
 
 - The title-screen capture attributes *Super Masters* to Ray Wastner and shows “COPY © 1982 MATTEL.”
 - The cover artwork advertises *Intellivision Lives!* for play on PC or Mac and claims “OVER 50 CLASSIC GAMES!”
-- The supplied visual material does not identify a release date or establish whether *Super Masters* was released, completed, or included in a particular edition of *Intellivision Lives!*.
+- *Super Masters* was released on December 18, 1998; the title-screen copyright separately reads “COPY © 1982 MATTEL.”
+- The supplied visual material does not establish whether *Super Masters* was completed or included in a particular edition of *Intellivision Lives!*.
 - Cover images are preserved as archival references. Their visible artwork is described here; no claim of ownership is made.
