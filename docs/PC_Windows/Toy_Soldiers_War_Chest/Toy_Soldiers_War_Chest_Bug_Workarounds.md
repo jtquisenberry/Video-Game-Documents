@@ -22,7 +22,7 @@ tags:
   - xbox-one
   - screenshot-archive
   - preservation
-summary: "The current version 1.02 troubleshooting FAQ for Toy Soldiers: War Chest, covering reports about frozen menus, previously acquired DLC becoming unavailable, PC black screens, and an unobtainable challenge achievement. Five captioned gameplay and menu screenshots document the game interface and campaign."
+summary: "The current version 1.02 troubleshooting FAQ for Toy Soldiers: War Chest, covering reports about frozen menus, previously acquired DLC becoming unavailable, PC black screens, and an unobtainable trophy/achievement achievement. Five captioned gameplay and menu screenshots document the game interface and campaign."
 ---
 
 # Toy Soldiers: War Chest Bug Workarounds FAQ & Screenshot Archive
@@ -40,20 +40,19 @@ This is the current version 1.02 troubleshooting FAQ for *Toy Soldiers: War Ches
   - [PlayStation 4](#main-menu-playstation-4)
   - [Xbox One](#main-menu-xbox-one)
 - [Previously acquired DLC unavailable](#previously-acquired-dlc-unavailable)
-  - [PC: development-console workaround](#pc-development-console-workaround)
-  - [PlayStation 4: previously redeemed DLC](#playstation-4-previously-redeemed-dlc)
+  - [PC](#pc-development-console-workaround)
+  - [PlayStation 4](#playstation-4-previously-redeemed-dlc)
 - [Black Screen](#black-screen)
   - [PC](#black-screen-pc)
 - [Challenger trophy / achievement](#challenger-trophy-achievement)
   - [PlayStation 4: No Solution](#challenger-playstation-4)
-  - [Xbox One](#challenger-xbox-one)
+  - [Xbox One: No Solution](#challenger-xbox-one)
 - [Screenshot archive](#screenshot-archive)
   - [Title screen](#screenshot-title-screen)
   - [Hero selection and completion status](#screenshot-hero-selection)
   - [Campaign map](#screenshot-campaign-map)
   - [Gameplay HUD](#screenshot-gameplay-hud)
   - [End screen](#screenshot-end-screen)
-- [Archive note](#archive-note)
 
 These are archival reports, not guarantees that the steps work today.
 
@@ -73,15 +72,12 @@ Alternatively, set the Windows date manually:
 
 1. Disable the option to set the date and time from the network.
 
-```
-Change the date and time -> Set time automatically = Off
-```
+    **Change the date and time -> Set time automatically = Off**
 
 2. Set the date and time.
 
-```
-Change the date and time -> Set the date and time manually
-```
+    **Change the date and time -> Set the date and time manually**
+
 
 <a id="main-menu-playstation-4"></a>
 
@@ -99,23 +95,17 @@ Users who have encountered the issue have worked around it by setting the system
 
 1. Disconnect from the Internet.
 
-```
-Settings -> General -> Network Settings -> Go Offline
-```
+    **Settings -> General -> Network Settings -> Go Offline**
 
 2. Restart the console.
 3. Change the date to January 1, 2015.
 
-```
-Settings -> System -> Time -> Date
-```
+    **Settings -> System -> Time -> Date**
 
 4. Load the game.
 5. Connect to the Internet.
 
-```
-Settings -> General -> Network Settings -> Go Offline
-```
+    **Settings -> General -> Network Settings -> Go Offline**
 
 Reference: [Ubisoft forum post](https://forums.ubisoft.com/showthread.php/1885710-Menu-Screen-Frozen?p=14845763&viewfull=1#post14845763).
 
@@ -265,9 +255,3 @@ The following captures are from the supplied image collection. Captions describe
 ![Toy Soldiers: War Chest end screen reading "Thank you for playing!" with a message about another army's campaign, multiplayer, and more.](assets/Toy_Soldiers_WC_end001.jpg)
 
 **Caption:** A white end screen displays **“Thank you for playing!”** followed by **“There's lots more to do!”** and the invitation to battle through another army's campaign or challenge friends in multiplayer. A *Toy Soldiers* emblem appears near the bottom, with an **A Skip** prompt at lower right.
-
-## Archive note
-
-<a id="archive-note"></a>
-
-- Personal order/shipping information and a redeem-code image are excluded from this public archive.
