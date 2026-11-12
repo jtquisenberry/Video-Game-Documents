@@ -1,5 +1,5 @@
 ---
-title: "Toy Soldiers: War Chest Bug Workarounds & Screenshot Archive"
+title: "Toy Soldiers: War Chest Bug Workarounds FAQ & Screenshot Archive"
 game: "Toy Soldiers: War Chest"
 platform: "PC (Windows), PlayStation 4, Xbox One"
 alternate_titles:
@@ -10,9 +10,9 @@ release_year: 2015
 release_date: "2015-08-12"
 document_type: "Strategy Guide"
 author: "Jacob Quisenberry"
-version: "1.01"
+version: "1.02"
 date: "2026-11-07"
-last_updated: "2026-11-08"
+last_updated: "2026-11-12"
 language: "en"
 tags:
   - toy-soldiers-war-chest
@@ -22,103 +22,213 @@ tags:
   - xbox-one
   - screenshot-archive
   - preservation
-summary: "Markdown conversion of Jacob Quisenberry's version 1.01 troubleshooting FAQ for Toy Soldiers: War Chest, covering historical reports about frozen menus, previously acquired DLC becoming unavailable, PC black screens, and an unobtainable challenge achievement. Five captioned gameplay and menu screenshots document the game interface and campaign."
+summary: "The current version 1.02 troubleshooting FAQ for Toy Soldiers: War Chest, covering reports about frozen menus, previously acquired DLC becoming unavailable, PC black screens, and an unobtainable challenge achievement. Five captioned gameplay and menu screenshots document the game interface and campaign."
 ---
 
-# Toy Soldiers: War Chest Bug Workarounds & Screenshot Archive
+# Toy Soldiers: War Chest Bug Workarounds FAQ & Screenshot Archive
 
-This archive converts the supplied version 1.01 FAQ into structured Markdown and includes five captioned screenshots. The FAQ describes historical, user-reported workarounds for PC, PlayStation 4, and Xbox One versions. These reports have not been independently retested against current game, platform, or system software.
+This is the current version 1.02 troubleshooting FAQ for *Toy Soldiers: War Chest*. It covers reports about frozen menus, previously acquired DLC becoming unavailable, PC black screens, and an unobtainable challenge achievement. Five captioned gameplay and menu screenshots document the game interface and campaign.
 
 **Game release date:** August 12, 2015.
 
 > **Caution:** Several reports involve changing the system date, disconnecting from the internet, or modifying game files. Such steps can affect other applications, saves, online features, or installation integrity. Back up saves and files first, and use only with a game copy and content you are authorized to access. The DLC notes concern restoring access to content previously purchased or redeemed.
 
-## At-a-glance issue index
+## Table of contents
 
-| Issue | Platform | Source-reported status |
-|---|---|---|
-| Main menu does not accept selections | PC | Run with a date before October 1, 2015; the source recommends a date-virtualization utility. |
-| Main menu does not accept selections | PlayStation 4 | The author did not observe the issue on update 1.02; users reportedly tried August 1, 2015 while disconnected. |
-| Main menu does not accept selections | Xbox One | Users reportedly tried January 1, 2015 while offline. |
-| Previously acquired character DLC unavailable | PC | The source describes a development-console workaround; details are preserved below with a warning. |
-| Previously acquired character DLC unavailable | PlayStation 4 | Users who had redeemed the DLC reportedly tried August 30, 2015 while disconnected; content never redeemed may not be recoverable. |
-| Solid black display | PC | The FAQ reports a two-instance launch workaround to get a windowed game. |
-| Challenger trophy / achievement | PlayStation 4, Xbox One | The author reports no solution; the GI Joe Survival challenges could not be completed. |
+- [Main Menu Frozen](#main-menu-frozen)
+  - [PC](#main-menu-pc)
+  - [PlayStation 4](#main-menu-playstation-4)
+  - [Xbox One](#main-menu-xbox-one)
+- [Previously acquired DLC unavailable](#previously-acquired-dlc-unavailable)
+  - [PC: development-console workaround](#pc-development-console-workaround)
+  - [PlayStation 4: previously redeemed DLC](#playstation-4-previously-redeemed-dlc)
+- [Black Screen](#black-screen)
+  - [PC](#black-screen-pc)
+- [Challenger trophy / achievement](#challenger-trophy-achievement)
+  - [PlayStation 4: No Solution](#challenger-playstation-4)
+  - [Xbox One](#challenger-xbox-one)
+- [Screenshot archive](#screenshot-archive)
+  - [Title screen](#screenshot-title-screen)
+  - [Hero selection and completion status](#screenshot-hero-selection)
+  - [Campaign map](#screenshot-campaign-map)
+  - [Gameplay HUD](#screenshot-gameplay-hud)
+  - [End screen](#screenshot-end-screen)
+- [Archive note](#archive-note)
 
 These are archival reports, not guarantees that the steps work today.
 
-## Main menu frozen
+<a id="main-menu-frozen"></a>
 
-The original FAQ reports that a game update around October 2015 could leave the main menu unresponsive, limiting play to the tutorial.
+## Main Menu Frozen
+
+The frozen main menu prevents players from making selections, so only the tutorial mission is playable.
+
+<a id="main-menu-pc"></a>
 
 ### PC
 
-The author reports success when the game sees a date before October 1, 2015; August 2, 2015 at midnight was the tested date. The FAQ recommends using [RunAsDate by NirSoft](https://www.nirsoft.net/utils/run_as_date.html) rather than changing the computer's system clock, because changing the clock may affect other applications.
+The menu responds when the game sees a system date before October 1, 2015. This date has been tested to work: August 2, 2015 12:00:00 AM. Changing the system clock can cause issues with other applications. To avoid these issues, use [RunAsDate by NirSoft](https://www.nirsoft.net/utils/run_as_date.html) rather than changing the computer's system clock
 
-The source also gives these Windows date-setting directions as an alternative:
+Alternatively, set the Windows date manually:
 
-1. Turn off automatic network time in **Change the date and time**.
-2. Set the date and time manually to a date before October 1, 2015.
+1. Disable the option to set the date and time from the network.
+
+```
+Change the date and time -> Set time automatically = Off
+```
+
+2. Set the date and time.
+
+```
+Change the date and time -> Set the date and time manually
+```
+
+<a id="main-menu-playstation-4"></a>
 
 ### PlayStation 4
 
-The author says the problem was not observed on update version 1.02. For users who still encountered it, the FAQ reports a workaround of disconnecting the console from the internet and setting its clock to August 1, 2015.
+The author did not observe the problem on update version 1.02. Users who encounter the issue have worked around it by setting the PS4 clock to August 1, 2015. The PS4 must be disconnected from the internet, either physically or through system settings.
 
 Reference: [Amazon customer report](https://www.amazon.com/gp/customer-reviews/R9H5AKSFLDNHH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B00YO2PRPS).
 
+<a id="main-menu-xbox-one"></a>
+
 ### Xbox One
 
-The FAQ reports that users tried setting the console date to January 1, 2015:
+Users who have encountered the issue have worked around it by setting the system clock to January 1, 2015.
 
-1. Go offline through **Settings → General → Network Settings → Go Offline**.
+1. Disconnect from the Internet.
+
+```
+Settings -> General -> Network Settings -> Go Offline
+```
+
 2. Restart the console.
-3. Set the date through **Settings → System → Time → Date**.
+3. Change the date to January 1, 2015.
+
+```
+Settings -> System -> Time -> Date
+```
+
 4. Load the game.
-5. The source's final step again says **Go Offline**. This appears inconsistent with the preceding offline instruction; the intended network state is unclear from the source, so no correction is assumed here.
+5. Connect to the Internet.
 
-Reference: [Ubisoft forum discussion](https://forums.ubisoft.com/showthread.php/1885710-Menu-Screen-Frozen).
+```
+Settings -> General -> Network Settings -> Go Offline
+```
 
-The source also says deleting saved options (not the saved game) may help. Back up data before deleting anything. A second [Ubisoft forum post](https://forums.ubisoft.com/showthread.php/1885710-Menu-Screen-Frozen) is cited for this report.
+Reference: [Ubisoft forum post](https://forums.ubisoft.com/showthread.php/1885710-Menu-Screen-Frozen?p=14845763&viewfull=1#post14845763).
+
+It may also be necessary to delete the game's saved options (not the saved
+game). When deleting anything, it is best to back it up to USB first.
+
+Reference: [Ubisoft forum post](https://forums.ubisoft.com/showthread.php/1885710-Menu-Screen-Frozen?p=13625667&viewfull=1#post13625667).
+
+<a id="previously-acquired-dlc-unavailable"></a>
 
 ## Previously acquired DLC unavailable
 
-The FAQ describes four character packs included with the Hall of Fame edition and reports that DLC previously purchased or redeemed could later become unavailable, possibly because of a server-side issue.
+DLC is available in the Hall of Fame edition of the game. It consists of four
+character packs. Users who have purchased the DLC or redeemed it with a code may lose access to the DLC. It appears that this is a server-side issue.
 
-### PC: development-console report
+<a id="pc-development-console-workaround"></a>
 
-The source describes using a development build and console to set a `Heroes` option called `UnlockAll` to `true`. It reports that some installations used `GameD.exe`, while others used `GameP.exe`, and that the setting had to be applied again on each launch. The author says the last character used remained available afterward.
+### PC: development-console workaround
 
-This is transcribed as a historical report, not a recommendation to bypass licensing or obtain content without a valid entitlement. Altering executable files can break an installation; preserve backups and use only with content you already own.
+For DLC you have already purchased or redeemed, the reported workaround replaces the main executable with a development build and enables the `UnlockAll` option:
+
+The game includes a development console.
+1. Rename the game's main executable `Game.exe` to `Game.exe.bak`
+2. Copy and rename `GameD.exe` to `Game.exe`. Some users report that they have to use `GameP.exe`, instead.
+3. Run `Game.exe`.
+4. Advance to the main menu.
+5. On the gamepad, click both the left and right analog sticks. The development console will open.
+6. Scroll to **Heroes**.
+7. Select it and change the **UnlockAll** option from `false` to `true`.
+8. Close the development console.
+
+Steps 3-8 must be performed each time the game is played. The option is not
+saved. However, the last character used will continue to be available without
+repeating the steps.
+
+This workaround is a historical report, not a recommendation to bypass licensing or obtain content without a valid entitlement. Altering executable files can break an installation; preserve backups and use only with content you already own.
+
+<a id="playstation-4-previously-redeemed-dlc"></a>
 
 ### PlayStation 4: previously redeemed DLC
 
-For players who had successfully redeemed the DLC, the FAQ says some users reported it becoming available after disconnecting the console and setting the date to August 30, 2015. The same [Amazon customer report](https://www.amazon.com/gp/customer-reviews/R9H5AKSFLDNHH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B00YO2PRPS) is cited.
+If the user did not redeem the DLC at a time when the online store was
+available, it may never be possible to play with the DLC. It seems unlikely that Signal Studios or Ubisoft will fix the store.
 
-The author cautions that DLC never redeemed while the store was available may not be recoverable.
+If the user did redeem the DLC successfully, then some players report that the
+DLC becomes available after setting the system date to August 30, 2015. It is
+necessary to disconnect the PS4 from Internet, either physically or through
+system settings.
 
-## PC black screen
+Reference: [Amazon customer report](https://www.amazon.com/gp/customer-reviews/R9H5AKSFLDNHH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B00YO2PRPS).
 
-The FAQ reports that the PC version could show a solid black screen in full-screen mode because of display issues. Its workaround attempts to leave one game instance running in a window:
+<a id="black-screen"></a>
 
-1. Set the display resolution to **1366 × 768**, which the source says leaves room for the **1280 × 720** game area and window chrome.
-2. Start the game and wait for the black screen.
-3. Start a second instance of the game. The FAQ reports that this instance opens in a window. On a single-monitor setup, use **Alt + Tab** to return to the desktop if needed.
-4. Close the first instance; the source says the remaining instance should continue in windowed mode.
+## Black Screen
+
+<a id="black-screen-pc"></a>
+
+### PC
+
+The PC version may show a solid black screen in full-screen mode because of display issues. **Alt + Enter does not switch the game to windowed mode.** This workaround attempts to leave one game instance running in a window:
+
+1. Set the monitor resolution to **1366 × 768**.
+
+    This will provide enough screen space to accommodate the **1280 × 720** play
+area, the title bar, and the Windows taskbar (if it is docked on the left or right).
+
+2. Start the game.
+
+   Wait until the monitor displays a solid black screen.
+
+3. Start a second instance of the game.
+
+   The second instance of the game will run in a window. If you are running a
+single-monitor setup, you may need to press **Alt + Tab** to access the desktop and start the
+second instance.
+
+4. Close the first instance of the game.
+
+   The remaining instance will continue to run in windowed mode.
+
+<a id="challenger-trophy-achievement"></a>
 
 ## Challenger trophy / achievement
 
-The author reports that the platinum trophy could not be obtained on PlayStation 4 because the **Challenger** trophy was believed impossible: challenges in the **GI Joe Survival** mission could not be completed. The FAQ also reports no solution for the corresponding Xbox One achievement.
+The PlayStation 4 platinum trophy cannot be obtained.
 
-References:
+The **Challenger** trophy/achievement appears impossible to obtain because the challenges in the **GI Joe Survival** mission cannot be completed.
 
-- [PlayStation Trophies: Challenger](https://www.playstationtrophies.org/game/toy-soldiers-war-chest/trophy/118069-Challenger.html)
-- [TrueAchievements: Challenger](https://www.trueachievements.com/a205085/challenger-achievement)
+### PlayStation 4: No Solution
+
+<a id="challenger-playstation-4"></a>
+
+There is no known method of obtaining the trophy.
+
+Reference: [PlayStation Trophies: Challenger](https://www.playstationtrophies.org/game/toy-soldiers-war-chest/trophy/118069-Challenger.html)
+
+### Xbox One
+
+<a id="challenger-xbox-one"></a>
+
+There is no known method of obtaining the achievement.
+
+Reference: [TrueAchievements: Challenger](https://www.trueachievements.com/a205085/challenger-achievement)
 
 ## Screenshot archive
+
+<a id="screenshot-archive"></a>
 
 The following captures are from the supplied image collection. Captions describe visible interface details; the images are not evidence that the troubleshooting steps above were tested.
 
 ### Title screen
+
+<a id="screenshot-title-screen"></a>
 
 ![Toy Soldiers: War Chest title screen with the game logo, a "Press Any Key" prompt, and a 2013 Signal Studios copyright notice.](assets/Toy_Soldiers_WC_intro001.jpg)
 
@@ -126,11 +236,15 @@ The following captures are from the supplied image collection. Captions describe
 
 ### Hero selection and completion status
 
+<a id="screenshot-hero-selection"></a>
+
 ![Toy Soldiers: War Chest hero selection screen showing He-Man at 57 percent and level 20, with campaign medals, decorations, hero level, and unlock counts.](assets/Toy_Soldiers_WC_ingame001.jpg)
 
 **Caption:** The **Hero Select** screen shows He-Man centered, with other character figures on either side. The details panel displays **57%**, **Level 20**, **700** currency, **Campaign Medals 16/48**, **Decorations 5/24**, **Hero Level 20/20**, and **Unlocks 28/28**.
 
 ### Campaign map
+
+<a id="screenshot-campaign-map"></a>
 
 ![Toy Soldiers: War Chest campaign map for Battle for Orion, showing a red route, stage icons, 33 percent campaign progress, medals, and a top score.](assets/Toy_Soldiers_WC_ingame002.jpg)
 
@@ -138,17 +252,22 @@ The following captures are from the supplied image collection. Captions describe
 
 ### Gameplay HUD
 
+<a id="screenshot-gameplay-hud"></a>
+
 ![Toy Soldiers: War Chest gameplay view with He-Man riding Battle Cat, a central aiming reticle, score and health indicators, and two unit counters.](assets/Toy_Soldiers_WC_ingame003.jpg)
 
 **Caption:** A third-person gameplay view shows He-Man riding Battle Cat across a stone arena. The HUD includes a **32** counter, **$8662**, a central reticle, two right-side unit counters marked **×1**, **READYING 25/25**, and lower status gauges including a timer reading **0:41**.
 
 ### End screen
 
+<a id="screenshot-end-screen"></a>
+
 ![Toy Soldiers: War Chest end screen reading "Thank you for playing!" with a message about another army's campaign, multiplayer, and more.](assets/Toy_Soldiers_WC_end001.jpg)
 
 **Caption:** A white end screen displays **“Thank you for playing!”** followed by **“There's lots more to do!”** and the invitation to battle through another army's campaign or challenge friends in multiplayer. A *Toy Soldiers* emblem appears near the bottom, with an **A Skip** prompt at lower right.
 
-## Source notes
+## Archive note
 
-- The text is adapted from Jacob Quisenberry's version 1.01 FAQ; spelling and phrasing have been lightly edited for Markdown clarity without changing the reported status of the workarounds.
-- The source collection also contained personal order/shipping information and a redeem-code image. Those images are intentionally excluded from this public archive.
+<a id="archive-note"></a>
+
+- Personal order/shipping information and a redeem-code image are excluded from this public archive.
