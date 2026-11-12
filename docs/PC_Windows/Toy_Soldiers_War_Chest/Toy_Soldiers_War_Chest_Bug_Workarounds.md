@@ -27,7 +27,7 @@ summary: "The current version 1.02 troubleshooting FAQ for Toy Soldiers: War Che
 
 # Toy Soldiers: War Chest Bug Workarounds FAQ & Screenshot Archive
 
-This is the current version 1.02 troubleshooting FAQ for *Toy Soldiers: War Chest*. It covers reports about frozen menus, previously acquired DLC becoming unavailable, PC black screens, and an unobtainable challenge achievement. Five captioned gameplay and menu screenshots document the game interface and campaign.
+This is the current version 1.02 troubleshooting FAQ for *Toy Soldiers: War Chest*. It covers reports about frozen menus, previously acquired DLC becoming unavailable, PC black screens, and an unobtainable trophy/achievement. Five captioned gameplay and menu screenshots document the game interface and campaign.
 
 **Game release date:** August 12, 2015.
 
@@ -105,7 +105,7 @@ Users who have encountered the issue have worked around it by setting the system
 4. Load the game.
 5. Connect to the Internet.
 
-    **Settings -> General -> Network Settings -> Go Offline**
+    **Settings -> General -> Network Settings -> Go Online**
 
 Reference: [Ubisoft forum post](https://forums.ubisoft.com/showthread.php/1885710-Menu-Screen-Frozen?p=14845763&viewfull=1#post14845763).
 
@@ -214,7 +214,7 @@ Reference: [TrueAchievements: Challenger](https://www.trueachievements.com/a2050
 
 <a id="screenshot-archive"></a>
 
-The following captures are from the supplied image collection. Captions describe visible interface details; the images are not evidence that the troubleshooting steps above were tested.
+The following captures are from the author's image collection. Captions describe visible interface details. The images are evidence that the solution described under "PC: development-console workaround" succeeded.
 
 ### Title screen
 
