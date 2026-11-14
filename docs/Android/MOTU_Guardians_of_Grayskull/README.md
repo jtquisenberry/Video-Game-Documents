@@ -68,17 +68,17 @@ The following two screenshots document the game's ending sequence, capturing the
 
 ### Ending Screen 1 — Victory / Conclusion Part 1
 
-![Masters of the Universe: Guardians of Grayskull — First ending screen showing the game's story conclusion with He-Man and allies victorious over Skeletor's forces](motu-guardians-of-grayskull-end-1.jpg)
+![Masters of the Universe: Guardians of Grayskull — Ending screen showing the game's story conclusion.](motu-guardians-of-grayskull-end-1.jpg)
 
-**Caption:** **First ending screen** of *Masters of the Universe: Guardians of Grayskull*, captured at story completion. The screen presents the initial phase of the game's conclusion sequence — likely a victory splash, dialogue exchange, or cinematographic composition showing He-Man and the Guardians triumphant. Character portraits, environmental backdrop (Castle Grayskull or Eternia landscape), and narrative text or dialogue are visible. This is the first visual state players encounter upon defeating the final boss or completing the final mission.
+**Caption:** **Ending screen** of *Masters of the Universe: Guardians of Grayskull*, captured after completing the final level. The screen presents the game's victory screen.
 
 ---
 
 ### Ending Screen 2 — Victory / Conclusion Part 2
 
-![Masters of the Universe: Guardians of Grayskull — Second ending screen showing the game's final credits roll or post-victory screen with reward summary or closing narrative text](motu-guardians-of-grayskull-end-2.jpg)
+![Masters of the Universe: Guardians of Grayskull — Ending screen showing the game's story conclusion.](motu-guardians-of-grayskull-end-2.jpg)
 
-**Caption:** **Second ending screen** of *Masters of the Universe: Guardians of Grayskull*, capturing the continuation or conclusion of the ending sequence. This screen likely presents a reward summary, closing narrative text, credits roll, or final character tableau. Together with Ending Screen 1, these two captures preserve the complete ending presentation, ensuring the game's conclusion is documented for future reference even if the live-service title becomes unavailable.
+**Caption:** **Ending screen (second playthrough of final level)** of *Masters of the Universe: Guardians of Grayskull*, captured after completing the final level. Differences from the first ending screen include the number of defeated enemies and the distribution of rewarded items.
 
 ---
 
