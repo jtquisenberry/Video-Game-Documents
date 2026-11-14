@@ -5,14 +5,14 @@ platform: "Android"
 alternate_titles:
   - "MOTU: Guardians of Grayskull"
   - "Guardians of Grayskull"
-developer: "Kabam"
-publisher: "Kabam / Mattel"
+developer: "Antler Interactive"
+publisher: "Mattel, Inc."
 release_year: 2022
 document_type: "Media Archive"
 author: "Jacob Quisenberry"
-version: "1.00"
+version: "1.01"
 date: "2026-11-05"
-last_updated: "2026-11-05"
+last_updated: "2026-11-14"
 language: "en"
 tags:
   - masters-of-the-universe
@@ -20,27 +20,27 @@ tags:
   - guardians-of-grayskull
   - android
   - mobile
-  - kabam
+  - antler-interactive
   - mattel
   - rpg
   - ending
   - victory-screen
-summary: "Media archive and ending-screen reference for Masters of the Universe: Guardians of Grayskull, a mobile RPG by Kabam and Mattel. Documents both captured game-ending screens, preserving the visual and textual content of the game's conclusion states."
+summary: "Media archive and ending-screen reference for Masters of the Universe: Guardians of Grayskull, a mobile RPG developed by Antler Interactive and published by Mattel, Inc. Documents both captured game-ending screens, preserving the visual and textual content of the game's conclusion states."
 ---
 
 # Masters of the Universe: Guardians of Grayskull
 
 > **Platform:** Android / iOS  
-> **Developer:** Kabam  
-> **Publisher:** Kabam / Mattel  
+> **Developer:** Antler Interactive<br>
+> **Publisher:** Mattel, Inc.<br>
 > **Genre:** RPG / Action RPG  
-> **Author:** Jacob Quisenberry — Version 1.00 (2026-11-05)
+> **Author:** Jacob Quisenberry — Version 1.01 (2026-11-14)
 
 ---
 
 ## Overview
 
-*Masters of the Universe: Guardians of Grayskull* is a mobile RPG developed by Kabam for Android and iOS. The game is set within the Masters of the Universe universe and follows He-Man and allies (the Guardians of Grayskull) in story-driven combat missions. The title draws on the **2021 Netflix animated series** aesthetic.
+*Masters of the Universe: Guardians of Grayskull* is a mobile RPG developed by Antler Interactive and published by Mattel, Inc. for Android and iOS. The game is set within the Masters of the Universe universe and follows He-Man and allies (the Guardians of Grayskull) in story-driven combat missions. The title draws on the **2021 Netflix animated series** aesthetic.
 
 This archive focuses on the **game-ending screens** captured at the conclusion of the game's primary story content, preserving the final victory states that most players would have seen upon completing the main campaign or final boss sequence.
 
@@ -51,8 +51,8 @@ This archive focuses on the **game-ending screens** captured at the conclusion o
 | Field | Detail |
 |---|---|
 | **Full Title** | Masters of the Universe: Guardians of Grayskull |
-| **Developer** | Kabam |
-| **Publisher** | Kabam / Mattel |
+| **Developer** | Antler Interactive |
+| **Publisher** | Mattel, Inc. |
 | **Platform** | Android, iOS |
 | **Genre** | RPG / Action RPG |
 | **Setting** | Eternia — 2021 Netflix series visual style |
@@ -88,5 +88,4 @@ As a live-service mobile game, *Guardians of Grayskull* is subject to server shu
 
 ---
 
-*Document authored by Jacob Quisenberry. Version 1.00 — 2026-11-05.*
-
+*Document authored by Jacob Quisenberry. Version 1.01 — 2026-11-14.*
