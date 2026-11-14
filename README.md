@@ -43,7 +43,7 @@ The table below indexes all authoritative documents, platforms, and media curren
 | **Roblox** | *Masters of the Universe: Battle for Grayskull* | [Roblox Game Archive & Media Reference](docs/Roblox/MOTU_Battle_for_Grayskull/README.md) | Media Archive | Twin Atlas action RPG published by Mattel Game Studios; released 2026-10-06; visual style based on the 2026 movie; maximum character level is 150, with no level increase from filling the experience gauge again at the cap. | Jacob Quisenberry<br>`v1.01` (2026-11-14 platform correction) | [View Archive](docs/Roblox/MOTU_Battle_for_Grayskull/README.md) |
 | **Android / iOS** | *He-Man: Combat Simulator* | [Mobile Game Archive & Media Reference](docs/Android/MOTU_Combat_Simulator/README.md) | Media Archive | Gamefam mobile combat game published by Mattel Inc.; 8 screenshots: loading screen, Level 100 in-game combat, Sorceress at max level, full arena zoom-out view, and app store product images 1–4. | Jacob Quisenberry<br>`v1.00` (updated 2026-11-09) | [View Archive](docs/Android/MOTU_Combat_Simulator/README.md) |
 | **Android** | *Masters of the Universe: Guardians of Grayskull* | [Mobile Game Archive & Ending Reference](docs/Android/MOTU_Guardians_of_Grayskull/README.md) | Media Archive | Android-only Antler Interactive mobile RPG published by Mattel, Inc.; 2 ending screens documenting the game's story conclusion (end-1 and end-2); preservation archive for live-service title subject to server shutdown. | Jacob Quisenberry<br>`v1.02` (updated 2026-11-14) | [View Archive](docs/Android/MOTU_Guardians_of_Grayskull/README.md) |
-| **Android / iOS** | *He-Man: Masters of the Universe Heroes* | [Mobile Game Archive & Media Reference](docs/Android/MOTU_He-Man_Heroes/README.md) | Media Archive | Budge Studios mobile action/adventure; 2 screenshots: app store banner and in-game gameplay capture; family-targeted 2021 Netflix series–styled title. | Jacob Quisenberry<br>`v1.00` (2026-11-05) | [View Archive](docs/Android/MOTU_He-Man_Heroes/README.md) |
+| **Fortnite** | *Masters of the Universe: He-Man Heroes* | [Fortnite Island Archive & Media Reference](docs/Fortnite/MOTU_He-Man_Heroes/README.md) | Media Archive | Fortnite island developed by Mattel and Loot Foundry; listing screenshot and gameplay capture; released 2025-08-27. | Jacob Quisenberry<br>`v1.01` (updated 2026-11-14) | [View Archive](docs/Fortnite/MOTU_He-Man_Heroes/README.md) |
 | **Android / iOS** | *Masters of the Universe: Skeletor: Until Next Time* | [Mobile Game Archive & Progression Reference](docs/Android/MOTU_Skeletor/README.md) | Media Archive | Mattel Game Studios and Amber villain-perspective idle RPG, published by Mattel Game Studios; 4 screenshots: intro/title screen, level-end results, max Evil Battle Pass completion, and Snake Mountain at maximum upgrade level. | Jacob Quisenberry<br>`v1.00` (updated 2026-11-09) | [View Archive](docs/Android/MOTU_Skeletor/README.md) |
 | **Android / iOS** | *He-Man: Tappers of Grayskull* | [Mobile Game Release Archive](docs/Android/He-Man_Tappers_of_Grayskull/README.md) | Media Archive | 2016 Animoca Brands idle tapper; simultaneous Android/iOS release (August 31, 2016); official Animoca press release and YouTube trailer references; idle-tapper genre context. | Jacob Quisenberry<br>`v1.00` (2026-11-05) | [View Archive](docs/Android/He-Man_Tappers_of_Grayskull/README.md) |
 | **Android / iOS** | *Masters of the Universe VR* / *View-Master Masters of the Universe VR* | [Mobile VR Game Archive](docs/Android/MOTU_VR/README.md) | Media Archive | 2016 Mattel View-Master VR experience; Android release Nov 1, iOS release Oct 31, 2016; Google Cardboard compatible; Google Play and App Store links; View-Master VR hardware context. | Jacob Quisenberry<br>`v1.00` (2026-11-05) | [View Archive](docs/Android/MOTU_VR/README.md) |
@@ -74,9 +74,6 @@ Video-Game-Documents/
     │   ├── MOTU_Guardians_of_Grayskull/ # Game: Masters of the Universe: Guardians of Grayskull (2022, Antler Interactive / Mattel, Inc.)
     │   │   ├── README.md
     │   │   └── motu-guardians-of-grayskull-*.jpg
-    │   ├── MOTU_He-Man_Heroes/     # Game: He-Man: Masters of the Universe Heroes (2022, Budge Studios)
-    │   │   ├── README.md
-    │   │   └── motu-he-man-heroes-*.png
     │   ├── MOTU_He-Man_The_Most_Powerful_Game/ # Game: He-Man: The Most Powerful Game in the Universe
     │   │   ├── MOTU_He-Man_TMPGITU_Text_Dump.md
     │   │   └── MOTU_He-Man_TMPGITU_Walkthrough.md
@@ -85,6 +82,10 @@ Video-Game-Documents/
     │   │   └── motu-skeletor-*.jpg
     │   └── MOTU_VR/                # Game: Masters of the Universe VR / View-Master VR (2016, Mattel)
     │       └── README.md
+    ├── Fortnite/
+    │   └── MOTU_He-Man_Heroes/     # Game: Masters of the Universe: He-Man Heroes (2025, Mattel / Loot Foundry)
+    │       ├── README.md
+    │       └── motu-he-man-heroes-*.png
     ├── Amazon_Luna/               # Platform: Amazon Luna cloud gaming service
     │   └── MOTU_Legends_Unite/    # Game: Masters of the Universe: Legends Unite
     │       └── MOTU_Legends_Unite_He-Man_Solo_Strategy_Guide.md

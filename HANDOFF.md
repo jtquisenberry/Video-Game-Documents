@@ -205,7 +205,7 @@ The following 10 Masters of the Universe titles have been converted, their media
 4. `docs/Roblox/MOTU_Battle_for_Grayskull/README.md` (+ 10 screenshots)
 5. `docs/Android/MOTU_Combat_Simulator/README.md` (+ 8 screenshots)
 6. `docs/Android/MOTU_Guardians_of_Grayskull/README.md` (+ 2 screenshots)
-7. `docs/Android/MOTU_He-Man_Heroes/README.md` (+ 2 screenshots)
+7. `docs/Fortnite/MOTU_He-Man_Heroes/README.md` (+ 2 screenshots)
 8. `docs/Android/MOTU_Skeletor/README.md` (+ 4 screenshots)
 9. `docs/Android/He-Man_Tappers_of_Grayskull/README.md`
 10. `docs/Android/MOTU_VR/README.md`
@@ -224,7 +224,7 @@ Complete points 4 and 5 of The Rule of Five for the 10 titles above:
      - `https://jtquisenberry.github.io/Video-Game-Documents/Roblox/MOTU_Battle_for_Grayskull/README.html`
      - `https://jtquisenberry.github.io/Video-Game-Documents/Android/MOTU_Combat_Simulator/README.html`
      - `https://jtquisenberry.github.io/Video-Game-Documents/Android/MOTU_Guardians_of_Grayskull/README.html`
-     - `https://jtquisenberry.github.io/Video-Game-Documents/Android/MOTU_He-Man_Heroes/README.html`
+     - `https://jtquisenberry.github.io/Video-Game-Documents/Fortnite/MOTU_He-Man_Heroes/README.html`
      - `https://jtquisenberry.github.io/Video-Game-Documents/Android/MOTU_Skeletor/README.html`
      - `https://jtquisenberry.github.io/Video-Game-Documents/Android/He-Man_Tappers_of_Grayskull/README.html`
      - `https://jtquisenberry.github.io/Video-Game-Documents/Android/MOTU_VR/README.html`
