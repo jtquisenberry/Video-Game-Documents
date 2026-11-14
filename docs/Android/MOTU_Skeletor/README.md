@@ -1,7 +1,7 @@
 ---
 title: "Masters of the Universe: Skeletor: Until Next Time – Mobile Game Archive & Progression Reference"
 game: "Masters of the Universe: Skeletor: Until Next Time"
-platform: "Android"
+platform: "Android / iOS"
 alternate_titles:
   - "MOTU: Skeletor: Until Next Time"
   - "Masters of the Universe: Skeletor"
@@ -12,22 +12,23 @@ publisher: "Mattel Game Studios"
 release_year: 2022
 document_type: "Media Archive"
 author: "Jacob Quisenberry"
-version: "1.00"
+version: "1.01"
 date: "2026-11-05"
-last_updated: "2026-11-09"
+last_updated: "2026-11-14"
 language: "en"
 tags:
   - masters-of-the-universe
   - skeletor
   - android
+  - ios
   - mobile
   - amber
   - mattel
   - villain
   - snake-mountain
   - evil-pass
-  - idle-rpg
-summary: "Media archive and progression reference for Masters of the Universe: Skeletor: Until Next Time, a mobile idle RPG developed by Mattel Game Studios and Amber and published by Mattel Game Studios. Documents intro screen, level-end results, maximum Evil Battle Pass completion, and Snake Mountain at maximum upgrade level."
+  - endless-runner
+summary: "Media archive and progression reference for Masters of the Universe: Skeletor: Until Next Time, an endless runner developed by Mattel Game Studios and Amber and published by Mattel Game Studios. Documents intro screen, level-end results, maximum Evil Battle Pass completion, and Snake Mountain at maximum upgrade level."
 ---
 
 # Masters of the Universe: Skeletor: Until Next Time
@@ -35,16 +36,16 @@ summary: "Media archive and progression reference for Masters of the Universe: S
 > **Platform:** Android / iOS  
 > **Developer:** Mattel Game Studios and Amber
 > **Publisher:** Mattel Game Studios
-> **Genre:** Idle RPG / Villain Strategy  
-> **Author:** Jacob Quisenberry — Version 1.00 (2026-11-09)
+> **Genre:** Endless runner<br>
+> **Author:** Jacob Quisenberry — Version 1.01 (2026-11-14)
 
 ---
 
 ## Overview
 
-*Masters of the Universe: Skeletor: Until Next Time* is a mobile idle RPG developed by Mattel Game Studios and Amber for Android and iOS, taking the unique perspective of placing the player in control of **Skeletor**, the primary antagonist of the Masters of the Universe franchise. Rather than defending Castle Grayskull, the player commands Skeletor's forces from **Snake Mountain**, the villain's fortress stronghold on Eternia.
+*Masters of the Universe: Skeletor: Until Next Time* is an endless runner developed by Mattel Game Studios and Amber for Android and iOS, taking the unique perspective of placing the player in control of **Skeletor**, the primary antagonist of the Masters of the Universe franchise. Rather than defending Castle Grayskull, the player commands Skeletor's forces from **Snake Mountain**, the villain's fortress stronghold on Eternia.
 
-The game mirrors the structure of *Masters of the Universe: Battle for Grayskull* but inverts the faction dynamic — the player pursues conquest rather than defense, using an **Evil Battle Pass** seasonal system and upgrading Snake Mountain as the game's central hub structure.
+Skeletor moves forward automatically through an unending, algorithmically generated environment. The player pursues conquest rather than defense, using an **Evil Battle Pass** seasonal system and upgrading Snake Mountain as the game's central hub structure. There is no traditional finish line; players may choose to define completion as completing the Evil Battle Pass or obtaining all available shelves within Snake Mountain. 
 
 ---
 
@@ -56,7 +57,7 @@ The game mirrors the structure of *Masters of the Universe: Battle for Grayskull
 | **Developer** | Mattel Game Studios and Amber |
 | **Publisher** | Mattel Game Studios |
 | **Platform** | Android, iOS |
-| **Genre** | Idle RPG / Villain Strategy |
+| **Genre** | Endless runner |
 | **Player Faction** | Evil (Skeletor's forces) |
 | **Hub Structure** | Snake Mountain |
 | **Monetization** | Free-to-play with Evil Battle Pass and in-app purchases |
@@ -118,4 +119,4 @@ As a live-service game, *Masters of the Universe: Skeletor: Until Next Time* is 
 
 ---
 
-*Document authored by Jacob Quisenberry. Version 1.00 — 2026-11-05.*
+*Document authored by Jacob Quisenberry. Version 1.01 — 2026-11-14.*
