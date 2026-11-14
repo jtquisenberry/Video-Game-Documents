@@ -202,7 +202,7 @@ The following 10 Masters of the Universe titles have been converted, their media
 1. `docs/PS2/MOTU_Defender_of_Grayskull/MOTU_Defender_of_Grayskull_Cheats.md`
 2. `docs/Web_Browser/MOTU_Courage_of_Adam/README.md`
 3. `docs/Web_Browser/MOTU_Lair_of_the_Slime_Mutant/README.md`
-4. `docs/Android/MOTU_Battle_for_Grayskull/README.md` (+ 10 screenshots)
+4. `docs/Roblox/MOTU_Battle_for_Grayskull/README.md` (+ 10 screenshots)
 5. `docs/Android/MOTU_Combat_Simulator/README.md` (+ 8 screenshots)
 6. `docs/Android/MOTU_Guardians_of_Grayskull/README.md` (+ 2 screenshots)
 7. `docs/Android/MOTU_He-Man_Heroes/README.md` (+ 2 screenshots)
@@ -221,7 +221,7 @@ Complete points 4 and 5 of The Rule of Five for the 10 titles above:
      - `https://jtquisenberry.github.io/Video-Game-Documents/PS2/MOTU_Defender_of_Grayskull/MOTU_Defender_of_Grayskull_Cheats.html`
      - `https://jtquisenberry.github.io/Video-Game-Documents/Web_Browser/MOTU_Courage_of_Adam/README.html`
      - `https://jtquisenberry.github.io/Video-Game-Documents/Web_Browser/MOTU_Lair_of_the_Slime_Mutant/README.html`
-     - `https://jtquisenberry.github.io/Video-Game-Documents/Android/MOTU_Battle_for_Grayskull/README.html`
+     - `https://jtquisenberry.github.io/Video-Game-Documents/Roblox/MOTU_Battle_for_Grayskull/README.html`
      - `https://jtquisenberry.github.io/Video-Game-Documents/Android/MOTU_Combat_Simulator/README.html`
      - `https://jtquisenberry.github.io/Video-Game-Documents/Android/MOTU_Guardians_of_Grayskull/README.html`
      - `https://jtquisenberry.github.io/Video-Game-Documents/Android/MOTU_He-Man_Heroes/README.html`
@@ -282,4 +282,3 @@ if ($badLinks) {
     Write-Host "URL Validation Passed: Zero .md links on GitHub Pages domain."
 }
 ```
-

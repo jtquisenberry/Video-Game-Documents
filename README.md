@@ -40,7 +40,7 @@ The table below indexes all authoritative documents, platforms, and media curren
 | **PlayStation 2** | *Masters of the Universe: He-Man: Defender of Grayskull* | [Cheat Codes](docs/PS2/MOTU_Defender_of_Grayskull/MOTU_Defender_of_Grayskull_Cheats.md) | Strategy Guide | PS2 options-menu cheat codes: Invulnerability (`RIGHT, O, UP, LEFT, X`), Unlock All Levels (`X, LEFT, UP, O, DOWN`), Unlimited Grayskull Power (`DOWN, RIGHT, X, O, DOWN`), Double Damage (`O, RIGHT, X, UP, X`). Planned GameCube / Xbox versions unreleased. | Jacob Quisenberry<br>`v1.00` (2013-11-07) | [View Cheats](docs/PS2/MOTU_Defender_of_Grayskull/MOTU_Defender_of_Grayskull_Cheats.md) |
 | **Web Browser** | *He-Man and the Masters of the Universe: The Courage of Adam* | [Web Browser Game Archive](docs/Web_Browser/MOTU_Courage_of_Adam/README.md) | Media Archive | 2003 Cartoon Network UK Shockwave/Macromedia Director browser game; Wayback Machine capture URLs for index JSP and `.dcr` binary; preservation notes for Director emulation (Dirplayer); 2002 animated series context. | Jacob Quisenberry<br>`v1.00` (2026-11-05) | [View Archive](docs/Web_Browser/MOTU_Courage_of_Adam/README.md) |
 | **Web Browser** | *He-Man and the Masters of the Universe: Lair of the Slime Mutant* | [Web Browser Game Archive](docs/Web_Browser/MOTU_Lair_of_the_Slime_Mutant/README.md) | Media Archive | 2004 Toonami UK Shockwave/Macromedia Director browser game; Wayback Machine capture URLs for launch HTML and `.dcr` binary; Slime Pit thematic context; third-party replay aggregator references. | Jacob Quisenberry<br>`v1.00` (2026-11-05) | [View Archive](docs/Web_Browser/MOTU_Lair_of_the_Slime_Mutant/README.md) |
-| **Android / iOS** | *Masters of the Universe: Battle for Grayskull* | [Mobile Game Archive & Media Reference](docs/Android/MOTU_Battle_for_Grayskull/README.md) | Media Archive | Twin Atlas action RPG published by Mattel Game Studios; released 2026-10-06; visual style based on the 2026 movie; maximum character level is 150, with no level increase from filling the experience gauge again at the cap. | Jacob Quisenberry<br>`v1.00` (2026-11-08 metadata correction) | [View Archive](docs/Android/MOTU_Battle_for_Grayskull/README.md) |
+| **Roblox** | *Masters of the Universe: Battle for Grayskull* | [Roblox Game Archive & Media Reference](docs/Roblox/MOTU_Battle_for_Grayskull/README.md) | Media Archive | Twin Atlas action RPG published by Mattel Game Studios; released 2026-10-06; visual style based on the 2026 movie; maximum character level is 150, with no level increase from filling the experience gauge again at the cap. | Jacob Quisenberry<br>`v1.01` (2026-11-14 platform correction) | [View Archive](docs/Roblox/MOTU_Battle_for_Grayskull/README.md) |
 | **Android / iOS** | *He-Man: Combat Simulator* | [Mobile Game Archive & Media Reference](docs/Android/MOTU_Combat_Simulator/README.md) | Media Archive | Gamefam mobile combat game published by Mattel Inc.; 8 screenshots: loading screen, Level 100 in-game combat, Sorceress at max level, full arena zoom-out view, and app store product images 1–4. | Jacob Quisenberry<br>`v1.00` (updated 2026-11-09) | [View Archive](docs/Android/MOTU_Combat_Simulator/README.md) |
 | **Android / iOS** | *Masters of the Universe: Guardians of Grayskull* | [Mobile Game Archive & Ending Reference](docs/Android/MOTU_Guardians_of_Grayskull/README.md) | Media Archive | Kabam mobile RPG; 2 ending screens documenting the game's story conclusion (end-1 and end-2); preservation archive for live-service title subject to server shutdown. | Jacob Quisenberry<br>`v1.00` (2026-11-05) | [View Archive](docs/Android/MOTU_Guardians_of_Grayskull/README.md) |
 | **Android / iOS** | *He-Man: Masters of the Universe Heroes* | [Mobile Game Archive & Media Reference](docs/Android/MOTU_He-Man_Heroes/README.md) | Media Archive | Budge Studios mobile action/adventure; 2 screenshots: app store banner and in-game gameplay capture; family-targeted 2021 Netflix series–styled title. | Jacob Quisenberry<br>`v1.00` (2026-11-05) | [View Archive](docs/Android/MOTU_He-Man_Heroes/README.md) |
@@ -68,9 +68,6 @@ Video-Game-Documents/
     ├── Android/                   # Platform: Android (also iOS)
     │   ├── He-Man_Tappers_of_Grayskull/ # Game: He-Man: Tappers of Grayskull (2016, Animoca Brands)
     │   │   └── README.md
-    │   ├── MOTU_Battle_for_Grayskull/ # Game: Masters of the Universe: Battle for Grayskull (2026, Twin Atlas / Mattel Game Studios)
-    │   │   ├── README.md
-    │   │   └── motu-battle-for-grayskull-*.png / .jpg
     │   ├── MOTU_Combat_Simulator/  # Game: He-Man: Combat Simulator (Gamefam)
     │   │   ├── README.md
     │   │   └── He-Man-combat-simulator-*.png / .jpg
@@ -170,6 +167,10 @@ Video-Game-Documents/
     ├── PS2/                       # Platform: Sony PlayStation 2
     │   └── MOTU_Defender_of_Grayskull/ # Game: Masters of the Universe: He-Man: Defender of Grayskull
     │       └── MOTU_Defender_of_Grayskull_Cheats.md
+    ├── Roblox/                    # Platform: Roblox
+    │   └── MOTU_Battle_for_Grayskull/ # Game: Masters of the Universe: Battle for Grayskull (2026, Twin Atlas / Mattel Game Studios)
+    │       ├── README.md
+    │       └── motu-battle-for-grayskull-*.png / .jpg
     ├── SNES/                      # Platform: Super Nintendo Entertainment System
     │   └── Final_Fantasy_II/      # Game: Final Fantasy II / Final Fantasy IV
     │       └── Final_Fantasy_II_Spell_Cycler_Code_Reference.md
