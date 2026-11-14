@@ -8,9 +8,9 @@ publisher: "Chillingo"
 release_year: 2013
 document_type: "Media Archive"
 author: "Jacob Quisenberry"
-version: "1.00"
-date: "2013-10-12"
-last_updated: "2026-10-03"
+version: "1.01"
+date: "2026-11-14"
+last_updated: "2026-11-14"
 language: "en"
 tags:
   - masters of the universe
@@ -27,8 +27,8 @@ summary: "Verbatim text dump from version 1.0.2 of the Android game. Preserves e
 ## GUIDE INFORMATION
 
 * Author:  Jacob Quisenberry
-* Version: 1.00
-* Date:    10/12/2013
+* Version: 1.01
+* Date:    11/14/2026
 * System:  Android
 
 
@@ -51,7 +51,7 @@ Skeletor:  Hah!  This will be He-Man's undoing!  When the unsuspecting oaf
 comes to play, I will spring my nefarious trap!  
 He-Man:  I'm here, Skeletor.  Let's play!  
 Skeletor:  You are a trusting fool, He-Man!  
-?Skeletor:  You muscle-bound buffoon!  You've given me the keys to Grayskull!   
+Skeletor:  You muscle-bound buffoon!  You've given me the keys to Grayskull!   
 Soon, I'll be the most powerful man in the universe.  
 He-Man:  Curse you, Skeletor!  I'll beat you at your own game!  
 mid-game text...placeholder.  
@@ -99,7 +99,7 @@ Destructopus Says: Clean Water is vital to a healthy Earth. Add your 'One Drop'
 and make a difference at One Drop Canada.  
 Loading  
 
-?MATTEL, HE-MAN,  
+MATTEL, HE-MAN,  
 MASTERS OF THE UNIVERSE  
 and associated trademarks and  
 trade dress are owned by Mattel, Inc.  
@@ -381,99 +381,99 @@ Princess of Power
 Alternate control layout available from options menu  
 Gamepad  
 
-A member of the Green Tiger Tribe, Cringer was saved from a parek-narr attack
-by a young Prince Adam and afterwards became his devoted companion for life.  
-He assisted Adam during his quest to unite both halves of the Power Sword of
-He and afterwards was enhanced by its power to become Battle Cat, the Fighting
-Tiger of Eternia. Cringer is one of only a handful of allies who knows Adam's
-secret and fights alongside the other Masters of the Universe, carrying
-He-Man into battle against the forces of evil.  
+A member of the Green Tiger Tribe, Cringer™ was saved from a parek-narr attack
+by a young Prince Adam® and afterwards became his devoted companion for life.  
+He assisted Adam during his quest to unite both halves of the Power Sword® of
+He and afterwards was enhanced by its power to become Battle Cat®, the Fighting
+Tiger of Eternia®. Cringer™ is one of only a handful of allies who knows Adam's
+secret and fights alongside the other Masters of the Universe®, carrying
+He-Man® into battle against the forces of evil.  
 After being banished from his home in the Vine Jungle, the beast man named
-Raqquill Rqazz joined up with a young alchemist named Keldor during a skirmish
+Raqquill Rqazz joined up with a young alchemist named Keldor™ during a skirmish
 in the Berserker Islands. Like others of his race, Rqazz has the ability to
 control beasts and monsters. He currently uses this particular talent as chief
-henchmen to Skeletor, the Overlord of Evil.  
+henchmen to Skeletor®, the Overlord of Evil™.  
 TBD  
-A direct descendant of the legendary King Grayskull, Prince Adam of Eternia
-was chosen to protect his ancestor's Power Sword from evil. At first, he used
+A direct descendant of the legendary King Grayskull™, Prince Adam® of Eternia®
+was chosen to protect his ancestor's Power Sword® from evil. At first, he used
 a techno vest with a built-in force field to fight evil, but Adam has since
-learned to combine both halves of the Power Sword, using it to channel the
-energy of the Elders to become He-Man - The Most Powerful Man in the
-Universe! He guards the safety of all Eternia alongside the heroic Masters of
-the Universe.  
-Second born heir to the Horde Empire, Hec-Tor Kur arrived on the planet
-Eternia while battling the cosmic warrior He-Ro. Taking the name Hordak, he
-raised an army and challenged the Snake Men for rule over the planet. Although
-he defeated King Hssss, Grayskull, leader of the free people of Eternia
-succeeded in banishing him to the dimension of Despondos. It was here that
-centuries later Hordak contacted a young alchemist named Keldor and began
+learned to combine both halves of the Power Sword®, using it to channel the
+energy of the Elders to become He-Man® - The Most Powerful Man in the
+Universe™! He guards the safety of all Eternia® alongside the heroic Masters of
+the Universe®.  
+Second born heir to the Horde Empire, Hec-Tor Kur™ arrived on the planet
+Eternia® while battling the cosmic warrior He-Ro™. Taking the name Hordak™, he
+raised an army and challenged the Snake Men™ for rule over the planet. Although
+he defeated King Hssss™, Grayskull, leader of the free people of Eternia®
+succeeded in banishing him to the dimension of Despondos™. It was here that
+centuries later Hordak™ contacted a young alchemist named Keldor™ and began
 teaching him the ways of the dark arts in exchange for freedom from his extra
 dimensional prison.  
 TBD  
 TBD  
 For two centuries, the Eternian weapons master and combat instructor to the
-royal family has been called the "Man-At-Arms." Trained by the renowned
-tactician Dekker and a veteran of the Great Unrest, Duncan was asked by King
-Randor to step into this position and fortify his guard with an elite strike
-force, which he named The Masters of the Universe. In addition to his skills
-in combat, Duncan is also a great inventor and helped construct an electronic
-version of the Power Sword for Adam to use until he could unite both halves of
-the sword of King Grayskull. Man-At-Arms and his adopted daughter Teela
-often scout the borders of Eternia for signs of lurking evil.  
-Ruler of the undersea realms of Eternia, Mer-Man was forced to serve in the
-armies of Skeletor after his kingdom was destroyed in a battle with rival
-ocean clans. His allegiance with Skeletor brings him to the surface world more
-often than he would like. Cowardly on land, Mer-Man prefers to stay in the
-murky waters of the Sea of Rakash, awaiting the evil call of Skeletor.  
+royal family has been called the "Man-At-Arms®." Trained by the renowned
+tactician Dekker™ and a veteran of the Great Unrest, Duncan™ was asked by King
+Randor™ to step into this position and fortify his guard with an elite strike
+force, which he named The Masters of the Universe®. In addition to his skills
+in combat, Duncan™ is also a great inventor and helped construct an electronic
+version of the Power Sword® for Adam to use until he could unite both halves of
+the sword of King Grayskull™. Man-At-Arms® and his adopted daughter Teela®
+often scout the borders of Eternia® for signs of lurking evil.  
+Ruler of the undersea realms of Eternia®, Mer-Man® was forced to serve in the
+armies of Skeletor® after his kingdom was destroyed in a battle with rival
+ocean clans. His allegiance with Skeletor® brings him to the surface world more
+often than he would like. Cowardly on land, Mer-Man® prefers to stay in the
+murky waters of the Sea of Rakash™, awaiting the evil call of Skeletor®.  
 After the rise of the Horde Empire, evil again outweighed the forces of good in
 the five dimensions. So in every generation a Cosmic Warrior was recruited by
-the Overlords of Trolla to fight against evil. Each was given the Sword of He,
+the Overlords of Trolla™ to fight against evil. Each was given the Sword of He,
 a weapon infused with the Power of the Universe. They were also assigned a
 Trollan guide to watch over and advise them in their quests. On the planet of
-Eternia, after five centuries of being split in two, the Trollan Power Sword
+Eternia®, after five centuries of being split in two, the Trollan Power Sword®
 was at long last joined and bequeathed to an heir worthy of its power -- Prince
-Adam of the royal household. Orko, a member of the Trollan magical elite, was
+Adam® of the royal household. Orko®, a member of the Trollan magical elite, was
 assigned to watch over Adam. Although he was a powerful mage on Trolla, the
-hidden mystic properties of Eternia turned his magiks into little more than
+hidden mystic properties of Eternia® turned his magiks into little more than
 entertaining tricks, which he uses to entertain his friends and remain
 undercover.  
 TBD  
 TBD  
-Mortally wounded in battle with his half-brother Captain Randor, Keldor
-turned to his dark-arts master Hordak to save his life. Merging Keldor with
-the extra-dimensional being Demo-Man from Despondos, Keldor was forever
-changed into Skeletor, Overlord of Evil! He gathered together the greatest
-outcasts and evil warriors of Eternia in his quest to gain entry into Castle
+Mortally wounded in battle with his half-brother Captain Randor™, Keldor™
+turned to his dark-arts master Hordak™ to save his life. Merging Keldor™ with
+the extra-dimensional being Demo-Man™ from Despondos™, Keldor™ was forever
+changed into Skeletor®, Overlord of Evil™! He gathered together the greatest
+outcasts and evil warriors of Eternia® in his quest to gain entry into Castle
 Grayskull and obtain what he believes is the universe's ultimate power source.  
 Growing up in a small Eternian village, Teela'na helped defend her people from
 a Horde Scout ship that had discovered her planet on a magic locating mission.  
-Recognized for her loyalty, courage and wisdom, the current aging Sorceress
+Recognized for her loyalty, courage and wisdom, the current aging Sorceress®
 chose Teela'na to take up her title and defend Castle Grayskull's secrets for
-the next generation. During her reign as Sorceress, Teela'na not only cast the
-spell to clone the Sword of He, she was also cloned herself by Skeletor who
+the next generation. During her reign as Sorceress®, Teela'na not only cast the
+spell to clone the Sword of He, she was also cloned herself by Skeletor® who
 desired a magic-wielding bride to pass on his legacy. With the help of
-Man-At-Arms, Teela'na saved the cloned child. And it was through her undying
-love and devotion to this baby girl that Teela'na gave her up to Man-At-Arms,
-awaiting the day when her daughter would become the new Sorceress and Guardian
+Man-At-Arms®, Teela'na saved the cloned child. And it was through her undying
+love and devotion to this baby girl that Teela'na gave her up to Man-At-Arms®,
+awaiting the day when her daughter would become the new Sorceress® and Guardian
 of Castle Grayskull's secrets.  
 TBD  
 TBD  
-The adoptive daughter of Duncan, the current Man-At-Arms, Teela grew up in
-the palace of King Randor. Trained from an early age in the ways of battle, at
-age 18 she became Captain of the Guard, leading the troops of King Randor and
-acting as a defacto member of the Masters of the Universe. She is yet to
+The adoptive daughter of Duncan™, the current Man-At-Arms®, Teela® grew up in
+the palace of King Randor™. Trained from an early age in the ways of battle, at
+age 18 she became Captain of the Guard, leading the troops of King Randor™ and
+acting as a defacto member of the Masters of the Universe®. She is yet to
 become aware of her true heritage as the magically cloned daughter of, and heir
-to, the Sorceress of Castle Grayskull. She carries the Staff of Ka, which was
-once used by the Snake Men in their epic battles against the Horde and King
-Grayskull during the Great Wars. Teela uses her magical staff to track her
+to, the Sorceress® of Castle Grayskull. She carries the Staff of Ka, which was
+once used by the Snake Men™ in their epic battles against the Horde and King
+Grayskull during the Great Wars. Teela® uses her magical staff to track her
 foes' every move!  
-An insane criminal from the dimension of Infinita, Kronis was one of several
-evil warriors freed from an intergalactic prison by Keldor to bolster his
-ranks during the start of the Great Unrest. After serving Keldor for years,
-Kronis grew ambitious and raised an army of his own to challenge his master.  
-Now a powerful Overlord of Evil, Skeletor defeated Kronis -- breaking his
-jaw and arm, and leaving him for dead. Found and rebuilt by Tri-Klops, Kronis
-was transformed by him into Trap Jaw, a man armed with combat weapons and an
+An insane criminal from the dimension of Infinita, Kronis™ was one of several
+evil warriors freed from an intergalactic prison by Keldor™ to bolster his
+ranks during the start of the Great Unrest. After serving Keldor™ for years,
+Kronis™ grew ambitious and raised an army of his own to challenge his master.  
+Now a powerful Overlord of Evil™, Skeletor® defeated Kronis™ -- breaking his
+jaw and arm, and leaving him for dead. Found and rebuilt by Tri-Klops®, Kronis™
+was transformed by him into Trap Jaw™, a man armed with combat weapons and an
 "iron jaw!"  
 TBD  
 
@@ -610,13 +610,13 @@ Obtain 640,000 x 1.5 Crystals to use in the store
 
 Bestow He-Man with the ability to spin, sword in hand, damaging foes in all
 directions.  
-Swipe 8 while standing still to unleash the Tornado Spin.  
-?The upgraded Tornado Spin is more powerful and lasts longer.  Gain the ability
+Swipe while standing still to unleash the Tornado Spin.  
+The upgraded Tornado Spin is more powerful and lasts longer.  Gain the ability
 to move while performing the attack.  
-Swipe 8 while standing still to unleash the improved Tornado Spin.  
+Swipe while standing still to unleash the improved Tornado Spin.  
 While airborne, He-Man will unleash a powerful downward smash on his foe.  
 He-Man will unleash a powerful downward smash on his foe.  To unleash this
-ability, swipe 8 while airborne.  
+ability, swipe while airborne.  
 Flying minions beware! He-Man will leap into the sky and perform a powerful
 aerial punch.  
 Swipe  while standing still to activate the Thunder Punch.  
@@ -669,11 +669,11 @@ You have gained additional Summon Tokens!
 Summon the Power of Grayskull and temporarily become more powerful.  
 You have gained additional Power Tokens!  
 Improve He-Man's Aerial Smash to do more damage and have no cool down.  
-To unleash this ability, swipe 8 while in the air.  
+To unleash this ability, swipe while in the air.  
 Gift an app to a friend!  
 You are generous!  
 Improve She-Ra's sword with a powerful blast of energy.  
-Swipe 8 while standing still to unleash the She-ra's Glitter Wave.  
+Swipe while standing still to unleash the She-ra's Glitter Wave.  
 Avoid damage with a quick cartwheel away from enemies.  
 To avoid enemy attacks, swipe  while on the ground.  
 Improve jump accuracy and avoid in-air damage.  
@@ -681,7 +681,7 @@ To avoid enemy attacks, swipe  in the air.
 Take out multiple enemies at once with her burst attack.  
 Swipe  while standing or in the air to dash into enemies.  
 Improve She-Ra's arsenal and stomp enemies from above.  
-Swipe 8 while in the air to stomp on enemies from above.  
+Swipe while in the air to stomp on enemies from above.  
 Helps you locate hidden lore pieces scattered throughout Eternia.  
 
 A glowing icon will indicate when He-Man is near a lore fragment.  
@@ -758,7 +758,7 @@ Completed
 
 Buying this pack will push you over the maximum limit. So you will lose of this
 type of item after the purchase. Purchase anyway?  
-?Here you can unlock abilities to help you on your adventures!  Earn gems while
+Here you can unlock abilities to help you on your adventures!  Earn gems while
 battling the forces of Skeletor to upgrade your power.  
 He-Man, You can now unlock the Overhead Combo!  
 Good! Now tap on the button in the lower-right corner to unlock the move and
