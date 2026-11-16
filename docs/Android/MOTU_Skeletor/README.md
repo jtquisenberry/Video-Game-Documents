@@ -12,9 +12,9 @@ publisher: "Mattel Game Studios"
 release_year: 2022
 document_type: "Media Archive"
 author: "Jacob Quisenberry"
-version: "1.01"
+version: "1.02"
 date: "2026-11-05"
-last_updated: "2026-11-14"
+last_updated: "2026-11-16"
 language: "en"
 tags:
   - masters-of-the-universe
@@ -28,7 +28,7 @@ tags:
   - snake-mountain
   - evil-pass
   - endless-runner
-summary: "Media archive and progression reference for Masters of the Universe: Skeletor: Until Next Time, an endless runner developed by Mattel Game Studios and Amber and published by Mattel Game Studios. Documents intro screen, level-end results, maximum Evil Battle Pass completion, and Snake Mountain at maximum upgrade level."
+summary: "Media archive and progression reference for Masters of the Universe: Skeletor: Until Next Time, an endless runner developed by Mattel Game Studios and Amber and published by Mattel Game Studios. Documents the main menu, run results, claimed Evil Pass rewards through the maximum tier of 50, and Snake Mountain's highest available shelves at the time of capture."
 ---
 
 # Masters of the Universe: Skeletor: Until Next Time
@@ -37,15 +37,15 @@ summary: "Media archive and progression reference for Masters of the Universe: S
 > **Developer:** Mattel Game Studios and Amber
 > **Publisher:** Mattel Game Studios
 > **Genre:** Endless runner<br>
-> **Author:** Jacob Quisenberry — Version 1.01 (2026-11-14)
+> **Author:** Jacob Quisenberry — Version 1.02 (2026-11-16)
 
 ---
 
 ## Overview
 
-*Masters of the Universe: Skeletor: Until Next Time* is an endless runner developed by Mattel Game Studios and Amber for Android and iOS, taking the unique perspective of placing the player in control of **Skeletor**, the primary antagonist of the Masters of the Universe franchise. Rather than defending Castle Grayskull, the player commands Skeletor's forces from **Snake Mountain**, the villain's fortress stronghold on Eternia.
+*Masters of the Universe: Skeletor: Until Next Time* is an endless runner developed by Mattel Game Studios and Amber for Android and iOS. Players control **Skeletor**, the primary antagonist of the Masters of the Universe franchise, in runs for score and rewards. The game also includes an **Evil Battle Pass** and **Snake Mountain** item collection.
 
-Skeletor moves forward automatically through an unending, algorithmically generated environment. The player pursues conquest rather than defense, using an **Evil Battle Pass** seasonal system and upgrading Snake Mountain as the game's central hub structure. There is no traditional finish line; players may choose to define completion as completing the Evil Battle Pass or obtaining all available shelves within Snake Mountain. 
+The game has no traditional finish line. The Battle Pass rewards and Snake Mountain shelves documented here reflect the available progression at the time of capture.
 
 ---
 
@@ -68,35 +68,35 @@ Skeletor moves forward automatically through an unending, algorithmically genera
 
 ---
 
-### Intro / Title Screen
+### Main Menu
 
-![Masters of the Universe: Skeletor: Until Next Time — Intro or title screen showing Skeletor in his iconic blue-hooded appearance against Snake Mountain backdrop with the game title treatment](motu-skeletor-intro.jpg)
+![Masters of the Universe: Skeletor: Until Next Time — Main menu showing Skeletor, a Play button, and navigation tabs for Evil Pass, Snake Mountain, and Profile](motu-skeletor-intro.jpg)
 
-**Caption:** The **intro or title screen** for *Masters of the Universe: Skeletor: Until Next Time*. Skeletor is depicted in his iconic appearance — blue-and-purple hooded robe, skull face — in a commanding pose, likely holding his Havoc Staff. Snake Mountain, Skeletor's fortress stronghold (characterized by its jagged rocky spires and cave-entrance mouth), appears prominently in the background. The game title is rendered in franchise-branded lettering with villain-appropriate color treatment (purples, blacks, greens). This screen establishes the game's villain-protagonist perspective from the first moment of play.
-
----
-
-### Level End — Stage Results Screen
-
-![Masters of the Universe: Skeletor: Until Next Time — Level-end results screen showing stage completion summary with rewards earned, stars, and performance rating](motu-skeletor-level-end.jpg)
-
-**Caption:** **Level-end results screen** shown after completing a battle stage. The screen summarizes Skeletor's (and his army's) performance in the concluded stage: rewards earned (currency, upgrade materials, character fragments), a star rating or performance indicator, and progression toward the next stage. This capture documents the standard post-stage result UI, illustrating the pacing of the game's reward loop.
+**Caption:** The **main menu** for *Masters of the Universe: Skeletor: Until Next Time* shows Skeletor reclined, with a **PLAY** button and navigation tabs for **EVIL PASS**, **SNAKE MOUNTAIN**, and **PROFILE**.
 
 ---
 
-### Maximum Evil Battle Pass — Fully Completed
+### Run Complete — Results Screen
 
-![Masters of the Universe: Skeletor: Until Next Time — Evil Battle Pass screen showing all tiers completed and maximum rewards claimed for the season](motu-skeletor-max-evil-pass.jpg)
+![Masters of the Universe: Skeletor: Until Next Time — Run complete screen showing a score of 16,594, a new-high-score notice, and coin rewards](motu-skeletor-level-end.jpg)
 
-**Caption:** Screenshot of the **Evil Battle Pass at maximum completion**, with all seasonal reward tiers fully claimed. The Evil Battle Pass is the villain-themed counterpart to the heroic Battle Pass in *Battle for Grayskull*. The tier track is displayed horizontally with every node marked as claimed, including premium-tier rewards. Reward types visible may include currency (Dark Coins, Chaos Crystals, or similar), character unlock fragments, upgrade materials, and cosmetic items. This capture documents the maximum achievable Evil Battle Pass state for a given season.
+**Caption:** The **RUN COMPLETE** results screen shows a run score of **16,594**, a **NEW HIGH SCORE!** notice, and a coin reward of **2,123**. It also says, **“A HERO APPEARS NEXT RUN.”**
 
 ---
 
-### Snake Mountain — Maximum Upgrade Level
+### Evil Battle Pass — Maximum Tier 50
 
-![Masters of the Universe: Skeletor: Until Next Time — Snake Mountain fortress shown at maximum upgrade level with all structural enhancements applied and production buildings at peak capacity](motu-skeletor-max-snake-mountain.jpg)
+![Masters of the Universe: Skeletor: Until Next Time — Evil Pass screen showing claimed rewards for tiers 46 through 50, while Vile Pass rewards are locked](motu-skeletor-max-evil-pass.jpg)
 
-**Caption:** Screenshot of **Snake Mountain at its maximum upgrade level**, with all hub structures and fortifications fully upgraded. Snake Mountain functions as the game's central base hub, analogous to Castle Grayskull in the heroic games. This capture shows the fortress in its fully-developed state: all production buildings at peak capacity, defensive structures upgraded, and the characteristic mountain-castle aesthetic of Skeletor's stronghold at its most imposing. Resource production rates, building levels, and the fortress's visual evolution from base to maximum are documented through this screenshot.
+**Caption:** The **Evil Pass** track shows claimed rewards for tiers **46–50**, reaching the maximum tier of **50**. The corresponding premium **Vile Pass** rewards shown are locked. Visible Evil Pass rewards include currency, upgrade materials, and cosmetic items.
+
+---
+
+### Snake Mountain — Highest Available Shelves at Capture
+
+![Masters of the Universe: Skeletor: Until Next Time — Snake Mountain item collection screen displaying the highest available shelves at the time of capture](motu-skeletor-max-snake-mountain.jpg)
+
+**Caption:** The **Snake Mountain** item collection screen displays the highest available shelves at the time of capture, including character and item cards.
 
 ---
 
@@ -104,19 +104,18 @@ Skeletor moves forward automatically through an unending, algorithmically genera
 
 | System | Description |
 |---|---|
-| **Player Faction** | Evil — player commands Skeletor's army |
-| **Hub** | Snake Mountain; upgradeable fortress-base |
-| **Core Loop** | Idle/automated combat conquering Eternia |
-| **Evil Battle Pass** | Seasonal tier-based progression for evil-aligned rewards |
-| **Stage Results** | Star-rated post-stage results with reward summary |
-| **Progression** | Hub and character upgrade systems; maximum states documented |
+| **Player Character** | Skeletor |
+| **Collection Screen** | Snake Mountain |
+| **Core Loop** | Endless runs, score-based results, and rewards |
+| **Evil Battle Pass** | Seasonal reward track with a maximum tier of 50 |
+| **Progression** | Run scores, Battle Pass rewards, and Snake Mountain item collection |
 
 ---
 
 ## Preservation Notes
 
-As a live-service game, *Masters of the Universe: Skeletor: Until Next Time* is subject to server shutdown without advance notice. The four screenshots archived here represent the game's key visual states — intro, stage results, maximum Battle Pass, and maximum base — captured during active service.
+As a live-service game, *Masters of the Universe: Skeletor: Until Next Time* is subject to server shutdown without advance notice. The four screenshots archived here preserve the main menu, run results, Evil Pass rewards through tier 50, and the highest Snake Mountain shelves available at the time of capture.
 
 ---
 
-*Document authored by Jacob Quisenberry. Version 1.01 — 2026-11-14.*
+*Document authored by Jacob Quisenberry. Version 1.02 — 2026-11-16.*
