@@ -11,9 +11,9 @@ publisher: "Mattel"
 release_year: 2016
 document_type: "Media Archive"
 author: "Jacob Quisenberry"
-version: "1.00"
+version: "1.01"
 date: "2026-11-05"
-last_updated: "2026-11-05"
+last_updated: "2026-11-16"
 language: "en"
 tags:
   - masters-of-the-universe
@@ -39,7 +39,7 @@ summary: "Release reference and archive entry for Masters of the Universe VR (An
 > **Publisher:** Mattel  
 > **Release Date:** Android — November 1, 2016 / iOS — October 31, 2016  
 > **Genre:** Virtual Reality Experience  
-> **Author:** Jacob Quisenberry — Version 1.00 (2026-11-05)
+> **Author:** Jacob Quisenberry — Version 1.01 (2026-11-16)
 
 ---
 
@@ -93,12 +93,11 @@ The View-Master VR was marketed alongside licensed experience packs (physical re
 
 ## Content Notes
 
-As a **VR experience** (rather than a traditional game), *Masters of the Universe VR* likely presents:
+As a **VR experience** (rather than a traditional game), *Masters of the Universe VR* presents:
 
 - Immersive 360-degree environments set in the Masters of the Universe world (Eternia, Castle Grayskull, Snake Mountain)
 - Character encounters with He-Man, Skeletor, and other iconic figures
 - Interactive VR elements compatible with the View-Master VR's input mechanism (gaze-based selection, Cardboard button tap)
-- Educational or exploratory content appropriate for the family/children target market
 
 ---
 
@@ -108,5 +107,4 @@ No in-game screenshots are currently included in this archive entry. Store links
 
 ---
 
-*Document authored by Jacob Quisenberry. Version 1.00 — 2026-11-05.*
-
+*Document authored by Jacob Quisenberry. Version 1.01 — 2026-11-16.*
