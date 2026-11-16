@@ -239,10 +239,8 @@ Once the immediate sync above is completed, proceed to convert the remaining gam
 |---|---|---|---|
 | `intv_super_masters` | Intellivision | *Masters of the Universe* / *Intellivision Lives* / *Super Masters* screen and packaging archive (7 images) | `docs/Intellivision/MOTU_Super_Masters/` |
 | `Barcode_Battler_II` | Dedicated Handheld / Epoch | Barcode Battler II documentation, barcode cards, interface mechanics | `docs/Handheld/Barcode_Battler_II/` |
-| `Dragon_Edge_Pinball` | Pinball / Mobile / Arcade | Dragon's Edge Pinball rule sheet, table mechanics, scoring strategies | `docs/<Platform>/Dragon_Edge_Pinball/` |
 | `Dungeons_and_Dragons_LCD` | Handheld LCD | Mattel / Tiger Dungeons & Dragons LCD handheld game manual and maze reference | `docs/Handheld_LCD/Dungeons_and_Dragons/` |
 | `GBA_Tactics_Ogre_KOL` | Game Boy Advance | *Tactics Ogre: The Knight of Lodis* comprehensive guide / mechanics | `docs/GBA/Tactics_Ogre_KOL/` |
-| `Might_and_Magic` | PC / Multi-platform | *Might and Magic* walkthrough / spell tables / maps | `docs/PC/Might_and_Magic/` |
 | `PC_Toy_Soldiers_WC` | PC (Windows) | *Toy Soldiers: War Chest* unit stats, survival guide, hero tactics | `docs/PC_Windows/Toy_Soldiers_War_Chest/` |
 | `SNES_Final_Fantasy_II` | Super Nintendo (SNES) | *Final Fantasy II* (FFIV) walkthrough, boss tactics, item tables | `docs/SNES/Final_Fantasy_II/` |
 | `Tingle_Rupeeland_DS` | Nintendo DS | *Freshly-Picked Tingle's Rosy Rupeeland* walkthrough, negotiation formula, recipe translation | `docs/DS/Tingle_Rupeeland/` |
