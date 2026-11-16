@@ -10,7 +10,7 @@ publisher: "Square"
 release_year: 1991
 document_type: "Strategy Guide"
 author: "Jacob Quisenberry"
-version: "1.1"
+version: "1.2"
 date: "2026-11-07"
 last_updated: "2026-11-16"
 language: "en"
@@ -41,17 +41,9 @@ Final Fantasy II (English), Final Fantasy IV (Japan) [Yes, the codes work in bot
 Super Nintendo Entertainment System<br>
 Pro Action Replay, Game Shark, and Game Genie codes by Jacob Quisenberry<br>
 © Jacob Quisenberry 1999, 2003<br>
-[email omitted]
-You may distribute this document as much as you want IF:
-1. You maintain credit to me.
-2. You do not change anything.
-3. You do not make any money.
-You may include information from this document in other documents IF:
-1. You give credit to me.
-2. You do not credit me with things I did not create.
-3. You give me notice at [email omitted]
+
 The codes I have developed are designed to allow you to assign any spell to any character or exchange spells between characters.  My other codes affect other aspects of the magic system.
-Everything here is my own work and my own discoveries.  The last time they were available is when I posted them on Usenet back in 1999.
+Everything here is my own work and my own discoveries.  The first time they were available is when I posted them on Usenet back in 1999.
 
 ### Contents
 - Part 0: Spell Cycler, the Very Brief Version
@@ -2363,7 +2355,7 @@ It is possible to place any specific spell into a given cell by adding the spell
 
 ### MAGIC POINTS
 
-It is possible to change character MP by adding the desired values (in hex) to the below address. Since MP is defined as two bytes, you must use two addresses. The values will be 256*the value of the top address +1* the value of the bottom address. To give Cecil a Max HP of 580, use 02 and 42 because 2*256+66=580. (42 hex is 66 in decimal) The codes would be 7E104E02  and 7E104D42 All codes are in Pro Action Replay / Gameshark but can be converted to Game Genie by a converter. All codes work with both FF4j and FF2us.
+It is possible to change character MP by adding the desired values (in hex) to the below address. Since MP is defined as two bytes, you must use two addresses. The values will be 256\*the value of the top address +1\* the value of the bottom address. To give Cecil a Max HP of 580, use 02 and 42 because 2\*256+66=580. (42 hex is 66 in decimal) The codes would be 7E104E02  and 7E104D42 All codes are in Pro Action Replay / Gameshark but can be converted to Game Genie by a converter. All codes work with both FF4j and FF2us.
 
 | Character | Current MP (first address) | Current MP (second address) | Max MP (first address) | Max MP (second address) |
 | --- | --- | --- | --- | --- |
