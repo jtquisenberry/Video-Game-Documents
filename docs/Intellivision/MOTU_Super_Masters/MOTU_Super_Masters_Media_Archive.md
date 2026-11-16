@@ -35,17 +35,17 @@ This media archive preserves three gameplay/title-screen captures associated wit
 
 ![Intellivision title screen for Super Masters, crediting Ray Wastner and displaying a 1982 Mattel copyright](assets/super_masters_intro.png)
 
-**Caption and transcription:** The black title screen has a horizontal row of small colored squares across the top. Centered blue pixel lettering reads “RAY WASTNER”; smaller white text below reads “PRESENTS.” The large white title reads “SUPER MASTERS!” and the bottom line reads “COPY © 1982 MATTEL.” No platform logo, instructions, or controls are visible in this capture.
+**Caption and transcription:** The black title screen has a horizontal row of small colored squares across the top. Centered blue pixel lettering reads “RAY WASTNER”; smaller white text below reads “PRESENTS.” The large white title reads “SUPER MASTERS!” and the bottom line reads “Copr @ 1982 Mattel.” No platform logo, instructions, or controls are visible in this capture.
 
 ## Gameplay Captures
 
 ![Super Masters gameplay screen with green tiered platforms, ladders, a yellow key at upper left, and several colored character sprites](assets/super_masters_play_001.png)
 
-**Caption:** A single-screen platform area is built from layered light and dark green ledges, with short ladders and diagonal striped surfaces connecting different elevations. A yellow key-like object sits at the upper-left edge. Small blue, yellow, orange, and magenta character or object sprites are distributed across the platforms; the image does not identify their roles. There is no readable score, health display, or instruction text in this frame.
+**Caption:** A single-screen platform area is built from layered light and dark green ledges, with short ladders and diagonal striped surfaces connecting different elevations. Small blue, yellow, orange, and magenta character or object sprites are distributed across the platforms; the image does not identify their roles. There is no readable score, health display, or instruction text in this frame.
 
 ![Second Super Masters gameplay screen showing connected green platforms, ladders, striped slopes, and multicolored sprites](assets/super_masters_play_002.png)
 
-**Caption:** This second view shows another arrangement of the same green platform terrain. A yellow key-like object and blue sprite appear near the upper-left area; additional blue, orange, yellow, and magenta sprites appear on ledges to the right and center. Ladders and repeated diagonal stripes indicate vertical connections and sloped or patterned surfaces. No legible HUD or game instructions are shown.
+**Caption:** This second view shows another arrangement of the same green platform terrain. A blue sprite appear near the upper-left area; additional blue, orange, yellow, and magenta sprites appear on ledges to the right and center. Ladders and repeated diagonal stripes indicate vertical connections and sloped or patterned surfaces. No legible HUD or game instructions are shown.
 
 ## Intellivision Lives! Packaging Art
 
@@ -69,8 +69,8 @@ The four cover images below are alternate-size or alternate-quality reproduction
 
 ## Archive Scope and Attribution
 
-- The title-screen capture attributes *Super Masters* to Ray Wastner and shows “COPY © 1982 MATTEL.”
+- The title-screen capture attributes *Super Masters* to Ray Wastner and shows “Copr @ 1982 Mattel.”
 - The cover artwork advertises *Intellivision Lives!* for play on PC or Mac and claims “OVER 50 CLASSIC GAMES!”
-- *Super Masters* was released on December 18, 1998; the title-screen copyright separately reads “COPY © 1982 MATTEL.”
+- *Super Masters* was released on December 18, 1998; the title-screen copyright separately reads “Copr @ 1982 MATTEL.”
 - The supplied visual material does not establish whether *Super Masters* was completed or included in a particular edition of *Intellivision Lives!*.
 - Cover images are preserved as archival references. Their visible artwork is described here; no claim of ownership is made.
