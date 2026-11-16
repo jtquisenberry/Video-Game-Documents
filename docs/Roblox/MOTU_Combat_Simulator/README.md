@@ -95,7 +95,7 @@ Combat is idle-style: allies attack enemies continuously, while the player can a
 
 ![He-Man: Combat Simulator — Full combat arena with zoom-out perspective showing the complete battlefield layout, character positions, and environmental background](He-Man-combat-simulator-zoom-out.png)
 
-**Caption:** **Full arena zoom-out screenshot** providing a wide-perspective view of the combat environment. This capture shows the complete battlefield: character positions, the arena background artwork, and the full UI framing including ability bars, HP displays, and round/stage indicators. This view is useful for understanding the combat area's proportions and visual design.
+**Caption:** This zoomed-out gameplay screenshot shows the arena, character positions, and surrounding environment. The HUD indicates **Wave 91 Complete**.
 
 ---
 
@@ -138,7 +138,6 @@ Combat is idle-style: allies attack enemies continuously, while the player can a
 | System | Description |
 |---|---|
 | **Core Combat** | Allies attack continuously; the player can attack enemies at any time |
-| **Character Levels** | Per-character level upgrades; Sorceress documented at max level |
 | **Abilities** | Unique ability sets per character with power costs |
 | **Arena** | Dedicated combat arena with Eternia-themed backgrounds |
 | **Wave Cap** | Wave 100 is the highest wave; there is no option to proceed past it |
