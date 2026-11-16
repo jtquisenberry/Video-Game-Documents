@@ -87,7 +87,7 @@ Combat is idle-style: allies attack enemies continuously, while the player can a
 
 ![He-Man: Combat Simulator — Character detail screen for the Sorceress at maximum level showing fully upgraded stats, abilities, and character portrait](He-Man-combat-simulator-sorceress-max-level.jpg)
 
-**Caption:** Character detail screen for **the Sorceress of Castle Grayskull at maximum level**. The Sorceress is a central character in the Masters of the Universe lore, guardian of Castle Grayskull and magical advisor to He-Man. This screenshot documents her maximum-level stat block and character portrait, rendered in the CGI art style of Netflix's *He-Man and the Masters of the Universe* (2021–2022).
+**Caption:** Character detail screen for **the Sorceress of Castle Grayskull at maximum level**. She is the most expensive character to upgrade and the most powerful character in the game. This screenshot documents her maximum-level stats and character portrait, rendered in the CGI art style of Netflix's *He-Man and the Masters of the Universe* (2021–2022).
 
 ---
 
@@ -95,7 +95,7 @@ Combat is idle-style: allies attack enemies continuously, while the player can a
 
 ![He-Man: Combat Simulator — Full combat arena with zoom-out perspective showing the complete battlefield layout, character positions, and environmental background](He-Man-combat-simulator-zoom-out.png)
 
-**Caption:** **Full arena zoom-out screenshot** providing a wide-perspective view of the combat environment. This capture shows the complete battlefield: character positions on opposing sides, the arena background artwork (possibly Eternia landscapes, Snake Mountain, or Castle Grayskull interior), and the full UI framing including ability bars, HP displays, and round/stage indicators. This view is useful for understanding the combat area's proportions and visual design.
+**Caption:** **Full arena zoom-out screenshot** providing a wide-perspective view of the combat environment. This capture shows the complete battlefield: character positions, the arena background artwork, and the full UI framing including ability bars, HP displays, and round/stage indicators. This view is useful for understanding the combat area's proportions and visual design.
 
 ---
 
@@ -139,7 +139,7 @@ Combat is idle-style: allies attack enemies continuously, while the player can a
 |---|---|
 | **Core Combat** | Allies attack continuously; the player can attack enemies at any time |
 | **Character Levels** | Per-character level upgrades; Sorceress documented at max level |
-| **Abilities** | Unique ability sets per character with cooldowns and power costs |
+| **Abilities** | Unique ability sets per character with power costs |
 | **Arena** | Dedicated combat arena with Eternia-themed backgrounds |
 | **Wave Cap** | Wave 100 is the highest wave; there is no option to proceed past it |
 | **Character Levels** | Per-character level upgrades; Sorceress documented at max level |
