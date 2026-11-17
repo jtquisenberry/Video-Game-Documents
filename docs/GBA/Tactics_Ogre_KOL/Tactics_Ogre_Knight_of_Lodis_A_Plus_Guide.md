@@ -9,9 +9,9 @@ publisher: "Atlus"
 release_year: 2001
 document_type: "Strategy Guide"
 author: "Jacob Quisenberry"
-version: "1.30"
+version: "1.31"
 date: "2004-08-07"
-last_updated: "2026-11-07"
+last_updated: "2026-11-16"
 language: "en"
 tags:
   - tactics-ogre
@@ -21,12 +21,12 @@ tags:
   - strategy
   - game-shark
   - cheat-codes
-summary: "Complete version 1.30 A+ ending guide for Tactics Ogre: The Knight of Lodis, including ending requirements, GameShark and raw hexadecimal codes, a low-effort playthrough, cheat-device instructions, transcripts, and legitimate strategies for earning A+."
+summary: "Complete version 1.31 A+ ending guide for Tactics Ogre: The Knight of Lodis, including ending requirements, GameShark and raw hexadecimal codes, a low-effort playthrough, cheat-device instructions, transcripts, and legitimate strategies for earning A+."
 ---
 
 # Tactics Ogre: The Knight of Lodis - A+ Ending Guide, Strategies & Cheat Code Reference
 
-**Source version:** 1.30 (2004-08-07). This archived guide has been converted from the author's GameFAQs text source; headings and list markers are formatted as Markdown. Email contact details have been omitted.
+**Version:** 1.31 (updated 2026-11-16). Email contact details have been omitted.
 
 Tactics Ogre: The Knight of Lodis
 		A+ Ending Guide &
@@ -46,68 +46,31 @@ Gameboy Advance
 GameShark v.1/v.2 and Raw Hexadecimal codes
 	by Jacob Quisenberry
 © Jacob Quisenberry 2004
-[Email address omitted from this repository copy.]
-You may distribute this document as much as you want
-IF:
-(1) You maintain credit to me.
-(2) You do not change anything.
-(3) You do not make any money.
-
-You may include information from this document in other documents
-IF:
-(1) You give credit to me.
-(2) You do not credit me with things I did not create.
-(3) You give me notice at [email omitted]
-
 
 
 ## 0. TABLE OF CONTENTS
-## 1. INTRODUCTION
 
-## Part I
+- [1. Introduction](#introduction)
+- Part I
+  - [2. Requirements](#requirements)
+  - [3. Cheat Your Way to an A+](#cheat-your-way-to-an-a)
+  - [4. Play-Through with Little Effort](#play-through-with-little-effort)
+  - [5. Miscellaneous Codes](#miscellaneous-codes)
+  - [6. A+ Transcript](#a-transcript)
+  - [7. How to Use Cheat Devices](#how-to-use-cheat-devices)
+    - [7A. Using a GameShark](#using-a-gameshark)
+    - [7B. Using an Emulator](#using-an-emulator)
+    - [7C. Using AR Crypt](#using-ar-crypt)
+- [Part II](#part-ii)
+  - [8. Strategies to Obtain an A+ Legitimately](#strategies-to-obtain-an-a-legitimately)
+    - [8A. My Strategy for Beating Shaher](#my-strategy-for-beating-shaher)
+    - [8B. Other Fans’ Strategies](#other-fans-strategies)
+  - [9. Credits](#credits)
+  - [10. Comments](#comments)
+  - [11. History of This Guide](#history-of-this-guide)
+  - [12. Conclusion](#conclusion)
 
-
-## 2. REQUIREMENTS
-     Here is detailed what the game checks for before awarding the A+ ending.
-
-## 3. CHEAT YOUR WAY TO AN A+
-     This section assumes that you are near the end of the game, typically
-     ready to save at Charadrius before the Angel’s Headstone.
-
-## 4. PLAY-THROUGH WITH LITTLE EFFORT
-     This section describes how to play the game from the beginning and obtain
-     an A+ with a minimum of effort.
-     - Includes 99999999 Goth Code
-     - Includes Automatic Leveling Technique
-
-## 5. MISCELLANEOUS CODES
-     These codes are not important to obtain the A+ ending, but I found them
-     and do not want them to go to waste.
-
-## 6. A+ TRANSCRIPT
-
-## 7. HOW TO USE CHEAT DEVICES
-### 7A. Using a GameShark
-### 7B. Using an Emulator
-### 7C. Using AR Crypt to convert codes among devices
-
-
-## Part Ii
-
-## 8. STRATEGIES TO OBTAIN AN A+ LEGITIMATELY
-### 8A. My strategy for beating Shaher
-### 8B. Other Fans’ Strategies for EARNING an A+
-
-## 9. CREDITS
-
-## 10. COMMENTS
-
-## 11. HISTORY OF THIS GUIDE
-
-## 12. CONCLUSION
-
-
-
+<a id="introduction"></a>
 ## 1. INTRODUCTION
 
 This guide has two purposes: (1) Provide the fastest possible ways to cheat
@@ -142,6 +105,7 @@ may, nevertheless, want to play through the second time quickly.
 
 
 
+<a id="requirements"></a>
 ## 2. REQUIREMENTS
 This section describes what is required to obtain the A+ ending.
 
@@ -182,7 +146,7 @@ your fourth battle team carries over to the fifth battle. Note: to "survive",
 Eleanor must not be dead or petrified. She can be Poisoned, Confused, Charmed,
 or Stunned.
 
-6. Finish the game in under 25 hours. It may be 25 hours or less.  Note: The
+6. Finish the game in less than 25 hours. Note: The
 game clock continues even during the period after you defeat Shaher and before
 viewing the “The End” screen.  Less than 25 hours must have elapsed by the time
 you pass the “The End” screen. This can be verified with a memory viewer.
@@ -203,6 +167,7 @@ deleted varies depending on choices made during the game.
 
 
 
+<a id="cheat-your-way-to-an-a"></a>
 ## 3. CHEAT YOUR WAY TO AN A+
 This section assumes that you are about ready to finish the game.  The codes
 provided below allow you to obtain each of the requirements for the A+ ending.
@@ -244,7 +209,7 @@ These codes will set the total number of characters fallen to zero.
 Best Cheating
 Input the cheat code at Charadrius.  Wait a few seconds, then deactivate the
 code.  Save the game.  Finish the game to the “The End” screen without allowing
-10 or more characters to die. Death includes using a Snapdragon to turn a
+more than 5 characters to die. Death includes using a Snapdragon to turn a
 character into a sword.
 
 Alternative Cheating
@@ -257,8 +222,10 @@ CHARACTERS FALLEN
 Raw Form: 020013B4:000000xx ,
 	where xx is a hexadecimal representation of the number of characters killed.
 
+```text
 RAW                             GameShark v.1/v.2       GameShark v.3
 020013B4:00000000               4ECCB1569AD4AA0C        BF8B9D5D 64CBCB61
+```
 
 
 
@@ -281,13 +248,15 @@ playing for a second, and then deactivate the code.  If you do not deactivate
 the code before the game attempts to auto-save after, the game may not
 auto-save correctly.
 
-CHARACTERS FALLEN
+ALPHONSE'S KILLS
 Raw Form: 020013B8:000000xx ,
 	where xx is a hexadecimal representation of the number of enemies killed by
 Alphonse.
 
+```text
 RAW                             GameShark v.1/v.2       GameShark v.3
 020013B8:00000063               6535D7420726681B        924634D9 3D80060D
+```
 
 
 4. Include Eleanor in the battle against Shaher and have her survive.
@@ -296,7 +265,7 @@ the game that the game ending with Eleanor in your party and that she survived
 because:
 (1) The first scene of the ending involves characters on the field, so I do not
 know how a code would affect the game.
-(2) I think it would be very difficult to develop a all the necessary codes.
+(2) I think it would be very difficult to develop all the necessary codes.
 
 
 5. Under 25 hours.
@@ -319,15 +288,19 @@ HOURS
 Raw Form: 0200118D:000000xx ,
 	where xx is a hexadecimal representation of the number of hours.
 
+```text
 RAW                             GameShark v.1/v.2       GameShark v.3
 0200118D:00000002               EB04CAC66E580483        627E83EF 3E0718B6
+```
 
 MINUTES
 Raw Form: 0200118E:000000xx ,
 	Where xx is a hexadecimal representation of the number of minutes.
 
+```text
 RAW                             GameShark v.1/v.2       GameShark v.3
 0200118E:00000005               A0F4C156671EC038        3AEDCE20 CF6BC7F4
+```
 
 
 Note: Time in memory is stored as Hours, Minutes, AND Seconds.  I have not
@@ -357,13 +330,16 @@ correctly.
 
 ‘A’ to A+ Conversion Code
 
+```text
 RAW                             GameShark v.1/v.2       GameShark v.3
 020011EA:000000B7               94203175C37D237B        3C1231CB DEB39B30
+```
 
 
 
 
 
+<a id="play-through-with-little-effort"></a>
 ## 4. PLAY-THROUGH WITH LITTLE EFFORT
 This section provides the steps needed to obtain the A+ ending with little
 effort, cheating where useful. This section assumes that you are just starting
@@ -404,20 +380,22 @@ GOTH Code
 Raw Form: 02001184:xxxxxxxx ,
 	Where xxxxxxxx is a hexadecimal representation of the amount of Goth.
 
+```text
 RAW                             GameShark v.1/v.2       GameShark v.3
 02001184:05F5E0FF               809892BC257EF054        41B70CBF 0B495FEF
+```
 
 
 5. Use training to level up your characters to level 50 whenever you want. When
 your characters are at level 50, story missions and encounters will be a
-breeze.  Furthermore, you not have much need to kill all the enemies in any
+breeze. Furthermore, you will not need to kill all the enemies in any
 given battle to obtain their treasures.  Thus, you will be able to spend very
 little time actually playing the game.
 
 To enjoy the game fully, do not use automatic leveling.  I suggest it only as a
 method to reduce the amount of time you must pay attention to the game.
 
-To level up you characters in training:
+To level up your characters in training:
 
 01. Buy an A/C adapter for your Gameboy Advance.  This process will take many
 hours, but you need not pay attention to the game.
@@ -466,6 +444,7 @@ by cheat codes; and (2) because the game auto-saves after the ending.
 
 
 
+<a id="miscellaneous-codes"></a>
 ## 5. MISCELLANEOUS CODES
 These are codes I found while writing this guide but that are not especially
 useful in cheating your way to an A+.
@@ -477,8 +456,10 @@ GOTH CODE : These codes provide 99999999 Goth
 Raw Form: 02001184:xxxxxxxx ,
 	Where xxxxxxxx is a hexadecimal representation of the amount of Goth.
 
+```text
 RAW                             GameShark v.1/v.2       GameShark v.3
 02001184:05F5E0FF               809892BC257EF054        41B70CBF 0B495FEF
+```
 
 ------------
 DISMISSED CHARACTERS : These codes change the dismissed characters number to
@@ -491,8 +472,10 @@ Raw Form: 020013B6:0000xxxx ,
 dismissed.
 
 
+```text
 RAW                             GameShark v.1/v.2       GameShark v.3
 020013B6:00001111               EDEE6E732F47BA69        EE968F36 747ED8D7
+```
 ------------
 TOTAL KILLS : This code modifies the number for how many total enemies your
 characters have killed.  The total can also be modified by changing individual
@@ -505,8 +488,10 @@ Raw Form: 020013B8:0000xxxx
       Where xxxx is a hexadecimal representation of the number of total kills.
 
 
+```text
 RAW                             GameShark v.1/v.2       GameShark v.3
 020013B8:00001111               F9A3398499EA9CD4        60385F2C A8828000
+```
 ------------
 ELRIK’S KILLS : This code modifies the number for how many enemies Elrik
 killed.  Changing this number will also affect the number for how many enemies
@@ -519,8 +504,10 @@ These codes change Elrik’s kills to 99
 Raw Form: 020016BC:000000xx
       Where xx is a hexadecimal representation of the number of Elrik’s kills.
 
+```text
 RAW                             GameShark v.1/v.2       GameShark v.3
 020016BC:00000063               4F26335B2290E012        6B619B86 E7AB2020
+```
 ------------
 ENDING CONVERSION
 
@@ -539,6 +526,7 @@ B0 in other endings
 
 
 
+<a id="a-transcript"></a>
 ## 6. A+ TRANSCRIPT
 
 [Music: The music has an ominous feel for several seconds.]
@@ -581,6 +569,7 @@ suspicion.”
 
 
 
+<a id="how-to-use-cheat-devices"></a>
 ## 7. HOW TO USE CHEAT DEVICES
 
 However you decide to cheat, you should be very familiar with your device’s
@@ -592,6 +581,7 @@ description of the format.  If you need encrypted codes for a particular
 device, and I have not provided them, see the section on AR Crypt.
 
 
+<a id="using-a-gameshark"></a>
 ### 7A. Using a GameShark
 The GameShark v.1/v.2 and v.3 require master codes before recognizing other
 cheat codes.  For any cheat code to work, you must activate the master codes.
@@ -600,6 +590,7 @@ you.
 
 GameShark v.1/v.2               GameShark v.3
 
+```text
 Master Code #1                  Master Code #1
 B8082E35F07B3ACC                687A4DFB 488ED39E
 CD23B7B24883FB1A                A6526B68 9508E5B9
@@ -615,20 +606,20 @@ CD23B7B24883FB1A                A6526B68 9508E5B9
 Master Code #4                  Master Code #4
 54251CC4F74AEC12                32920730 84E43262
 CD23B7B24883FB1A                A6526B68 9508E5B9
+```
 
 
-
+<a id="using-an-emulator"></a>
 ### 7B. Using an Emulator
-Keep in mind that in many countries and jurisdictions, emulators and ROM may be
-illegal.  Using them without express permission may subject you to civil
-liability and criminal charges. Do not fool yourself into believe that United
-States “Fair Use” doctrine protects your use of emulators; it probably does
-not.  Any other legal theories are highly contentious.
+You are responsible for ensuring that any emulator, ROM, BIOS, or game copy
+you obtain or use complies with the laws applicable in your jurisdiction. This
+guide does not provide or authorize access to game files, and it is not legal
+advice.
 
-If you use an emulator (legally), use only VisualBoy Advance.  The emulator is
-available from http://vba.ngemu.com/ .  The emulator includes a RAM viewer and
-a disassembler.  The emulator supports at least RAW hexadecimal, GameShark
-v.1/v.2, and CodeBreaker codes.
+The original guide's historical recommendation was to use only VisualBoy
+Advance. The guide listed http://vba.ngemu.com/ as its download address and
+described the emulator as including a RAM viewer and a disassembler, with
+support for at least RAW hexadecimal, GameShark v.1/v.2, and CodeBreaker codes.
 
 Real cheat devices require the use of a master code to recognize all other
 cheat codes.  Emulators do not.  This means that you can enter only the codes
@@ -637,9 +628,11 @@ that you want to activate.
 VisualBoy Advance supports 8-bit, 16-bit, and 32-bit RAW entries.  The format
 is
 
+```text
  8-bit aaaaaaaa:bb
 16-bit aaaaaaaa:bbbb
 32-bit aaaaaaaa:bbbbbbbb
+```
 
 Where aaaaaaaa is a memory address and bb, bbbb, or bbbbbbbb is a hexadecimal
 value.
@@ -653,6 +646,7 @@ between the 8th and 9th characters of a code, or the system will think you are
 using a v.1/v.2 code.
 
 
+<a id="using-ar-crypt"></a>
 ### 7C. Using AR Crypt to convert codes among devices
 
 I have provided RAW Hexadecimal codes that can be used to generate codes for
@@ -688,10 +682,13 @@ If you need master codes, do this:
 
 
 
+<a id="part-ii"></a>
 ## Part Ii
+<a id="strategies-to-obtain-an-a-legitimately"></a>
 ## 8. STRATEGIES TO OBTAIN AN A+ LEGITIMATELY
 
 
+<a id="my-strategy-for-beating-shaher"></a>
 ### 8A. My strategy for beating Shaher
 Here is how to beat Shaher without special weapons.  Special characters are not
 necessary either, but I have provided tips on which ones to use.
@@ -758,19 +755,20 @@ place your remaining character on the empty square adjacent to the priest. Your
 priest is now on the edge of the board surrounded by three allies and cannot be
 attacked except by Predators, or Shaher.
 
-The formation will look like this
+The formation will look like this:
 
+```text
 S| |K|P|C|     S=Shaher
  | | |C| |     K=Knight
 K| | | | |     P=Priest
 P|C| | | |     C=Another Character,
 C| | | | |       probably a magic user or a knight
-
+```
 
 Since your closest characters to Shaher are still one square away, they will
 not be hit with Shaher’s attack Shear, which inflicts damage on adjacent
 characters. Also, if you cast a magic attack on Shaher other than a summon
-spell, your characters they will not take damage. Unfortunately, your fighters
+spell, your characters will not take damage. Unfortunately, your fighters
 with spears also will not be able to inflict as much damage as they otherwise
 would if they were adjacent to Shaher.
 
@@ -792,14 +790,14 @@ Stalkers to contend with by now, do not kill them.
 Shaher will perform Shear if applicable and one of its four other attacks.
 
 Shear: If any characters are adjacent to Shaher, he will perform a physical
-attack that inflicts heavy damage on the characters by Shaher.
+attack that inflicts heavy damage on the characters from Shaher.
 
-Descent: If at least to of the other enemies are dead, Shaher will summon
+Descent: If at least two of the other enemies are dead, Shaher will summon
 enough replacements to bring the total to four.  The replacements can be
 Predators, Hell Gigantes, or Dark Stalkers. The replacements will attack
 immediately.
 
-Apocalypse: Shaher unleashes a magic attack against of one of your characters.
+Apocalypse: Shaher unleashes a magic attack against one of your characters.
 It should be a simple matter to heal that character.
 
 Day of Reckoning: Shaher will attempt to inflict status defects Stun, Confuse,
@@ -847,6 +845,7 @@ of success.
 
 
 
+<a id="other-fans-strategies"></a>
 ### 8B. Other Fans’ Strategies for EARNING an A+
 
 
@@ -889,17 +888,20 @@ believe that they'll make for the easiest time.
 
 
 
+<a id="credits"></a>
 ## 9. CREDITS
 Typically credits are provided here only when not provided alongside the
 contributed text.
 
 
+<a id="comments"></a>
 ## 10. COMMENTS
 I am willing to post comments from readers of this guide. If you make a comment
 to me and would like it included here, please state explicitly that you want
 your comment included.
 
 
+<a id="history-of-this-guide"></a>
 ## 11. HISTORY OF THIS GUIDE
 
 08/07/2004
@@ -930,6 +932,7 @@ your comment included.
 I began writing this guide.
 
 
+<a id="conclusion"></a>
 ## 12. CONCLUSION
 That is all for now.
 

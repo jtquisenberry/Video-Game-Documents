@@ -9,9 +9,9 @@ publisher: "Atlus"
 release_year: 2001
 document_type: "Strategy Guide"
 author: "Jacob Quisenberry"
-version: "1.20"
+version: "1.22"
 date: "2004-08-01"
-last_updated: "2026-11-07"
+last_updated: "2026-11-16"
 language: "en"
 tags:
   - tactics-ogre
@@ -21,12 +21,12 @@ tags:
   - strategy
   - game-shark
   - cheat-codes
-summary: "Version 1.20 ending reference for Tactics Ogre: The Knight of Lodis, documenting ending requirements, transcript variations, post-ending behavior, tricks, credits, and guide history."
+summary: "Version 1.22 ending reference for Tactics Ogre: The Knight of Lodis, documenting ending requirements, transcript variations, post-ending behavior, tricks, credits, and guide history."
 ---
 
 # Tactics Ogre: The Knight of Lodis - Ending Requirements & Transcript Guide
 
-**Source version:** 1.20 (2004-08-01). This archived guide has been converted from the author's GameFAQs text source; headings and list markers are formatted as Markdown. Email contact details have been omitted.
+**Source version:** 1.20 (2004-08-01). Email contact details have been omitted.
 
 Tactics Ogre: The Knight of Lodis
                 Endings Guide
@@ -37,54 +37,27 @@ Tactics Ogre: The Knight of Lodis
 SPOILERS: This document discusses the endings, strategies, and plot points of
 Tactics Ogre: The Knight of Lodis.
 
-DISCLAIMERS: Cheat codes can DESTROY OR CORRUPT _ANY_ save game on your
-cartridge.  I am not responsible for any damage or inconvenience you may suffer
-by using this guide.
+Cheat codes can corrupt save data. Use them cautiously, and back up your save
+when possible.
 
 Tactics Ogre: The Knight Of Lodis
 Gameboy Advance
-
-NOTICES:
-You may distribute this document as much as you want
-IF:
-(1) You maintain credit to me.
-(2) You do not change anything.
-(3) You do not make any money.
-
-You may include information from this document in other documents
-IF:
-(1) You give credit to me.
-(2) You do not credit me with things I did not create.
-(3) You give me notice at [email omitted]
-
 
 
 
 ## 0. TABLE OF CONTENTS
 
-## 1. INTRODUCTION
-
-## 2. REQUIREMENTS
-     Here is detailed what is necesary to earn each of the endings.
-
-## 3. ENDING TRANSCRIPTS
-     Here are transcripts of each ending and its variations.
-
-## 4. AFTER THE ENDING
-     [4.1]. Continue Playing as Normal
-     [4.2]. Results of the Auto-save
-     [4.3]. Load Anbicion (the sword), Relix's Emblem, and The Cycle of Life
-            Emblem into a new game.
-
-## 5. TRICKS
-
-## 6. CREDITS
-
-## 7. COMMENTS
-
-## 8. HISTORY OF THIS GUIDE
-
-## 9. CONCLUSION
+- [1. Introduction](#1-introduction)
+- [2. Requirements](#2-requirements)
+- [3. Ending Transcripts](#3-ending-transcripts)
+- [4. After the Ending](#4-after-the-ending)
+  - [4.1. Continue Playing as Normal](#41-continue-playing-as-normal)
+  - [4.2. Results of the Auto-save](#42-results-of-the-auto-save)
+- [5. Tricks](#5-tricks)
+- [6. Credits](#6-credits)
+- [7. Comments](#7-comments)
+- [8. History of This Guide](#8-history-of-this-guide)
+- [9. Conclusion](#9-conclusion)
 
 
 
@@ -97,9 +70,10 @@ by viewing other people's games by using GameShark Snapshots.
 
 Rather than merely stating as true things that are not yet confirmed,
 this guide tries to note whether something asserted is
-(1) An open question.
-(2) An educated guess, usually based on how the ending plays out.
-(3) A report by another fan.
+
+1. An open question.
+2. An educated guess, usually based on how the ending plays out.
+3. A report by another fan.
 
 I am happy to make updates where corrections are needed. I want to make
 this guide as complete as possible.
@@ -113,7 +87,8 @@ statistics screen. The so-called A+ ending is the 'A' ending plus an
 additional scene after the "The End" screen. Note that the A+ ending is
 designated as 'A' on the statistics screen, not as a separate A+. There
 is an additional "Game Over" ending with important variations. The "Game
-Over" ending is earned by losing to Shaher in the final battle.
+Over" ending is earned by losing to Shaher in the final battle or by having
+Shaher and Alphonse defeated simultaneously.
 
 Q: Did you write the A+ Ending Guide?
 A: Yes. For vastly more information about the A+ ending than is provided
@@ -124,120 +99,130 @@ here, see the A+ Ending Guide.
 
 
 ## 2. REQUIREMENTS
-     Here is detailed what is necesary to earn each of the endings.
+Here is a detailed explanation of what is necessary to earn each of the endings.
 
 
 A+
 Complete all requirements for the 'A' ending, AND
-(1) Do not allow more than 5 (>5) of your characters die. (Yes, _FIVE_, not 10)
-(2) Alphonse must kill 50 enemies. Training does not count.
-(3) Complete the game through the "The End" screen in under 25 hours.
+
+1. No more than five of your characters may die.
+2. Alphonse must kill at least 50 enemies. Training does not count.
+3. Complete the game through the "The End" screen in under 25 hours.
+
 Note: For extended details on my tests to determine the A+ ending requirements,
  including my use of a RAM viewer, please see my A+ Ending Guide.
 
 
 A
-(1) After battle 6, at Cape Urodela, you are given a plot choice.
+1. After battle 6, at Cape Urodela, you are given a plot choice.
 
     A: "I've no better ideas..."
     B: "It doesn't seem right."
 
     Choose choice 'A' to begin the 'A' plot path.
-(2) After battle 10, at Solea Beach, you are given a plot choice.
+2. After battle 10, at Solea Beach, you are given a plot choice.
 
     A: "OK. Let's go together."
     B: "If you are so serious..."
 
     Choose choice 'A' to let Eleanor join your party.
-(3) Include Eleanor in the fourth and fifth battles at the Angel's Headstone,
-    the battles against Shaher.
-(4) Eleanor must not end the final battle dead or petrified.  It is acceptable
-    for Eleanor to be poisoned, charmed, confused, or stunned.
-(5) Defeat Shaher.
+3. Include Eleanor in the fourth and fifth battles at the Angel's Headstone,
+   the battles against Shaher.
+4. Eleanor must not end the final battle dead or petrified. It is acceptable
+   for Eleanor to be poisoned, charmed, confused, or stunned.
+5. Defeat Shaher.
+
 Variations: Three Forks
-(1) Depends on which of Cybil and Shiven are alive and not petrified.
-(2) Depends on which of Cybil and Shiven are alive and not petrified.
-(3) Depends on which of Elrik and Euphaire are alive and not petrified.
+1. Depends on which of Cybil and Shiven are alive and not petrified.
+2. Depends on which of Cybil and Shiven are alive and not petrified.
+3. Depends on which of Elrik and Euphaire are alive and not petrified.
 
 
 B
-(1) After battle 6, at Cape Urodela, you are given a plot choice.
+1. After battle 6, at Cape Urodela, you are given a plot choice.
 
     A: "I've no better ideas..."
     B: "It doesn't seem right."
 
     Choose choice ‘B’ to begin the 'B' plot path.
-(2) After battle 10, at Solea Beach, you are given a plot choice.
+2. After battle 10, at Solea Beach, you are given a plot choice.
 
     A: "OK. Let's go together."
     B: "If you are so serious..."
 
     Choose choice 'A' to let Eleanor join your party.
-(3) Include Eleanor in the fourth and fifth battles at the Angel's Headstone,
-    the battles against Shaher.
-(4) Eleanor must not end the final battle dead or petrified.  It is acceptable
-    for Eleanor to be poisoned, charmed, confused, or stunned.
-(5) Defeat Shaher.
+3. Include Eleanor in the fourth and fifth battles at the Angel's Headstone,
+   the battles against Shaher.
+4. Eleanor must not end the final battle dead or petrified. It is acceptable
+   for Eleanor to be poisoned, charmed, confused, or stunned.
+5. Defeat Shaher.
+
 Notes:
-(a) This ending starts with Cybil addressing Shaher.  I do not know what
- would happen if Cybil never joined your party of if Cybil died or was
- petrified in the battle with Shaher. UPDATE: I now know that Cybil does not
- join Alphonse's party if choice 'B' is chosen at Cape Urodela.
-(b) Cybil asks Alphonse to take care of her sister Eleanor. I am sure this
- is why Eleanor must remain alive. In the other endings, petrification is
- equivalent to death. I have not tested whether this ending is available if
- Eleanor ends the final battle petrified.
+
+1. This ending starts with Cybil addressing Shaher. I do not know what
+   would happen if Cybil never joined your party or if Cybil died or was
+   petrified in the battle with Shaher. UPDATE: I now know that Cybil does not
+   join Alphonse's party if choice 'B' is chosen at Cape Urodela.
+2. Cybil asks Alphonse to take care of her sister Eleanor. I am sure this
+   is why Eleanor must remain alive. In the other endings, petrification is
+   equivalent to death. I have not tested whether this ending is available if
+   Eleanor ends the final battle petrified.
+
 Variations: Four Forks
-(1) Depends on which of Rictor and Orson are alive and not petrified.
-(2) Depends on whether Ivanna is alive and not petrified.
-(3) Depends on which of Rictor, Ivanna, and Orson are alive and not
-    petrified.
-(4) Depends on which of Elrik and Euphaire are alive and not petrified.
+1. Depends on which of Rictor and Orson are alive and not petrified.
+2. Depends on whether Ivanna is alive and not petrified.
+3. Depends on which of Rictor, Ivanna, and Orson are alive and not
+   petrified.
+4. Depends on which of Elrik and Euphaire are alive and not petrified.
 
 
 
 C
-(1) Do not include Eleanor in your party when you fight Shaher. Note:
-    If you use Eleanor in the fourth battle at the Angel's Headstone, you
-    will be stuck with her for the final battle against Shaher.
-(2) Eleanor must be alive.
-(3) Defeat Shaher
-Note: The ending features Eleanor. Therefore, I believe
-(4) Eleanor must have joined your party.
-    In other words, when given the following choice after the battle
-    at Solea Beach, you must choose choice 'A'
+1. Eleanor must be recruited, but must not be among the characters deployed
+   in the final battle against Shaher. The fourth battle at the Angel's
+   Headstone determines the party carried into the final battle, so do not
+   deploy her there.
+2. Eleanor must be alive.
+3. Defeat Shaher.
 
-    A: "OK. Let's go together."
-    B: "If you are so serious..."
-(5) Eleanor must not have been dismissed from your party.
+   Note: The ending features Eleanor. Therefore, I believe Eleanor must have
+   joined your party. In other words, when given the following choice after
+   the battle at Solea Beach, you must choose choice 'A'.
+
+   A: "OK. Let's go together."
+   B: "If you are so serious..."
+
 Variations: None
 
 
 D
-(1) Include Eleanor in the fourth and fifth battles at the Angel's Headstone.
-    The characters you use in the fourth battle carry over to the battle
-    against Shaher.
-(2) Eleanor must either be dead or petrified at the end of the battle.
-    Being stunned, confused, poisoned, or charmed does not satisfy this
-    requirement.
+1. Include Eleanor in the fourth and fifth battles at the Angel's Headstone.
+   The characters you use in the fourth battle carry over to the battle
+   against Shaher.
+2. Eleanor must either be dead or petrified at the end of the battle.
+   Being stunned, confused, poisoned, or charmed does not satisfy this
+   requirement.
+
 Note: Since this is the only ending that does not require Eleanor to be
- alive, my guess is that it is the only ending available to you if you
- choose choice 'B' when presented with this choice at Solea Beach:
+alive, my guess is that it is the only ending available to you if you
+choose choice 'B' when presented with this choice at Solea Beach:
 
     A: "OK. Let's go together."
     B: "If you are so serious..."
 
     This choice at Solea Beach is not the same thing as the choice at
     Cape Urodela.
+
 Variations: One Fork
-(1) Depends on which choice was chosen after battle six at Cape Urodela.
+1. Depends on which choice was chosen after battle six at Cape Urodela.
 
 
 Game Over
-(1) Which initial scene you get here depends on this choice:
-    (a) BREAK Shaher's barrier with Longicolnis; OR
-    (b) Do NOT BREAK Shaher's barrier with Longicolnis.
-(2) Lose to Shaher.
+1. Which initial scene you get here depends on this choice:
+   1. BREAK Shaher's barrier with Longicolnis; OR
+   2. Do NOT BREAK Shaher's barrier with Longicolnis.
+2. Lose to Shaher. Defeating Shaher and Alphonse simultaneously also results
+   in this ending.
 
 
 
@@ -265,7 +250,7 @@ the line "[LOCALIZATION]" is actually a part of the credits.
 
 Angle brackets: Used to signal the beginning, end, or other information about
 a branched ending.
-< >
+&lt; &gt;
 
 Colons: Colons used after character names are not present in the game text.
 Here colons are used to set character names apart from spoken text.
@@ -291,7 +276,7 @@ ENDING A+
 [Scene: Pictured are homes or shops, a town by a mountainside.  It is snowing.
  The camera pans up the mountain and stops at the top.]
 
-[Music: When the camera start panning up the mountain the music changes to a
+[Music: When the camera starts panning up the mountain the music changes to a
  more urgent feel, one of action and foreshadowing a deed of import.]
 
 [At the top of the mountain, looking at the town is Alphonse (renamed Lans
@@ -379,7 +364,7 @@ Eleanor:  "No! Not Alphonse!"
 Shaher:   "What are you doing?"
 
 Eleanor:  "...I can sense your feelings.
-           You've been lonley, haven't you?
+           You've been lonely, haven't you?
            Lonely...for so long... ...imprisoned here. I won't let you
                 die alone."
 
@@ -496,7 +481,7 @@ Priest in Training: "A ship to Lodis leaves from Sotavento in 5 days.
 [Knights and soldiers overrun Scabellum.]
 ----------
 
-<----------
+&lt;----------
 For the next scene, the ending is forked (FORK A) with four branches
  (A1, A2, A3, and A4). The ending proceeds along only one branch
  depending on which of Cybil and Shiven are still alive and not
@@ -510,13 +495,13 @@ For the next scene, the ending is forked (FORK A) with four branches
  A4: Both Cybil and Shiven are either dead or petrified.
 
 
----------->
+----------&gt;
 
-<BEGIN FORK A>
+&lt;BEGIN FORK A&gt;
 
 ----------
 
-<A1: Cybil and Shiven are both alive and neither is petrified.>
+&lt;A1: Cybil and Shiven are both alive and neither is petrified.&gt;
 
 [Pictured is a sailing ship at a dock.]
 
@@ -547,10 +532,10 @@ Good-bye, Eleanor.
 
 [Two seagulls fly overhead.]
 
-<END A1>
+&lt;END A1&gt;
 
-<A2: Cybil is alive and not petrified but Shiven is either dead or
-     petrified.>
+&lt;A2: Cybil is alive and not petrified but Shiven is either dead or
+     petrified.&gt;
 
 [Pictured is a sailing ship at a dock.]
 
@@ -578,11 +563,11 @@ Good-bye, Eleanor.
 
 [Two seagulls fly overhead.]
 
-<END A2>
+&lt;END A2&gt;
 
 
-<A3: Cybil is either dead or petrified but Shiven is alive and not
-     petrified.>
+&lt;A3: Cybil is either dead or petrified but Shiven is alive and not
+     petrified.&gt;
 
 [Pictured is a sailing ship at a dock.]
 
@@ -608,10 +593,10 @@ Good-bye, Eleanor.
 
 [Two seagulls fly overhead.]
 
-<END A3>
+&lt;END A3&gt;
 
 
-<A4: Both Cybil and Shiven are either dead or petrified.>
+&lt;A4: Both Cybil and Shiven are either dead or petrified.&gt;
 
 [Pictured is a sailing ship at a dock.]
 
@@ -637,10 +622,10 @@ Good-bye, Eleanor.
 
 [Two seagulls fly overhead.]
 
-<END A4>
+&lt;END A4&gt;
 
 
-<END FORK A>
+&lt;END FORK A&gt;
 ----------
 
 [Inside the mermaid's sanctuary at the Rana Sea.]
@@ -737,7 +722,7 @@ Debug Team
    Hajime Kitajima
 
 [Scene 4: An older Alphonse (Lans Tartare by this time) is pictured. He has an
-eye patch over his right eye, wears the armor of a knight, weilds a sword, and
+eye patch over his right eye, wears the armor of a knight, wields a sword, and
 wears his hair long.]
 
 Producer
@@ -775,7 +760,7 @@ Presented by ATLUS
 ----------
 
 
-<----------
+&lt;----------
 For the next scene, the ending is forked (FORK B) with three branches
  (B1, B2, and B3). The ending proceeds along only one branch depending
  on which of Cybil and Shiven are still alive and not petrified.
@@ -785,13 +770,13 @@ For the next scene, the ending is forked (FORK B) with three branches
  B2: Cybil is alive and not petrified but Shiven is either dead or
      petrified.
  B3: Cybil is dead or petrified.
----------->
+----------&gt;
 
-<BEGIN FORK B>
+&lt;BEGIN FORK B&gt;
 
 ----------
 
-<B1: Cybil and Shiven are both alive and neither is petrified.>
+&lt;B1: Cybil and Shiven are both alive and neither is petrified.&gt;
 
 [Pictured is the summit of a steep cliff.]
 
@@ -810,11 +795,11 @@ Shiven: "Mistress Alinda, I will go wherever you go."
 
 [Cybil looks out beyond the edge of the cliff.]
 
-<END B1>
+&lt;END B1&gt;
 
 
-<B2: Cybil is alive and not petrified but Shiven is either dead or
-    petrified.>
+&lt;B2: Cybil is alive and not petrified but Shiven is either dead or
+    petrified.&gt;
 
 [Pictured is the summit of a steep cliff.]
 
@@ -826,19 +811,19 @@ Shiven: "Mistress Alinda, I will go wherever you go."
 
 Cybil: "I wonder where I should go? I'll have to cover my trail..."
 
-<END B2>
+&lt;END B2&gt;
 
 
-<B3: Cybil is dead or petrified.>
+&lt;B3: Cybil is dead or petrified.&gt;
 
 [This scene will be absent if Cybil is dead. The scene is supposed to show
  Cybil and Shiven contemplating what to do now that Cybil no longer wishes
  to serve the Hand of the Pope.]
 
-<END B3>
+&lt;END B3&gt;
 
 
-<END FORK B>
+&lt;END FORK B&gt;
 ----------
 
 [Pictured is a throne room in Ovis.]
@@ -861,23 +846,23 @@ Ivanna: "True, but I share the love Father had for this island. Let's protect
          it... and the lives of those who live here."
 ----------
 
-<----------
+&lt;----------
 For the next scene, the ending is forked (FORK C) with four branches
  (C1, C2, C3, and C4). The ending proceeds along only one branch
- depending on whcih of Euphaire and Elrik are still alive and not
+ depending on which of Euphaire and Elrik are still alive and not
  petrified. After the fork concludes the branches reunite.
 
  C1: Both Euphaire and Elrik are alive and not petrified.
  C2: Euphaire is alive and not petrified but Elrik is dead or petrified.
  C3: Elrik is alive and not petrified but Euphaire is dead or petrified.
  C4: Both Euphaire and Elrik are dead or petrified.
----------->
+----------&gt;
 
-<BEGIN FORK C>
+&lt;BEGIN FORK C&gt;
 
 ----------
 
-<C1: Both Euphaire and Elrik are alive and not petrified.>
+&lt;C1: Both Euphaire and Elrik are alive and not petrified.&gt;
 
 [Pictured is a well-kept cemetery. Euphaire kneels at a grave.]
 
@@ -891,10 +876,10 @@ Elrik: "......."
 
 Euphaire: "Father!"
 
-<END C1>
+&lt;END C1&gt;
 
 
-<C2: Euphaire is alive and not petrified but Elrik is dead or petrified.>
+&lt;C2: Euphaire is alive and not petrified but Elrik is dead or petrified.&gt;
 
 [Pictured is a well-kept cemetery. Euphaire kneels at a grave.]
 
@@ -902,14 +887,14 @@ Euphaire: (Mother, peace has finally been restored to our town.)
 
 [Euphaire stands and walks away.]
 
-<END C2>
+&lt;END C2&gt;
 
 
-<C3: Elrik is alive and not petrified but Euphaire is dead or petrified.
+&lt;C3: Elrik is alive and not petrified but Euphaire is dead or petrified.&gt;
 
 [Pictured is a set of stone and wooden stairs.]
 
-[Elrik stands on one staire, and a skull lies on the next lower stair.]
+[Elrik stands on one stair, and a skull lies on the next lower stair.]
 
 Elrik: "......"
 
@@ -925,19 +910,19 @@ Elrik: "......"
 
 Elrik: "Awww. Failed again..."
 
-<END C3>
+&lt;END C3&gt;
 
 
-<C4: Both Euphaire and Elrik are dead or petrified.
+&lt;C4: Both Euphaire and Elrik are dead or petrified.&gt;
 
 [This scene will be absent if Euphaire and Elrik are dead or petrified.
  The scene is supposed to show Euphaire and Elrik remembering Euphaire's
- mom, Elrik late wife.]
+ mom, Elrik's late wife.]
 
-<END C4>
+&lt;END C4&gt;
 
 
-<END FORK C>
+&lt;END FORK C&gt;
 ----------
 
 [The mermaid Aerial stands on top of the watery cave that leads to the
@@ -985,8 +970,8 @@ Alphonse: "I am honored."
 [White text with the Pope's throne room as a background.]
 
 With Naris dead, Lodis neither punished the Batraal Family nor the people of
-Rananculus, since it had been his personal greed and ambitio which had led to
-much of the difficulty. Ovis, the island which was home ot the Sacred Spear,
+Rananculus, since it had been his personal greed and ambition which had led to
+much of the difficulty. Ovis, the island which was home to the Sacred Spear,
 was put under Galius's control. Meanwhile, because the Duke of Felis had
 hidden his knowledge of the spear from Galius, Felis's land was placed under
 the supervision of Lodis, and the Duke lost much of his standing.
@@ -1032,33 +1017,33 @@ Total Time: [number of hours played] h [number of minutes played] m
 The End
 ----------
 
-<----------
+&lt;----------
 For the next scene, the ending is forked (FORK D) with two branches
  (D1 and D2). The ending proceeds along only one branch
- depending on whether the requirments for the A+ ending were met.
+ depending on whether the requirements for the A+ ending were met.
  After the fork concludes the branches reunite.
 
- D1: The requirements for the A+ ending were met, namely:
-     (1) Fulfill the requirements for the A ending.
-     (2) Do not allow more than 5 characters to die.
-     (3) Alphonse must have killed at least 50 enemies.
-     (4) The game must be finished to this fork in under 25 hours.
+D1: The requirements for the A+ ending were met, namely:
+1. Fulfill the requirements for the A ending.
+2. No more than five characters may die.
+3. Alphonse must have killed at least 50 enemies.
+4. The game must be completed through the "The End" screen in under 25 hours.
 
- D2: Any of the requirments for the A+ ending were not met.
----------->
+D2: At least one of the A+ requirements was not met.
+----------&gt;
 
-<BEGIN FORK D>
+&lt;BEGIN FORK D&gt;
 
 ----------
 
-<D1: The requirements for the A+ ending were met.>
+&lt;D1: The requirements for the A+ ending were met.&gt;
 
 [Music: The music has an ominous feel for several seconds.]
 
 [Scene: Pictured are homes or shops, a town by a mountainside.  It is snowing.
  The camera pans up the mountain and stops at the top.]
 
-[Music: When the camera start panning up the mountain the music changes to a
+[Music: When the camera starts panning up the mountain the music changes to a
  more urgent feel, one of action and foreshadowing a deed of import.]
 
 [At the top of the mountain, looking at the town is Alphonse (renamed Lans
@@ -1086,20 +1071,20 @@ suspicion.”
 
 [Fade to black.]
 
-<END D1>
+&lt;END D1&gt;
 
 
-<D2: The requirements for the A+ ending were not met.>
+&lt;D2: At least one of the A+ requirements was not met.&gt;
 
 [The A+ ending scene is absent. The scene is supposed to show an
  older, matured Alphonse (now Lans Tartare) as he appears at the
  beginning of Tactics Ogre: Let Us Cling Together.]
 
 
-<END D2>
+&lt;END D2&gt;
 
 
-<END FORK D>
+&lt;END FORK D&gt;
 ----------
 
 [The game auto-saves.]
@@ -1219,7 +1204,7 @@ Cybil: "Your fate is to die here with me, Shaher.
 [Shaher emits beams of blue light followed by concentric circles of energy.]
 
 [Alphonse extends his right hand to Cybil, but the energy pushes him back
- one square. Alphonses hair is blown back by the energy.]
+ one square. Alphonse's hair is blown back by the energy.]
 
 [Cybil and Shaher ascend from the map.]
 
@@ -1228,7 +1213,7 @@ Cybil: "Your fate is to die here with me, Shaher.
 Alphonse, please take care of my sister, Eleanor...
 ----------
 
-<----------
+&lt;----------
 For the next scene, the ending is forked (FORK A) with four branches
  (A1, A2, A3, and A4). The ending proceeds along only one branch
  depending on which of Rictor and Orson lived and were not petrified.
@@ -1240,12 +1225,12 @@ For the next scene, the ending is forked (FORK A) with four branches
  A4: Both Rictor and Orson died or were petrified.
 
 
----------->
+----------&gt;
 
-<BEGIN FORK A>
+&lt;BEGIN FORK A&gt;
 ----------
 
-<A1: Both Rictor and Orson are alive and neither is petrified.>
+&lt;A1: Both Rictor and Orson are alive and neither is petrified.&gt;
 
 [White text on a black background.]
 
@@ -1273,10 +1258,10 @@ Rictor: "Don't worry. I'll be back soon."
 [Rictor and the knight leave the castle.]
 
 
-<END A1>
+&lt;END A1&gt;
 
 
-<A2: Rictor died or was petrified and Orson is alive and not petrified.>
+&lt;A2: Rictor died or was petrified and Orson is alive and not petrified.&gt;
 
 [White text on a black background.]
 
@@ -1305,10 +1290,10 @@ Orson: "Don't be upset...
 [Orson and the knight leave the castle.]
 
 
-<END A2>
+&lt;END A2&gt;
 
 
-<A3: Rictor lived and was not petrified and Orson died or was petrified.>
+&lt;A3: Rictor lived and was not petrified and Orson died or was petrified.&gt;
 
 [I do not know if there is a different scene here. I do not know whether
  Rictor survive if Orson dies.]
@@ -1316,10 +1301,10 @@ Orson: "Don't be upset...
 [My guess is that the ending is the same as A1, where both Rictor and
  Orson survive.]
 
-<END A3>
+&lt;END A3&gt;
 
 
-<A4: Both Rictor and Orson died or were petrified.>
+&lt;A4: Both Rictor and Orson died or were petrified.&gt;
 
 [White text on a black background.]
 
@@ -1346,10 +1331,10 @@ Soldier: "We'll do as much as is in our power.
 
 [The soldier and the knight leave the castle.]
 
-<END A4>
+&lt;END A4&gt;
 
 
-<END FORK A>
+&lt;END FORK A&gt;
 ----------
 
 For the next scene, the ending is forked (FORK B) with two branches
@@ -1360,12 +1345,12 @@ For the next scene, the ending is forked (FORK B) with two branches
  B1: Ivanna lived and was not petrified.
  B2: Ivanna died or was petrified.
 
----------->
+----------&gt;
 
-<BEGIN FORK B>
+&lt;BEGIN FORK B&gt;
 ----------
 
-<B1: Ivanna lived and was not petrified.>
+&lt;B1: Ivanna lived and was not petrified.&gt;
 
 [Pictured is a conference room inside Ostorea Castle.]
 
@@ -1378,10 +1363,10 @@ Ivanna: "Thanks to you, things are starting to settle down.
 Alphonse: "There will be plenty of time to think about it,
            after I settle some personal matters. I'm in no hurry."
 
-<END B1>
+&lt;END B1&gt;
 
 
-<B2: Ivanna died or was petrified.>
+&lt;B2: Ivanna died or was petrified.&gt;
 
 [Pictured is a conference room inside Ostorea Castle.]
 
@@ -1393,10 +1378,10 @@ Soldier: "Thanks to you, everyone's started to calm down.
 Alphonse: "There will be plenty of time to think about it,
            after I settle some personal matters. I'm in no hurry."
 
-<END B2>
+&lt;END B2&gt;
 
 
-<END FORK B>
+&lt;END FORK B&gt;
 ----------
 
 [Pictured is a house in Solea. Through a window can be seen the blue of the
@@ -1415,7 +1400,7 @@ Alphonse: "Eleanor, are you ready?"
 
 Eleanor: "Yes."
 
-[Eleanor walk over to Alphonse and stands beside him.]
+[Eleanor walks over to Alphonse and stands beside him.]
 
 Alphonse: "I'm sorry for leaving without an explanation."
 
@@ -1528,7 +1513,7 @@ Debug Team
    Hajime Kitajima
 
 [Scene 4: An older Alphonse (Lans Tartare by this time) is pictured. He has an
-eye patch over his right eye, wears the armor of a knight, weilds a sword, and
+eye patch over his right eye, wears the armor of a knight, wields a sword, and
 wears his hair long.]
 
 Producer
@@ -1565,7 +1550,7 @@ QA
 Presented by ATLUS
 ----------
 
-<----------
+&lt;----------
 
 For the next scene, the ending is forked (FORK C) with at least four branches
  (C1, C2, C3, and C4). There may be as many as eight branches (unconfirmed).
@@ -1581,12 +1566,12 @@ For the next scene, the ending is forked (FORK C) with at least four branches
  C4: Rictor lived and was not petrified, and Ivanna and Orson died or
      were petrified.
 
----------->
+----------&gt;
 
-<BEGIN FORK C>
+&lt;BEGIN FORK C&gt;
 ----------
 
-<C1: Rictor, Ivanna, and Orson lived and were not petrified.>
+&lt;C1: Rictor, Ivanna, and Orson lived and were not petrified.&gt;
 
 [Pictured is the throne room at Ostorea Castle.]
 
@@ -1622,11 +1607,11 @@ Rictor: "You misunderstand...I don't mean as a knight. I want you by my side
 
 Ivanna: "Yes."
 
-<END C1>
+&lt;END C1&gt;
 
 
-<C2: Rictor died or was petrified, and Orson and Ivanna lived and were
-     not petrified.>
+&lt;C2: Rictor died or was petrified, and Orson and Ivanna lived and were
+     not petrified.&gt;
 
 [Pictured is the throne room at Ostorea Castle.]
 
@@ -1653,11 +1638,11 @@ Knight: "These will be trying times for you...and for Ovis."
 Ivanna: "True, but I share the love Father had for this island.
          Let's protect it...and the lives of those who live here."
 
-<END C2>
+&lt;END C2&gt;
 
 
-<C3: Ivanna died or was petrified, and Rictor and Orson lived and were
-     not petrified.>
+&lt;C3: Ivanna died or was petrified, and Rictor and Orson lived and were
+     not petrified.&gt;
 
 [Pictured is the throne room at Ostorea Castle.]
 
@@ -1694,11 +1679,11 @@ Orson: "This child has lost his parents.
 
 [Orson and the young boy leave the throne room.]
 
-<END C3>
+&lt;END C3&gt;
 
 
-<C4: Rictor lived and was not petrified, and Ivanna and Orson died or
-     were petrified.>
+&lt;C4: Rictor lived and was not petrified, and Ivanna and Orson died or
+     were petrified.&gt;
 
 [Pictured is the throne room at Ostorea Castle.]
 
@@ -1719,30 +1704,30 @@ Knight: "Thanks to you, the bloodshed on this island has ended. We all
 
 Rictor: "May you protect your country, without need of a sword."
 
-<END C4>
+&lt;END C4&gt;
 
 
 
-<END FORK C>
+&lt;END FORK C&gt;
 ----------
 
-<----------
+&lt;----------
 For the next scene, the ending is forked (FORK D) with four branches
  (D1, D2, D3, and D4). The ending proceeds along only one branch
- depending on whcih of Euphaire and Elrik are still alive and not
+ depending on which of Euphaire and Elrik are still alive and not
  petrified. After the fork concludes the branches reunite.
 
  D1: Both Euphaire and Elrik are alive and not petrified.
  D2: Euphaire is alive and not petrified but Elrik is dead or petrified.
  D3: Elrik is alive and not petrified but Euphaire is dead or petrified.
  D4: Both Euphaire and Elrik are dead or petrified.
----------->
+----------&gt;
 
-<BEGIN FORK D>
+&lt;BEGIN FORK D&gt;
 
 ----------
 
-<D1: Both Euphaire and Elrik are alive and not petrified.>
+&lt;D1: Both Euphaire and Elrik are alive and not petrified.&gt;
 
 [Pictured is a well-kept cemetery. Euphaire kneels at a grave.]
 
@@ -1756,10 +1741,10 @@ Elrik: "......."
 
 Euphaire: "Father!"
 
-<END D1>
+&lt;END D1&gt;
 
 
-<D2: Euphaire is alive and not petrified but Elrik is dead or petrified.>
+&lt;D2: Euphaire is alive and not petrified but Elrik is dead or petrified.&gt;
 
 [Pictured is a well-kept cemetery. Euphaire kneels at a grave.]
 
@@ -1767,14 +1752,14 @@ Euphaire: (Mother, peace has finally been restored to our town.)
 
 [Euphaire stands and walks away.]
 
-<END D2>
+&lt;END D2&gt;
 
 
-<D3: Elrik is alive and not petrified but Euphaire is dead or petrified.
+&lt;D3: Elrik is alive and not petrified but Euphaire is dead or petrified.&gt;
 
 [Pictured is a set of stone and wooden stairs.]
 
-[Elrik stands on one staire, and a skull lies on the next lower stair.]
+[Elrik stands on one stair, and a skull lies on the next lower stair.]
 
 Elrik: "......"
 
@@ -1790,19 +1775,19 @@ Elrik: "......"
 
 Elrik: "Awww. Failed again..."
 
-<END D3>
+&lt;END D3&gt;
 
 
-<D4: Both Euphaire and Elrik are dead or petrified.
+&lt;D4: Both Euphaire and Elrik are dead or petrified.&gt;
 
 [This scene will be absent if Euphaire and Elrik are dead or petrified.
  The scene is supposed to show Euphaire and Elrik remembering Euphaire's
- mom, Elrik late wife.]
+ mom, Elrik's late wife.]
 
-<END D4>
+&lt;END D4&gt;
 
 
-<END FORK D>
+&lt;END FORK D&gt;
 ----------
 
 [The mermaid Aerial stands on top of the watery cave that leads to the
@@ -2107,7 +2092,7 @@ Debug Team
    Hajime Kitajima
 
 [Scene 4: An older Alphonse (Lans Tartare by this time) is pictured. He has an
-eye patch over his right eye, wears the armor of a knight, weilds a sword, and
+eye patch over his right eye, wears the armor of a knight, wields a sword, and
 wears his hair long.]
 
 Producer
@@ -2296,7 +2281,7 @@ My Lord...God...I wanted to be by your side...
 [The earth quakes, stones fall, and the statute tumbles on its side and breaks.]
 ----------
 
-<----------
+&lt;----------
 For the next scene, the ending is forked (FORK A) with two branches
  (A1 and A2). The ending proceeds along only one branch depending on what
  choice was made earlier in the game. After the fork concludes the branches
@@ -2310,13 +2295,13 @@ For the next scene, the ending is forked (FORK A) with two branches
  BRANCHES
  A1: Choice 'A' must have been chosen.
  A2: Choice 'B' must have been chosen.
----------->
+----------&gt;
 
-<BEGIN FORK A>
+&lt;BEGIN FORK A&gt;
 
 ----------
 
-<A1: Choice 'A' must have been chosen at Cape Urodela.>
+&lt;A1: Choice 'A' must have been chosen at Cape Urodela.&gt;
 
 [White text with the Garden of Memories as a background.]
 
@@ -2325,11 +2310,11 @@ troops to Ovis. On the very same day, there was an unexplained earthquake
 in the snowy fields surrounding the Vurtar and Turgus Mountains, but no
 damage was reported.
 
-<END A1>
+&lt;END A1&gt;
 
 
 
-<A2: Choice 'B' must have been chosen at Cape Urodela.>
+&lt;A2: Choice 'B' must have been chosen at Cape Urodela.&gt;
 
 [White text with the Garden of Memories as a background.]
 
@@ -2338,15 +2323,15 @@ Rictor, who was nowhere to be found. On the very same day, there was an
 earthquake in the snowy fields surrounding the Vurtar and Turgus Mountains,
 but details are not known.
 
-<END A2>
+&lt;END A2&gt;
 
 
 
-<END FORK A>
+&lt;END FORK A&gt;
 
 ----------
 
-<From this point, the ending has only one path.>
+&lt;From this point, the ending has only one path.&gt;
 
 [Knights and soldiers run across the land of Ovis.]
 
@@ -2452,7 +2437,7 @@ Debug Team
    Hajime Kitajima
 
 [Scene 4: An older Alphonse (Lans Tartare by this time) is pictured. He has an
-eye patch over his right eye, wears the armor of a knight, weilds a sword, and
+eye patch over his right eye, wears the armor of a knight, wields a sword, and
 wears his hair long.]
 
 Producer
@@ -2548,7 +2533,7 @@ GAME OVER ENDING
 
 [The ending starts when Alphonse is struck with a fatal blow.]
 
-<----------
+&lt;----------
 
 The Game Over Ending begins a fork (FORK A) with two branches
  (A1 and A2). The ending proceeds along only one branch depending
@@ -2558,11 +2543,11 @@ The Game Over Ending begins a fork (FORK A) with two branches
  A1: USE Longicolnis to BREAK Shaher's barrier.
  A2: Do NOT use Longicolnis to BREAK Shaher's barrier.
 
----------->
+----------&gt;
 
-<BEGIN FORK A>
+&lt;BEGIN FORK A&gt;
 
-<A1: USE Longicolnis to BREAK Shaher's barrier.>
+&lt;A1: USE Longicolnis to BREAK Shaher's barrier.&gt;
 
 [Shaher remains in his giant demon form at the far corner of the map.]
 
@@ -2583,10 +2568,10 @@ Alphonse: "The Sacred Spear could have shattered the barrier...
 Foolish humans. They challenged me even though they knew they could not
 defeat me. God of light who sealed me... You are next...!
 
-<END A1>
+&lt;END A1&gt;
 
 
-<A2: Do NOT use Longicolnis to BREAK Shaher's barrier.>
+&lt;A2: Do NOT use Longicolnis to BREAK Shaher's barrier.&gt;
 
 [Shaher remains in his giant demon form at the far corner of the map.]
 
@@ -2602,10 +2587,10 @@ Alphonse: "Is he beyond my ability...? Is this the end for me...!?"
 Even with the spear made from my horn, you humans are no threat to me.
 God of light who sealed me...You are next...
 
-<END A2>
+&lt;END A2&gt;
 
 
-<END FORK A>
+&lt;END FORK A&gt;
 ----------
 
 [The following scenes display the game's credits.]
@@ -2650,7 +2635,7 @@ Special Thanks
    Shinya Ogasawara
 
 [Scene 4: An older Alphonse (Lans Tartare by this time) is pictured. He has an
-eye patch over his right eye, wears the armor of a knight, weilds a sword, and
+eye patch over his right eye, wears the armor of a knight, wields a sword, and
 wears his hair long.]
 
 
@@ -2704,13 +2689,13 @@ Game Over
 Here are a few things worth noting that are available after beating the game.
 
 
-[4.1]. Continue Playing as Normal
+### 4.1. Continue Playing as Normal
 Once you finish the game, the game auto-saves. You will be able to
 continue playing the game from your last save before your attack on
 the Angel's Headstone.
 
 
-[4.2]. Results of the Auto-save
+### 4.2. Results of the Auto-save
 The file last saved before entering the Angel's Headstone will have up to
 two enhancements. If the 'A+', 'A', 'B', 'C', or 'D' was earned, Alphonse
 will have Relix's ending, and the inventory will include Anbicion, the 68
@@ -2719,34 +2704,6 @@ Cycle of Life Emblem. It should be a simple matter to fight Shaher again
 and get the other prize. Note: The version of Anbicion wielded by Shaher
 is the 90 power version. That version can be acquired only with a cheat
 device.
-
-
-[4.3]. Load Anbicion, Relix's Emblem, and The Cycle of Life
-       Emblem into a new game.
-
-This is also known as the Ending/Anbicion trick.
-
-Naturally, with 68 power, the Anbicion will easily dispatch most enemies
-early in the game.
-
-I will not describe exactly how to perform the trick here because another
-guide already does an excellent job of that. However, I will state a
-few corrections.
-
-View this guide on the Tactics Ogre: The Knight of Lodis page of
-http://www.gamefaqs.com :
-Title: Secrets FAQ Author: Layoneil
-Perform a text search for
-2) What's the Ending/Anbicion trick?
-
-Errors in that guide:
-(1) The Anbicion and Relix's Emblem are available upon acquiring
-    endings 'A', 'B', 'C', or 'D', not 'A', 'B', or 'C' only.
-(2) The Cycle of Life Emblem is available upon acquiring the
-    Game Over ending only, not ending 'D'.
-
-
-
 
 
 ## 5. TRICKS
