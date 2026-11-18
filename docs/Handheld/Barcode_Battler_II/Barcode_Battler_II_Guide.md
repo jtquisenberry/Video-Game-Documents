@@ -27,90 +27,335 @@ summary: "Operation and strategy reference for Epoch's Barcode Battler II, inclu
 
 # Conveni Wars Barcode Battler II
 
-The Barcode Battler II is a dedicated LCD game system that reads barcodes as character, enemy, and item data. This guide combines the device instructions and gameplay strategy with the available English transcription of the *The Legend of Zelda: A Link to the Past* card-deck reference. The card tables below reproduce the entries available in that transcription; the original Japanese deck booklet describes additional mode rules and card order.
+The Barcode Battler II is a dedicated LCD game system that reads barcodes as character, enemy, and item data. This guide combines the device instructions and gameplay strategy with the available English transcription of the *The Legend of Zelda: A Link to the Past* card-deck reference. 
 
+## Contents
+
+- [Device Display](#device-display)
+  - [LCD Indicators](#lcd-indicators)
+  - [Buttons and Switch](#buttons-and-switch)
+- [Game Modes](#game-modes)
+  - [C0: Player versus Player](#c0-player-versus-player)
+  - [C1: Player versus CPU](#c1-player-versus-cpu)
+  - [C2: Card-Deck Battles](#c2-card-deck-battles)
+- [Magic Spell Reference](#magic-spell-reference)
+- [Progression and Entry Codes](#progression-and-entry-codes)
+  - [P-Codes](#p-codes)
+  - [F-Codes](#f-codes)
+- [Zelda: A Link to the Past Card Deck](#zelda-a-link-to-the-past-card-deck)
+  - [Hero Cards](#hero-cards)
+  - [Item Cards](#item-cards)
+  - [Enemy Cards](#enemy-cards)
+- [Custom Barcodes](#custom-barcodes)
+- [References and Preservation Notes](#references-and-preservation-notes)
+
+<a id="device-display"></a>
 ## Device Display
 
-![Barcode Battler II LCD diagram showing attack, escape, recovery, scan, critical-hit and miss indicators with HP, attack, and defense values](assets/Barcode_Battler_II_Screen_001.png)
+![Barcode Battler II LCD diagram showing life, attack, defense stats, and character type](assets/Barcode_Battler_II_Screen_001.png)
 
-**Caption:** The monochrome LCD diagram labels the attack, escape, and recovery states; card scanning; critical hits; misses; character-type icons; item entry; and the three numeric attributes HP, attack, and defense. Five LEDs along the bottom indicate which side's turn is active.
+**Caption:** The monochrome LCD labels the life, attack, defense stats, and character type for two combatants.
 
 ![Close view of the Barcode Battler II LCD diagram showing the Japanese labels for life, attack, and defense beside sample numeric displays](assets/Barcode_Battler_II_Screen_002.png)
 
-**Caption:** Enlarged view of the same display diagram. The central Japanese labels identify life/HP (生命力), attack power (攻撃力), and defensive power (守備力). The left and right number fields represent the two combatants; their displayed sample digits are illustrative rather than a live game state.
+**Caption:** Enlarged view of the same display diagram. The central Japanese labels identify life/HP (生命力), attack power (攻撃力), and defensive power (守備力). The left and right number fields represent the two combatants.
 
+<a id="lcd-indicators"></a>
 ### LCD Indicators
+
+```
+-----------------------------------------------
+
+Attack Mode      Escape          Recovery Mode
+Card Scan        Critical Hit    MISS
+Staff  Shield    Item Entry      Shield  Staff
+
+88800            HP              88800
+18800            Attack          18800
+18800            Defense         18800
+
+*          *          *          *          *
+-----------------------------------------------
+
+```
+
 
 | Indicator | Meaning |
 |---|---|
-| Attack Mode | The player is set to attack. |
-| Recovery Mode | The player can cast a spell or use healing herbs. Alternating attack/recovery indicators mean no action has been selected yet. |
-| Escape | An attempt to flee from the current battle. |
-| Card Scan / Data Input | The unit is waiting for a barcode scan. |
-| Critical Hit | The preceding attack was especially effective. |
-| MISS | An attack failed or an invalid card/action was entered. |
-| Staff / Shield | Identifies a wizard / warrior character. |
-| Item Entry | The unit is waiting for an item card. |
-| HP, Attack, Defense | Current vitality, offensive strength, and resistance. |
-| Turn LEDs | The lit LED indicates whose turn it is. |
+| Attack Mode | Indicates that the player is in attack mode and will attack its enemy. |
+| Recovery Mode | Indicates that the player is in recovery mode and may either cast a spell or consume an herb. If the display alternates between attack and recovery, then the player has not chosen whether to attack or use an herb or spell. |
+| Escape | Indicates an attempt to escape from battle. |
+| Card Scan / Data Input | Indicates that a card should be scanned. |
+| Critical Hit | Indicates that the last attack was especially effective. |
+| MISS | Indicates that the last attack failed to hit or that the user committed an error, e.g. inserting an enemy card when an item card was required. |
+| Staff | Indicates that the character is a wizard character. |
+| Shield | Indicates that the character is a warrior character. |
+| Item Entry | Indicates that an item card should be scanned. |
+| HP | Indicates the vitality of the character. |
+| Attack | Indicates the attack power of the character. |
+| Defense | Indicates the resistance of the character. |
+| Turn LEDs | The lit LED indicates the side whose turn it is. |
 
+<a id="buttons-and-switch"></a>
 ### Buttons and Switch
 
-| Control | Function |
-|---|---|
-| ON/OFF | Powers the unit on or off. |
-| SELECT | Selects C0/C1/C2, a level, a hero, a spell, number of herbs, or digits in a code; also opens or navigates the magic/herb screen. |
-| SET | Confirms mode, level, hero, spell, herb quantity, or code digits; can cancel spell/herb selection when the empty option is selected. |
-| L-BATTLE | Attacks with the left character; in C1 level selection, opens F-code entry. |
-| L-POWER | Uses one herb with the left character, selects a different hero outside battle, displays an epoch P-code, or opens P-code entry in C2. |
-| R-BATTLE | Attacks with the right character in C0; saves or loads progress in C1. |
-| R-POWER | Uses one herb with the right character in C0 or attempts escape in battle. |
-| SOUND OFF/ON | Disables or enables sound. |
+B. BUTTONS
 
+The buttons have these functions:
+
+ON/OFF
+* Turns the unit on or off.
+
+SELECT
+* Selects the game mode - C0, C1, or C2.
+* Selects a level in the current epoch.
+* Alternates between the wizard and warrior heroes.
+* Enters the magic / herb screen. 
+* On the magic / herb screen, alternates between magic and herbs.
+* Selects which spell to cast.
+* Selects the number of herbs to heal with.
+* Selects digits in a P-code.
+* Selects digits in an F-code.
+
+SET
+* Sets the game mode - C0, C1, or C2.
+* Sets the level from which a stage will be selected.
+* Sets the hero to fight with.
+* Sets the spell to use.
+* Sets the number of herbs to consume.
+* If the option to use a spell or herb was selected, pressing SET when [] 
+  is displayed cancels spell or herb selection.
+* After battle, claims statistics increases and proceeds to the level-
+  selection display.
+* Sets each digit of a P-code.
+* Sets each digit of an F-code.
+
+L-BATTLE
+* Attacks with the left character.
+* In mode C1 on the level-selection screen, enters the F-code entry display.
+
+L-POWER
+* Causes the left character to consume one healing herb. To consume two or 
+  three herbs, it is necessary to enter the magic / herb screen instead.
+* When not in battle, allows scanning of a different hero.
+* Upon completion of an epoch in mode C1, displays a P-code.
+* In mode C2, enters the P-code entry display. 
+
+R-BATTLE
+* Attacks with the right character in mode C0.
+* Saves game progress.
+* Loads game progress.
+
+R-POWER
+* Causes the right character to consume one healing herb.
+* Attempts escape from battle.
+
+SOUND OFF ON
+* This switch turns sound on or off.
+
+
+<a id="game-modes"></a>
 ## Game Modes
 
+<a id="c0-player-versus-player"></a>
 ### C0: Player versus Player
 
-1. Turn the unit on, select C0 with SELECT, and press SET.
-2. Scan a character for each side, then scan an item for each side or press SET to skip item entry.
-3. Attack with the side's BATTLE button, use one herb with its POWER button, or press SELECT to choose a spell or multiple herbs.
-4. Continue until one character's HP reaches zero.
+* Turn the unit on by pressing ON/OFF.
+* Use the SELECT button to select mode C0.
+* Press SET to start C0.
+* Scan the left-side character.
+* Scan the right-side character.
+* Scan the left-side item, or push SET to cancel item entry.
+* Scan the right-side item, or push SET to cancel item entry.
+* Do one of the following:
+  * Press L-BATTLE or R-BATTLE to attack.
+  * Press L-POWER or R-POWER to consume one healing herb.
+  * Press SELECT to enter the magic / herb display.
+* Continue attacking, healing, and casting spells until one side's health is depleted.
 
+<a id="c1-player-versus-cpu"></a>
 ### C1: Player versus CPU
 
-C1 is the main campaign. It contains four epochs. Each epoch has five numbered levels (L1–L5) and a special H level, with five stages per numbered level and a final HH stage. Three keys hidden across the first five levels unlock the H level. Completing the final HH stage of an epoch awards a P-code. The source guide identifies completion of E-4's H-HH stage as beating the game according to the device manual.
+This is a player versus CPU mode, and it is the main game mode. The C1 mode
+consists of four epochs, each of which contains six levels, each of which 
+contains five stages. This equates to 120 built-in computer opponents. Three 
+random stages in levels L1 to L5 hide a key. Completing these levels unlocks 
+level LH. Completing stage LH-HH completes the epoch. After completing an 
+epoch, a P-code becomes available and may be used to enhance heroes in mode
+C2. Completing epoch E-4, level LH-HH is considered beating the game, 
+according to the Barcode Battler II manual.
 
-1. Select C1 and scan one warrior and one wizard hero; press SET to confirm.
-2. Select a level. The CPU chooses a random stage within it. R-POWER attempts to escape if the selected encounter is undesirable; a failed escape proceeds to battle.
-3. Select the hero to fight, then scan an item or press SET to skip it. HP bonuses are especially useful because HP is the stat carried forward between battles.
-4. Attack, use an herb, or enter recovery mode with SELECT to cast a spell or choose one to three herbs.
-5. After victory, press SELECT to recover before moving on. If a key was found, the key count updates. Save with R-BATTLE if desired, then press SET to continue.
-6. To resume saved progress, power on, select C1, and press R-BATTLE. Complete the epoch's H-HH stage and press L-POWER to display its P-code.
+* Turn on the unit by pressing ON/OFF.
+* Use the SELECT button to select mode C1.
+* Press SET to start C1.
+* Scan a warrior character.
+* Scan a wizard character.
+* Press SET to confirm character selection.
+* Press SELECT to choose a level, and then press SET.
 
+  _Consider the advice in section STRATEGY, LEVEL ORDER._
+
+* The CPU selects a random stage within the level.
+* If the selected level is undesirable, press R-POWER to attempt to escape.
+
+  _Consider the advice in section STRATEGY, RUN OR RELOAD._
+
+  * If escape is successful, then the game returns to level-selection.
+  * If escape fails, then MISS is displayed and battle proceeds.
+* Press SELECT to select between the warrior and wizard character, and then
+  press SET.
+  
+  _Consider the advice in section STRATEGY, WIZARD OVER WARRIOR._
+  
+* Scan an item card. Ideally, the item card will include an HP boost, since 
+  HP is the only statistic that persists after the battle. To start the 
+  without scanning an item, simply press SET.
+* Red LEDs will flash and indicate which player has the first turn.
+* Do one of the following:
+  * Press L-BATTLE to attack.
+  * Press L-POWER to consume one healing herb.
+  * Press SELECT to enter the magic / herb display. Do the following:
+    * Press SELECT to switch between healing herbs (the lower number) and
+    MP (the upper number), and then press SET.
+    * When selecting healing herbs, press SELECT to choose 1-3 herbs, and then
+    press SET. Otherwise, select [] and press SET to cancel from this view.
+    * When selecting magic, press SELECT to choose a spell, and then
+    press SET. Otherwise, select [] and press SET to cancel from this view.
+* Continue battling until the enemy's HP is depleted.
+* Press SELECT to enter recovery mode for a chance to restore HP to its maximum.
+  
+  _Consider the advice in section STRATEGY, HEAL AFTER BATTLE._
+  
+* If the stage contains a key, the new key count will be displayed. When
+  all three keys are found, level H- will become available.
+* Press R-BATTLE to save game progress if desired, and then press SET. 
+
+  _Consider the advice in section STRATEGY, RUN OR RELOAD._
+
+* To load game progress later, turn the unit off and then on, enter mode C1, 
+  and then press R-BATTLE.
+* Select a level and continue battling until level H-HH of the current epoch
+  is completed.
+* Press L-POWER to display the P-code awarded for completion of the epoch.
+* Once epoch E-4, level H-HH is completed, mode C1 is completed.
+
+<a id="c2-card-deck-battles"></a>
 ### C2: Card-Deck Battles
 
-C2 pits the selected hero against enemies scanned from a card deck. Select C2, scan a warrior and wizard, confirm, enter a P-code with L-POWER, then scan and battle the enemy cards in the deck's prescribed sequence. The *Zelda* deck materials describe a sequence for its enemy cards. P-codes are tied to the heroes used to earn them in C1.
+This is a second player versus CPU mode. The hero plays against a series of 
+enemies specified by a card deck. For instance, the Zelda card deck features 
+20 enemy cards. One partial Japanese-to-English translation of the 
+manual included with the card deck specifies an enemy order. Assuming 
+that the player completes mode C1 and obtains a P-code, completing mode
+C2 is feasible, regardless of enemy order.
 
-## Strategy
+* Turn on the unit by pressing ON/OFF.
+* Use the SELECT button to select mode C2.
+* Press SET to start C2.
+* Scan a warrior character.
+* Scan a wizard character.
+* Press SET to confirm character selection.
+* Press L-POWER to enter a P-code.
+* Scan an enemy card.
+* Battle the enemy as in mode C1.
+* After battle, scan another enemy card.
+  It is possible that some card decks include instructions on the order in 
+  which enemy cards should be battled. 
+* Continue scanning and battling enemy cards until the final card in the 
+  sequence has been defeated.
 
-### Choose the Wizard and Preserve Magic
+V. STRATEGY
 
-When hero statistics are comparable, the wizard is generally more useful than the warrior because spells can restore HP, strengthen the hero, weaken an enemy, prevent herb use, and steal enemy MP. In C1, F0 (Toruma) can drain an enemy wizard's MP. The drained MP can then fund later recovery and stat-changing spells. Drain enemies when it is safe, but defeat dangerous wizards quickly if prolonging the battle risks losing the hero.
+A. WIZARD OVER WARRIOR
 
-### Choose Encounter Order Carefully
+If there is not much difference in statistics between the wizard and warrior
+heroes, it is advisable to use the wizard. The wizard is capable of casting 
+spells capable or restoring hero health, increasing hero statistics or 
+decreasing enemy statistics. These abilities are enhanced by the ability
+to steal enemy MP. The warrior does not have compensatory abilities.
 
-Stages are selected randomly within a chosen level; the easiest enemies do not always appear in L1. The source guide recommends testing the stages near the start of each level and fleeing/reselecting or reloading when an encounter is too costly. An observed E-4 opening order was L1-1, L2-1, L2-2, L1-2, L3-1, L3-2, L4-1, L4-2, L5-1, L5-2, L1-3, L1-4. This is an example, not a guaranteed optimal route.
 
-Three keys are needed to unlock the H level; the guide reports that it is not necessary to clear every numbered stage once the keys are found. In the H-level battles, accumulated MP can be spent on F6 and F7 to reduce enemy defense and attack.
+B. LEVEL ORDER
 
-### Recover After Every Battle
+Take on easier enemies first to build up HP, attack, and defense for use
+against tougher enemies. Within an epoch, the easiest enemies are not 
+necessarily in the first level. They are more likely to be appear in the 
+first two stages of each level.  
+  
+Take on easier warriors before easier wizards. The goal is to gain HP, 
+attack, and defense sufficient to survive long enough against wizards to 
+steal all of their MP.
 
-The next battle's HP maximum equals the hero's HP at the end of the preceding battle. After a victory, press SELECT to enter recovery and restore HP with a spell or one to three herbs. Heart cards add 1,200 HP. Raising maximum HP early makes later percentage-based recovery more valuable.
+It is not necessary to complete all levels within an epoch. After finding 
+all three keys in an epoch, level H- becomes available. If the hero has a
+good stockpile of MP, a few casts of spells F6 and F7 should make completion 
+of H-HH easy. 
 
-### Run or Reload Before Saving a Bad State
+It does not appear that the P-code obtained after completing H-HH depends on 
+how many levels of the epoch were completed. It also does not matter whether
+one of the heroes was killed, as it will be revived in the next epoch.
 
-An undesirable stage or defeat is recoverable if progress has not been saved in a depleted state. Avoid saving after exhausting herbs/MP or ending a battle with too little HP to safely continue; the source guide warns that this can force a restart from the beginning.
+This level order has proven effective but is not guaranteed to be optimal.
 
+**E-1:**
+```
+L1-1, L1-2, L1-3, L2-1, L2-2, L2-3, L1-4, L2-4, L3-2, L3-1, L3-3, L4-1, 
+L4-2, L4-3, L4-4, L5-1, L5-2, L5-3, L1-HH, L2-HH, L3-4, L3-HH, LH-1, LH-2, 
+LH-3, L5-4, L4-HH, L5-HH, LH-4, LH-HH
+```
+
+**E-2:**
+```
+L1-1, L1-2, L2-1, L1-3, L2-3, L2-2, L3-1, L1-4, L1-HH, L2-4, L3-2, L4-2, 
+L4-3, L2-HH, L3-3, L4-1, L5-2, L5-3, L3-4, L3-HH, L4-4, L4-HH, L5-4, 
+L5-1, LH-2, LH-1, LH-4, L5-HH, LH-3, LH-HH
+```
+
+**E-3:**
+```
+L2-1, L2-2, L1-3, L1-1, L1-2, L4-2, L3-4, L4-1, L1-4, L1-HH, L3-2, L3-3, 
+L2-3, L2-4, L2-HH, L3-1, L5-2, L5-1, L3-HH, L4-3, LH-1, L4-4, L4-HH, L5-3, 
+L5-4, L5-HH, LH-3, LH-2, LH-4, LH-HH
+```
+
+**E-4:**
+``` 
+L1-2, L1-1, L2-1, L2-2, L3-1, L3-2, L4-1, L4-2, L5-1, L5-2, L1-3, L1-4,
+L2-3, L2-4, L1-HH, L2-HH, L3-3, L3-4, L3-HH, L4-3, L4-4, L4-HH, LH-1, LH-2,
+L5-3, L5-4, L5-HH, LH-3, LH-4, LH-HH
+```
+
+
+C. HEAL AFTER BATTLE
+
+The hero's HP capacity is equal to the amount of HP that the hero had at the
+end of the previous battle. Therefore, healing fully, or nearly so, is 
+critical. 
+
+Upon completing a battle, the hero may heal one time. To do so, press SELECT. 
+The hero will then have the option to heal with a spell or 1-3 potions.
+
+
+D. RUN OR RELOAD
+
+The value of a willingness to run from battle or reload progress cannot be
+overstated. This especially true early in epochs E-3 and E-4.
+
+Stages within a level are randomly selected. If the selected stage is more
+difficult than ideal, defeat is not the worst case scenario. If the hero is 
+defeated, it is easy enough to reload progress. The worst case scenario is 
+that one of the following occurs:
+
+* The hero depletes his supply of potions or MP.
+* The hero is unable to heal HP to maximum or near maximum after battle. 
+
+The consequence of either of the above is that the hero may be left with 
+insufficient resources to progress through future battles. If progress is
+saved at this point, then it will be necessary to restart the game from the
+beginning.
+
+
+<a id="magic-spell-reference"></a>
 ## Magic Spell Reference
 
 | Code | Japanese manual name (romanized) | MP cost | Recorded effect |
@@ -128,8 +373,10 @@ An undesirable stage or defeat is recoverable if progress has not been saved in 
 
 The manual calls healing potions “herbs.” Spell names above are transcribed from the device manual; English descriptions are the guide author's translations.
 
+<a id="progression-and-entry-codes"></a>
 ## Progression and Entry Codes
 
+<a id="p-codes"></a>
 ### P-Codes
 
 Press L-POWER after completing an epoch in C1 to display its P-code. Enter the code in C2 to strengthen the same hero cards used in C1.
@@ -144,6 +391,7 @@ Press L-POWER after completing an epoch in C1 to display its P-code. Enter the c
 
 These values were observed with the Link and Link (Magic) cards; the source credits Gregg Whitlock for the additional codes.
 
+<a id="f-codes"></a>
 ### F-Codes
 
 In C1, press L-BATTLE outside battle while in epoch E-1 to enter an F-code:
@@ -155,10 +403,12 @@ In C1, press L-BATTLE outside battle while in epoch E-1 to enter an F-code:
 
 The source guide notes that it is unknown whether E-5/E-6 award usable P-codes and that code behavior may depend on the selected heroes.
 
+<a id="zelda-a-link-to-the-past-card-deck"></a>
 ## Zelda: A Link to the Past Card Deck
 
 The following barcodes and statistics are transcribed from the available English reference for the Japanese *The Legend of Zelda: A Link to the Past* deck. Japanese names are retained as printed in the source transcription. The source describes a 20-enemy deck, but the available enemy table lists 18 entries; the two unlisted entries are not inferred here.
 
+<a id="hero-cards"></a>
 ### Hero Cards
 
 | English name | HP | Attack | Defense | Barcode | Japanese |
@@ -166,6 +416,7 @@ The following barcodes and statistics are transcribed from the available English
 | Link | 3,700 | 1,100 | 1,000 | `0371110125502` | リンク |
 | Link (Magic) | 3,700 | 1,100 | 1,000 | `0371110274507` | リンク(魔法) |
 
+<a id="item-cards"></a>
 ### Item Cards
 
 | Item | Player effect | Barcode | Enemy effect | Japanese |
@@ -181,6 +432,7 @@ The following barcodes and statistics are transcribed from the available English
 | Magic Decanter | +5 MP | `0000005980017` | — | 魔法の壺 |
 | Red Potion | +5 herbs | `0000500970445` | — | 赤いくすり |
 
+<a id="enemy-cards"></a>
 ### Enemy Cards
 
 | Enemy | HP | Attack | Defense | Rank | Barcode | Player effect | Japanese |
@@ -206,6 +458,7 @@ The following barcodes and statistics are transcribed from the available English
 
 The asterisk is retained from the source rank values; its meaning is not specified in the available transcription.
 
+<a id="custom-barcodes"></a>
 ## Custom Barcodes
 
 The general guide records these additional barcodes:
@@ -215,6 +468,7 @@ The general guide records these additional barcodes:
 | `8509048880992` | Warrior | 4,900 | 700 | 1,000 | Reduces enemy HP by 50%. |
 | `3975472382794` | Wizard | 4,700 | 500 | 1,200 | Reduces enemy defense by 80%. |
 
+<a id="references-and-preservation-notes"></a>
 ## References and Preservation Notes
 
 - The general guide describes Epoch Co., Ltd. as the manufacturer and gives a 1992 Japanese release date; it distinguishes the Japanese *Barcode Battler II* from the worldwide *Barcode Battler* release.
