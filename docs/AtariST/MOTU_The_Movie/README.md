@@ -9,7 +9,7 @@ developer: "Gremlin Graphics"
 publisher: "Gremlin Graphics"
 release_year: 1987
 document_type: "Map & Navigation Guide"
-author: "jtquisenberry"
+author: "Jacob Quisenberry"
 date: "2005-11-26"
 last_updated: "2026-11-19"
 version: "1.03"
