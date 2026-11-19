@@ -11,8 +11,8 @@ release_year: 1987
 document_type: "Map & Navigation Guide"
 author: "jtquisenberry"
 date: "2005-11-26"
-last_updated: "2026-10-02"
-version: "1.0"
+last_updated: "2026-11-19"
+version: "1.02"
 tags:
   - masters of the universe
   - he-man
@@ -38,18 +38,19 @@ This document serves as the authoritative text companion to the verified speedru
 
 ## Map Legend & Key Waypoints
 
-The navigation map (`AtariST_MOTU_The_Movie_map_1024x720.jpg`) details the complete street and building layout of the town. Key points of interest are designated by numbers (1 through 8):
+The navigation map (`AtariST_MOTU_The_Movie_map_1024x720.jpg`) details the complete street and building layout of the town. START is separate from the eight numbered points of interest (nodes 1 through 8):
 
 | Node | Name / Designation | Location on Map | Description & Objectives |
 | :---: | :--- | :--- | :--- |
-| **1** | **START** | Central Sector | Starting spawn point for He-Man. Begin following the white path north. |
-| **2** | **Chord** | Northwest Sector | First chord collected on the optimal route. Located in the northern courtyard. |
-| **3** | **Chord** | Northeast Sector | Second chord collected along the northern thoroughfare. |
-| **4** | **Junkyard** | Far Southeast Corner | Critical landmark in the industrial sector containing essential items/chords. |
-| **5** | **Charlie's** | South-Central Sector | Charlie's Music Store; narrative landmark central to locating the Cosmic Key frequencies. |
-| **6** | **Chord** | Southern Corridor | Chord location accessed via southern city corridors. |
-| **7** | **Chord** | West-Central Corridor | Fifth chord waypoint along the westbound route toward the final encounter. |
-| **8** | **Evil-Lyn / Skeletor** | Southwest Sector | The final arena and stronghold where He-Man confronts Evil-Lyn and Skeletor. |
+| — | **START** | Central Sector | Starting spawn point for He-Man. No chord is located at START. |
+| **1** | **Chord** | West-Central Sector | Chord 1 location west of START. |
+| **2** | **Chord** | Northwest Sector | Chord 2 location; the first chord collected on the optimal route in the northern courtyard. |
+| **3** | **Chord** | Northeast Sector | Chord 3 location along the northern thoroughfare. |
+| **4** | **Junkyard** | Far Southeast Corner | Junkyard landmark and a chord location in the industrial sector. |
+| **5** | **Charlie's** | South-Central Sector | Charlie's Music Store and a chord location central to locating the Cosmic Key frequencies. |
+| **6** | **Chord** | Southern Corridor | Chord 6 location accessed via the southern city corridors. |
+| **7** | **Chord** | West-Central Corridor | Chord 7 waypoint along the westbound route toward the final encounter. |
+| **8** | **Evil-Lyn / Skeletor** | Southwest Sector | Chord location at the final arena and stronghold where He-Man confronts Evil-Lyn and Skeletor. |
 
 ---
 
@@ -57,7 +58,7 @@ The navigation map (`AtariST_MOTU_The_Movie_map_1024x720.jpg`) details the compl
 
 The solid white path drawn across the map traces the fastest verified route to clear the game:
 
-1. **Departure from START (Node 1):** Head directly north through the central corridor between the blue urban buildings, turning northwest into the upper courtyard to acquire **Chord 2**.
+1. **Departure from START:** Head directly north through the central corridor between the blue urban buildings, turning northwest into the upper courtyard to acquire **Chord 2**.
 2. **Eastbound Traversal to Chord 3 (Node 2 $\rightarrow$ Node 3):** Navigate east along the northern perimeter, bypassing defensive barricades until reaching the northeast sector to secure **Chord 3**.
 3. **Southward Descent to the Junkyard (Node 3 $\rightarrow$ Node 4):** Follow the easternmost alleyways southward, cutting through the perimeter fence directly into the **Junkyard (Node 4)** in the far southeast.
 4. **Westbound Transition Past Charlie's (Node 4 $\rightarrow$ Node 5 $\rightarrow$ Node 6):** Move west from the Junkyard, cutting through the central avenue past **Charlie's (Node 5)**, and loop into the southern cul-de-sac to secure **Chord 6**.
