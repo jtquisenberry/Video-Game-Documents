@@ -16,16 +16,16 @@ date: "2013-11-19"
 last_updated: "2026-11-05"
 language: "en"
 tags:
-  - masters of the universe
+  - masters-of-the-universe
   - he-man
-  - commodore 64
+  - commodore-64
   - c64
-  - u.s. gold
-  - adventure soft
+  - u.s.-gold
+  - adventure-soft
   - walkthrough
   - platformer
-  - atom smasher
-  - packaging transcript
+  - atom-smasher
+  - packaging-transcript
 summary: "Authoritative Commodore 64 walkthrough for Masters of the Universe: The Ilearth Stone (also titled The Arcade Game), featuring movement mechanics, HUD gauge analysis, ingredient recipes for the Atom Smasher sword, step-by-step castle routing, complete physical packaging transcription, and Sinclair Spectrum cross-platform notes."
 ---
 
@@ -59,6 +59,7 @@ summary: "Authoritative Commodore 64 walkthrough for Masters of the Universe: Th
 8. [Verbatim In-Game Text & Credits](#verbatim-in-game-text--credits)
 9. [Physical Packaging Box Inlay Transcription](#physical-packaging-box-inlay-transcription)
 10. [Cross-Platform Variations (C64 vs. Spectrum)](#cross-platform-variations-c64-vs-spectrum)
+11. [Cheats (Sinclair ZX Spectrum)](#cheats-sinclair-zx-spectrum)
 
 ---
 
@@ -149,12 +150,12 @@ Seven items spawn randomly across seven designated item pedestals throughout Gra
 
 | Item Icon | Visual Appearance | Status | Function |
 | :--- | :--- | :--- | :--- |
-| **Weed** | Scraggly green plant / sprig | **REQUIRED (1/6)** | Necessary catalyst for Orko's enchantment. |
-| **Dagger** | Small ceremonial blade | **REQUIRED (2/6)** | Sharp edge focus component. |
-| **Round-bottom Flask** | Glassware narrow at neck, wide at base | **REQUIRED (3/6)** | Alchemical containment vessel. |
-| **Triangle** | Equilateral geometric prism | **REQUIRED (4/6)** | Harmonic energy focuser. |
-| **Wand** | Horizontal solid baton | **REQUIRED (5/6)** | Conductor for magical current. |
-| **Ring** | Torus circle with open center | **REQUIRED (6/6)** | Binding containment loop. |
+| **Weed** | Scraggly green plant / sprig | **REQUIRED** | Necessary catalyst for Orko's enchantment. |
+| **Dagger** | Small ceremonial blade | **REQUIRED** | Sharp edge focus component. |
+| **Round-bottom Flask** | Glassware narrow at neck, wide at base | **REQUIRED** | Alchemical containment vessel. |
+| **Triangle** | Equilateral geometric prism | **REQUIRED** | Harmonic energy focuser. |
+| **Wand** | Horizontal solid baton | **REQUIRED** | Conductor for magical current. |
+| **Ring** | Torus circle with open center | **REQUIRED** | Binding containment loop. |
 | **Spiked Ball** | Sphere covered in metallic spikes | <span style="color: #ef4444; font-weight: bold;">SPOILER TRAP</span> | **DO NOT TOUCH.** Picking up this item spoils the batch. If presented to Orko, all collected ingredients vanish and must be gathered again from scratch. |
 
 ---
@@ -164,17 +165,17 @@ Seven items spawn randomly across seven designated item pedestals throughout Gra
 * **Q: Must the six ingredients be gathered in any particular sequence?**  
   **A:** No. You may collect the six valid items in any order.
 
+* **Q: What is the bad item that spoils the upgrade?**  
+  **A:** A spiked ball. Do not pick it up.
+
 * **Q: What happens if I collect the Spiked Ball or bring an incomplete set to Orko?**  
   **A:** Orko cannot perform the enchantment. Your inventory is purged, and you must re-scour Castle Grayskull to collect the six valid components again. You do not lose a life, but you lose precious `MOONS TIL DOOM` timer units.
 
 * **Q: What does the Ilearth Stone look like?**  
   **A:** It appears as an irregular, glowing hexagonal crystal mounted upon a stone dais inside a third-floor chamber.
 
-* **Q: Can I destroy the Ilearth Stone without the Atom Smasher?**  
-  **A:** No. Attacking it with the standard Power Sword yields zero effect. Only the Atom Smasher can shatter it.
-
-* **Q: What happens if I attack Skeletor before destroying the Ilearth Stone?**  
-  **A:** Because the stone maintains his invulnerability, touching or striking Skeletor causes catastrophic feedback that instantly drains **all remaining lives**, terminating your run.
+* **Q: How do I destroy the Ilearth Stone?**  
+  **A:** Walk up to it and attack it with the upgraded sword (the Atom Smasher). The standard Power Sword has no effect.
 
 ---
 
@@ -218,6 +219,8 @@ Seven items spawn randomly across seven designated item pedestals throughout Gra
 
 1. You materialize on an elevated parapet holding **Ingredient Station 4**. Inspect and retrieve the item.
 2. Drop down to the main floor. Advance left until you observe an arched portal displaying an irregular hexagonal crystal mounted upon a stone pedestal. This is the **Ilearth Stone**. Take note of its location; do not strike it yet.
+
+   > **Guide note:** There is a second door to the left of the Ilearth Stone that leads to a more advantageous position on the second floor. However, the stairs at that door have severe collision detection issues, making you highly likely to fall through the floor. Use the right-side stairs instead.
 3. Turn right and sprint across the corridor, dodging arrows cascading from murder holes in the ceiling.
 4. At the eastern wall, bound up the stone steps and press **Up** inside the doorway to transition to Grayskull's Second Floor.
 
@@ -230,6 +233,9 @@ Seven items spawn randomly across seven designated item pedestals throughout Gra
 5. **Precision Platforming:** Leap west across two gaps (hold **Up** firmly throughout the leap). Look down to spot a rotating platform hovering along a diagonal path.
 6. Edge carefully to the lip of the catwalk. When the platform slides directly beneath He-Man's feet, walk off the edge to drop onto it cleanly.
 7. Ride it to the next platform, press **Fire + Left** to disembark, and time your leap onto the clockwise square-patrol lift. Ride this lift to its upper-left apex to claim **Ingredient Station 5**.
+
+   > **Guide note:** The jump from the catwalk to the spinning platform is extremely difficult. Buggy collision detection means you will likely fall through the platform. If you do, you will re-spawn at the beginning of the second floor — make your way back and try again from the catwalk.
+
 8. Board the lift again on its lower return stroke, ride it toward the upper-right, and jump off onto the serpent-ornamented dais. Enter the portal to cycle back through the Third Floor to return safely to the second floor starting point.
 
 ### Second Floor – The Snake Man & Roof Lift
@@ -281,6 +287,8 @@ Seven items spawn randomly across seven designated item pedestals throughout Gra
 2. Ascend via the Snake Man's elevator shaft to the Exterior Roof.
 3. Enter the Left Tower, navigate the upper portal, and enter **Skeletor's Sanctum**.
 4. **The Final Blow:** Approach Skeletor without fear and swing the Atom Smasher.
+
+   > **Guide note:** You will notice an arched doorway at the back of the room containing what looks like a computer terminal or throne. This is purely decorative — ignore it.
 5. Upon landing the blow:
    * Skeletor is instantly banished.
    * On the Commodore 64, the inventory pane displays **`CAPTURED`**.
@@ -345,6 +353,11 @@ Eternia is Saved
 
 ```text
 THE MASTERS OF COMPUTER SOFTWARE PRESENT
+
+[Gameplay screenshot]
+[Gameplay screenshot]
+[Gameplay screenshot]
+[Gameplay screenshot]
 
 THE ARCADE GAME
 HE-MAN(TM) AND THE
@@ -427,4 +440,31 @@ While sharing the same narrative and room taxonomy, the Commodore 64 and Sinclai
 4. **Victory Ending Sequence:**
    * **C64:** Remains on the gameplay screen while the inventory display updates to read `CAPTURED`.
    * **Spectrum:** Cuts directly to a clean black screen displaying a 3-line white celebratory scroll (*"Congratulations Mighty Hero / Skeletor is defeated / Eternia is Saved"*).
+
+---
+
+## Cheats (Sinclair ZX Spectrum)
+
+### From: *Your Sinclair*, Issue 32, Supplement Page 29
+
+> Masters Of The Universe  
+> (US Gold/March 1987) Arcade adventure with jerky graphics and no gameplay.
+>
+> Line 45 gives infinite moons and line 47 stops the nasty coming out of the swamp in screen 1. Either can be deleted — play your original game tape from the start.
+
+```basic
+45 POKE 25451,60
+47 POKE 27107,0
+100 MERGE "": RUN
+```
+
+### From: World of Spectrum Hackers Anonymous (Multiface Pokes)
+
+*Source: http://www.worldofspectrum.org/hackersanon/ha3/ha3index.htm*
+
+| Description | POKE |
+| :--- | :--- |
+| Infinite Energy | `POKE 24576,0` |
+| Infinite Time | `POKE 25451,0` |
+| Infinite Sword | `POKE 25222,0` |
 
