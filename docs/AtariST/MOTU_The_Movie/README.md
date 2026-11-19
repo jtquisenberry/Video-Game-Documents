@@ -46,7 +46,7 @@ The navigation map (`AtariST_MOTU_The_Movie_map_1024x720.jpg`) details the compl
 | **1** | **Chord** | West-Central Sector | Chord 1 location west of START. |
 | **2** | **Chord** | Northwest Sector | Chord 2 location. |
 | **3** | **Chord** | Northeast Sector | Chord 3 location along the northern thoroughfare. |
-| **4** | **Junkyard** | Far Southeast Corner | Junkyard landmark Chord 4 location in the industrial sector. |
+| **4** | **Junkyard** | Far Southeast Corner | Junkyard landmark and Chord 4 location in the industrial sector. |
 | **5** | **Charlie's** | South-Central Sector | Charlie's Music Store and Chord 5 location. |
 | **6** | **Chord** | Southern Corridor | Chord 6 location accessed via the southern city corridors. |
 | **7** | **Chord** | West-Central Corridor | Chord 7 waypoint along the westbound route toward the final encounter. |
@@ -61,10 +61,10 @@ The solid white path drawn across the map traces the fastest verified route to c
 1. **Departure from START:** Head north through the central corridor, turning northwest into the upper courtyard to acquire **Chord 2**.
 2. **Eastbound Traversal to Chord 3 (Node 2 &rarr; Node 3):** Navigate east along the northern perimeter until reaching the northeast sector to secure **Chord 3**.
 3. **Southward Descent to the Junkyard (Node 3 &rarr; Node 4):** Follow the easternmost alleyways southward into the **Junkyard (Node 4)** in the far southeast.
-4. **Westbound Transition to Charlie's (Node 4 &rarr; Node 5):** Move west from the Junkyard, cutting through the central avenue to **Charlie's (Node 5)**
-5. **Southward Descent to Chord 6 (Node 5 &rarr; Node 6):**, Navigate west and soun to a southern cul-de-sac to secure **Chord 6**.
-5. **Advancing West to Chord 7 (Node 6 &rarr; Node 7):** Retreat back north into the main westbound artery, continuing through the western corridors to collect **Chord 7**.
-6. **Final Infiltration & Boss Encounter (Node 7 &rarr; Node 8):** Follow the path southwest  into **Node 8** to confront **Evil-Lyn** and **Skeletor**, completing the game.
+4. **Westbound Transition to Charlie's (Node 4 &rarr; Node 5):** Move west from the Junkyard, cutting through the central avenue to **Charlie's (Node 5).**
+5. **Southward Descent to Chord 6 (Node 5 &rarr; Node 6):** Navigate west and south to a southern cul-de-sac to secure **Chord 6**.
+6. **Advancing West to Chord 7 (Node 6 &rarr; Node 7):** Retreat back north into the main westbound artery, continuing through the western corridors to collect **Chord 7**.
+7. **Final Infiltration & Boss Encounter (Node 7 &rarr; Node 8):** Follow the path southwest into **Node 8** to confront **Evil-Lyn** and **Skeletor**, completing the game.
 
 ---
 
