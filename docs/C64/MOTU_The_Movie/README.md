@@ -127,7 +127,7 @@ This map is based on the in-game street grid from the Commodore 64 version (and 
 ![C64 MOTU The Movie - Building Sniper Gallery](c64_motu_movie_play-003.png)
 
 * **Mechanics Depicted:** First-person crosshair target-shooting sequence. Skeletor's troopers lean out of windows and doorways in a three-story brick tenement building. The player controls a yellow crosshair reticle.
-* **Target HUD:** The mission timer switches to an active reticle icon with target/ammunition counter (`(+) 00`).
+* **Target HUD:** The mission timer switches to an active reticle icon with target counter (`(+) 00`).
 * **HUD Status:** `SCORE 00022900`, `CHORD ♪♪♪` (3 notes collected), `LIVES 07`, 1 health sword, reticle indicator `(+) 00`.
 
 #### D. Communicator Transmission Monitor (`c64_motu_movie_play-004.png`)
