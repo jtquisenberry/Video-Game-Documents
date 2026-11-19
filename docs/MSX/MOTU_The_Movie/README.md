@@ -86,7 +86,7 @@ The MSX edition transitions across several distinct gameplay perspectives and en
 ![MSX MOTU The Movie - Target Shooting Gallery](msx_motu_movie_play-003.png)
 
 * **Mechanics Depicted:** First-person crosshair target-shooting sequence. Skeletor's troopers appear in the open windows and doorway of a multi-story brick tenement building.
-* **Targeting HUD:** The standard mission countdown timer switches to an active crosshair reticle counter displaying remaining targets/ammunition (`(+) 06`).
+* **Targeting HUD:** The standard mission countdown timer switches to an active crosshair reticle counter displaying defeated targets (`(+) 06`).
 * **HUD Status:** `SCORE 00065600`, `CHORD ♪♪♪` (3 notes collected), `LIVES 03`, crosshair register `(+) 06`, heading North (`N ↑`).
 
 #### D. Suburban Street Traversal (`msx_motu_movie_play-004.png`)
