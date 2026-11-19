@@ -10,7 +10,7 @@ publisher: "Epoch Co., Ltd."
 release_year: 1992
 document_type: "Strategy Guide"
 author: "Jacob Quisenberry"
-version: "1.02"
+version: "1.03"
 date: "2019-01-30"
 last_updated: "2026-11-18"
 language: "en"
@@ -22,7 +22,7 @@ tags:
   - lcd-game
   - zelda
   - strategy
-summary: "Operation and strategy reference for Epoch's Barcode Battler II, including LCD indicators, button functions, C0/C1/C2 play, epoch progression, magic spells, P-codes, F-codes, tactics for preserving hero health and resources, and an English translation of the Japanese Zelda card-deck manual. Includes card statistics and barcodes transcribed from the Japanese Legend of Zelda: A Link to the Past deck insert."
+summary: "Operation and strategy reference for Epoch's Barcode Battler II, including LCD indicators, button functions, C0/C1/C2 play, epoch progression, magic spells, P-codes, F-codes, tactics for preserving hero health and resources, and an English transcription/translation of the Japanese Zelda card-deck manual. Includes card statistics and barcodes transcribed from the Japanese Legend of Zelda: A Link to the Past deck insert."
 ---
 
 # Conveni Wars Barcode Battler II
@@ -34,7 +34,6 @@ The Barcode Battler II is a dedicated LCD game system that reads barcodes as cha
 - [Device Display](#device-display)
   - [LCD Indicators](#lcd-indicators)
   - [Buttons and Switch](#buttons-and-switch)
-    - [Buttons](#buttons)
 - [Game Modes](#game-modes)
   - [C0: Player versus Player](#c0-player-versus-player)
   - [C1: Player versus CPU](#c1-player-versus-cpu)
@@ -53,6 +52,9 @@ The Barcode Battler II is a dedicated LCD game system that reads barcodes as cha
   - [Item Cards](#item-cards)
   - [Enemy Cards](#enemy-cards)
   - [Instruction Manual Transcription and Translation](#instruction-manual-transcription-and-translation)
+    - [Cover](#cover)
+    - [C2 Mode Setup](#c2-mode-setup)
+    - [Battle and Level-Up Rules](#battle-and-level-up-rules)
 - [Custom Barcodes](#custom-barcodes)
 - [References and Preservation Notes](#references-and-preservation-notes)
 
@@ -105,9 +107,6 @@ Staff  Shield    Item Entry      Shield  Staff
 
 <a id="buttons-and-switch"></a>
 ### Buttons and Switch
-
-<a id="buttons"></a>
-#### Buttons
 
 The buttons have these functions:
 
@@ -280,7 +279,7 @@ C2 is feasible, regardless of enemy order.
 
 If there is not much difference in statistics between the wizard and warrior
 heroes, it is advisable to use the wizard. The wizard is capable of casting 
-spells capable or restoring hero health, increasing hero statistics or 
+spells capable of restoring hero health, increasing hero statistics or
 decreasing enemy statistics. These abilities are enhanced by the ability
 to steal enemy MP. The warrior does not have compensatory abilities.
 
@@ -290,7 +289,7 @@ to steal enemy MP. The warrior does not have compensatory abilities.
 
 Take on easier enemies first to build up HP, attack, and defense for use
 against tougher enemies. Within an epoch, the easiest enemies are not 
-necessarily in the first level. They are more likely to be appear in the 
+necessarily in the first level. They are more likely to appear in the
 first two stages of each level.  
   
 Take on easier warriors before easier wizards. The goal is to gain HP, 
@@ -304,7 +303,7 @@ of H-HH easy.
 
 It does not appear that the P-code obtained after completing H-HH depends on 
 how many levels of the epoch were completed. It also does not matter whether
-one of the heroes was killed, as it will be revived in the next epoch.
+one of the heroes was killed, the hero will be revived in the next epoch.
 
 This level order has proven effective but is not guaranteed to be optimal.
 
@@ -352,7 +351,7 @@ The hero will then have the option to heal with a spell or 1-3 potions.
 ### Run or Reload
 
 The value of a willingness to run from battle or reload progress cannot be
-overstated. This especially true early in epochs E-3 and E-4.
+overstated. This is especially true early in epochs E-3 and E-4.
 
 Stages within a level are randomly selected. If the selected stage is more
 difficult than ideal, defeat is not the worst case scenario. If the hero is 
@@ -476,6 +475,7 @@ The asterisk is retained from the source rank values; its meaning is not specifi
 
 The attached Japanese deck-manual pages preserve the cover, C2 setup, battle flow, level-up display, and item rules. The following records the clearly legible headings and setup instructions; fine-print decorative or story text that cannot be verified at the same confidence is omitted.
 
+<a id="cover"></a>
 #### Cover
 
 ![Zelda card-deck manual cover](assets/Zelda_Deck_Manual_01_Cover.jpg)
@@ -494,6 +494,7 @@ CONVENI WARS
 
 **English translation:** Barcode Battler II; dedicated Barcode Battler II card software; *The Legend of Zelda: A Link to the Past*; instruction manual.
 
+<a id="c2-mode-setup"></a>
 #### C2 Mode Setup
 
 ![Zelda card-deck C2 mode manual page](assets/Zelda_Deck_Manual_02_C2_Mode.jpg)
@@ -512,6 +513,7 @@ C2モードの遊び方
 
 **English translation:** Story. How to use C2 mode: (1) select C2 on the main unit and press SET; (2) scan the two hero cards; (3) battle preparation is complete. For detailed operation, refer to the Barcode Battler II main-unit manual.
 
+<a id="battle-and-level-up-rules"></a>
 #### Battle and Level-Up Rules
 
 ![Zelda card-deck battle manual page](assets/Zelda_Deck_Manual_03_Battle.jpg)
@@ -519,11 +521,10 @@ C2モードの遊び方
 **Visible Japanese heading and battle procedure:**
 
 ```text
-はじめに
-遊び方
+サイロモードの遊び方
 ```
 
-The battle page shows one hero card on the left and one enemy card on the right, connected by the Link or battle indicator. The visible diagram explains the C2 battle layout and card-scan sequence already summarized under [C2: Card-Deck Battles](#c2-card-deck-battles).
+The battle page shows a hero card and an enemy card connected in the visible battle diagram. The diagram illustrates the C2 battle layout and card-scan sequence already summarized under [C2: Card-Deck Battles](#c2-card-deck-battles).
 
 ![Zelda card-deck progression and item manual page](assets/Zelda_Deck_Manual_04_Progression.jpg)
 
@@ -537,7 +538,7 @@ The battle page shows one hero card on the left and one enemy card on the right,
 
 **English translation:** Level Up; How to Use Items; Red Potion.
 
-The level-up page shows the hero's HP, attack, and defense advancing after successful battles. The item page explains that an item card can be used during a battle and shows the red potion's herb value and the five-Potion effect diagram. The attached scan is readable enough to verify these headings and displays, but the smallest fine-print prose was not transcribed here.
+The level-up page shows the hero's HP, attack, and defense advancing after successful battles. The item page explains that an item card can be used during a battle. The attached scan verifies these headings and displays, but the smallest fine-print prose was not transcribed here.
 
 <a id="custom-barcodes"></a>
 ## Custom Barcodes
