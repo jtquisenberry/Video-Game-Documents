@@ -8,22 +8,22 @@ alternate_titles:
 developer: "Mike Woodroffe, Teoman Irmak, Stefan Ufnowski, Graham Lilley"
 publisher: "U.S. Gold Ltd."
 release_year: 1987
-document_type: "Media Archive & Reference"
+document_type: "Media Archive"
 author: "Jacob Quisenberry"
 version: "1.00"
 date: "2020-01-02"
-last_updated: "2026-10-27"
+last_updated: "2026-11-19"
 language: "en"
 tags:
-  - masters of the universe
+  - masters-of-the-universe
   - he-man
-  - bbc micro
-  - acorn electron
+  - bbc-micro
+  - acorn-electron
   - terraquake
-  - super adventure
-  - text adventure
-  - u.s. gold
-  - screen reference
+  - super-adventure
+  - text-adventure
+  - us-gold
+  - screen-reference
 summary: "Archival screen references, verbatim text transcriptions, and game-state analyses for the 1987 BBC Micro release of Masters of the Universe in Terraquake, including transformation, victory, and failure states."
 ---
 
@@ -35,7 +35,7 @@ summary: "Archival screen references, verbatim text transcriptions, and game-sta
 
 In contrast to the ZX Spectrum version—which integrated static graphic illustrations above each room's description—the BBC Micro and Acorn Electron releases are strictly **text-only**. The BBC Micro edition utilizes the hardware's distinctive teletext/Mode 7 high-contrast colored text layout:
 * **Yellow text:** Top room titles and environmental descriptions.
-* **Red horizontal dashed rule:** Separator between narrative scene descriptions and the interactive parser log.
+* **Red horizontal dashed rule:** 40-column separator between narrative scene descriptions and the interactive parser log.
 * **Red prompts:** Command entry indicators (`What next`).
 * **White text:** Player command entries.
 * **Cyan text:** Game engine feedback, action responses, status changes, and narrative dialogue.
@@ -81,7 +81,7 @@ What next
 ```
 
 * **Game Mechanics Observed:**
-  * The command prompt appears as `What next` followed by a double space.
+  * The command prompt appears as `What next` followed by a double space (due to the Mode 7 alphanumeric color attribute byte).
   * Room navigation uses directional commands or direct interaction verbs (`GO PANEL`).
   * Examining the recess alerts the player that an item of value is present (`You have indeed found something of worth!`).
   * The pervasive atmospheric quake timer message appears periodically: `"The earth tremors more violently."`
@@ -89,7 +89,7 @@ What next
 
 ---
 
-## 2. Victory Ending (`bbc_terraquake_end_001.png`)
+### 2. Victory Ending (`bbc_terraquake_end_001.png`)
 
 ![BBC Micro Terraquake - Victory Ending](bbc_terraquake_end_001.png)
 
@@ -129,7 +129,7 @@ Press any key to continue.
 
 ---
 
-## 3. Defeat & Failure State (`bbc_terraquake_fail_001.png`)
+### 3. Defeat & Failure State (`bbc_terraquake_fail_001.png`)
 
 ![BBC Micro Terraquake - Failure and Death Screen](bbc_terraquake_fail_001.png)
 
@@ -172,12 +172,23 @@ Press any key to continue.
 
 1. **Four-Character Keyword Truncation:**
    As verified through extraction from the BBC binary, all verbs and nouns recognized by the game's parser are truncated to four characters or fewer. Characters entered past the four-character limit are ignored (e.g., `KILL MANT WITH SWOR` is parsed identically to `KILL MANTENNA WITH SWORD`).
-2. **Platform-Specific Nuances:**
-   * Unlike the C64 and Spectrum editions, the BBC Micro version does not render background artwork, relying entirely on colored mode 7 text descriptions.
-   * Specific movement commands (such as the mirror traversal sequences tagged as `"speculum"`) operate identically across all 8-bit releases.
+2. **Teletext Attribute Spacing:**
+   In BBC Micro Mode 7 (Teletext), changing text color (e.g. from red prompt text to white command input) is controlled by in-line SAA5050 hardware attribute codes. These control bytes occupy a non-printing character cell on screen, creating the characteristic double-space indentation visible between `What next` and player commands (`What next  GO PANEL`).
+3. **Cross-Platform Lexical Variance:**
+   The recurring atmospheric tremor message on the BBC Micro reads:
+   ```text
+   The earth tremors more violently.
+   ```
+   In contrast, the Commodore 64 and ZX Spectrum releases render the equivalent sentence using the verb "trembles":
+   ```text
+   The earth trembles more violently.
+   ```
+4. **Platform-Specific Visual Architecture:**
+   Unlike the C64 and Spectrum editions, the BBC Micro version does not render background illustrations or room artwork, relying entirely on colored 40-column Mode 7 text descriptions.
 
 ---
 
 ## Related Documentation
 
 * **Complete Solution & Manual:** See the sister guide [Masters of the Universe in Terraquake Walkthrough & Keyword Reference (Commodore 64)](../../C64/MOTU_Terraquake/MOTU_Terraquake_Walkthrough.html) for a full move-by-move walkthrough, the game manual transcript, and the complete dictionary of parsed keywords.
+* **ZX Spectrum Illustrated Reference:** See [Masters of the Universe in Terraquake (ZX Spectrum) Illustrated Screen Reference](../../ZX_Spectrum/MOTU_Terraquake/README.html) for split-screen graphic illustrations, color artwork, and victory/defeat transcripts.
