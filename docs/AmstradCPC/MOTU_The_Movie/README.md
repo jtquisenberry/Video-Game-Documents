@@ -8,29 +8,31 @@ alternate_titles:
 developer: "Gremlin Graphics"
 publisher: "Gremlin Graphics / KIXX (U.S. Gold)"
 release_year: 1987
-document_type: "Media Archive & Reference"
+document_type: "Media Archive"
 author: "jtquisenberry"
+version: "1.00"
 date: "2026-10-02"
-version: "1.0"
+last_updated: "2026-11-19"
+language: "en"
 tags:
-  - masters of the universe
+  - masters-of-the-universe
   - he-man
-  - amstrad cpc
-  - schneider cpc
+  - amstrad-cpc
+  - schneider-cpc
   - kixx
-  - gremlin graphics
-  - retro gaming
-  - box art
-summary: "Archival documentation, box art transcriptions, and gameplay screenshot reference for the Amstrad/Schneider CPC release of Masters of the Universe: The Movie."
+  - gremlin-graphics
+  - retro-gaming
+  - box-art
+summary: "Archival media reference, European cassette packaging transcriptions, Mode 0 title screen analysis, and cross-platform comparisons for the Amstrad/Schneider CPC release of Masters of the Universe: The Movie."
 ---
 
 # Masters of the Universe: The Movie – Amstrad CPC Archive
 
 ## Overview
 
-*Masters of the Universe: The Movie* on the Amstrad CPC and Schneider CPC computers is an action-adventure adaptation of the 1987 live-action Cannon Films feature. Developed by Gremlin Graphics and later re-released under U.S. Gold's budget imprint **KIXX**, the game places players in control of He-Man as he explores Earth to recover the Cosmic Key's missing chord tones and fend off Skeletor's forces.
+*Masters of the Universe: The Movie* on the **Amstrad CPC** and **Schneider CPC** home computers is an action-adventure adaptation of the 1987 live-action Cannon Films feature. Originally developed and published by **Gremlin Graphics** (and subsequently re-released under U.S. Gold's budget imprint **KIXX**), the game places players in control of He-Man as he explores a suburban California town on Earth to retrieve the Cosmic Key's lost musical chord tones and defeat Skeletor's occupying forces.
 
-This folder archives verified media assets from the original physical European cassette release.
+This document archives verified media assets from the original physical European cassette release, documents the Mode 0 graphical title screen and HUD presentation, and provides cross-platform links to the sister releases.
 
 ---
 
@@ -38,26 +40,33 @@ This folder archives verified media assets from the original physical European c
 
 ### 1. Cassette Box Art (`He-Man_MOTU_CPC_Box.PNG`)
 
-![Amstrad CPC Box Art](He-Man_MOTU_CPC_Box.PNG)
+![Amstrad CPC Cassette Inlay Box Art](He-Man_MOTU_CPC_Box.PNG)
 
-* **Physical Format:** Standard European Compact Cassette jewel case inlay.
-* **Compatibility Banner:** `"For use on AMSTRAD/SCHNEIDER CPC"`
-* **Marketing Tagline:** `"MASTERS OF THE UNIVERSE HAS COME TO LIFE"`
-* **Title:** `"MASTERS OF THE UNIVERSE – The Movie"`
-* **Publisher Imprint:** **KIXX** (budget re-release label by U.S. Gold, circa 1989/1990).
-* **Cover Art Description:** Depicts Dolph Lundgren as He-Man in movie armor holding the sword, with Frank Langella's Skeletor looming menacingly in the upper-left cosmic background.
-
----
-
-### 2. In-Game Screenshot (`MOTU-movie_screen.gif`)
-
-* **File:** `MOTU-movie_screen.gif`
-* **Platform Display:** Mode 0 / Mode 1 Amstrad graphics palette.
-* **Content:** Displays He-Man in the overhead town labyrinth navigating streets, dodging enemy lasers, and interacting with the game's HUD (health status, inventory, and Cosmic Key chord acquisition meter).
+* **Physical Format:** European Compact Cassette jewel case inlay card (KIXX budget re-release, circa 1989/1990).
+* **Compatibility Header:** `"For use on AMSTRAD/SCHNEIDER CPC"` printed across the top orange header band.
+* **Marketing Tagline:** `"MASTERS OF THE UNIVERSE HAS COME TO LIFE"` printed in gold lettering on the left side of the artwork border.
+* **Title Branding:** The movie title is rendered with `"MASTERS"` in chrome-bordered 3D blue lettering, `"OF THE UNIVERSE"` in white bold capital lettering with a `™` trademark notice, and `"— The Movie —"` in white script flanked by dashes.
+* **Publisher Imprint:** **KIXX ®** budget re-release imprint (a label of U.S. Gold Ltd.) positioned at the bottom in a distinctive pink hexagonal badge with yellow and red lettering.
+* **Cover Art Description:** Features theatrical promotional photography of Dolph Lundgren as He-Man in his movie battle harness and armor, standing facing forward with arms at his sides against a cosmic starfield backdrop. Frank Langella's hooded Skeletor looms menacingly in the upper-left corner illuminated with dramatic blue and skull lighting.
 
 ---
 
-## Cross-Platform Reference
+### 2. Title & Attract Screen (`MOTU-movie_screen.gif`)
 
-For the full navigational street map, chord coordinate breakdown, and speedrun pathing, see the sister directory:
-* [Atari ST Navigation Map & Route Guide](../../AtariST/MOTU_The_Movie/README.html)
+![Amstrad CPC Title Screen](MOTU-movie_screen.gif)
+
+* **Graphic Display Mode:** Rendered in Amstrad CPC **Mode 0** graphics (160×200 pixel resolution with wide pixels, supporting up to 16 simultaneous colors selected from the system's 27-color hardware palette).
+* **Title Artwork:** The central illustration presents a Mode 0 rendering of Dolph Lundgren's He-Man from the chest up, wearing his battle armor and reddish loincloth/pouch against a black starry background. The ghostly silhouette of Skeletor's hooded skull looms above him. The franchise marquee `"MASTERS OF THE UNIVERSE"` is displayed in vibrant blue block letters directly beneath the illustration.
+* **HUD Architecture:** Frames the display with a royal blue border featuring the same vertical pillar layout shared with the MSX release:
+  * **Compass Rose:** Top-mounted indicator featuring a bright green **`N`** (North) character.
+  * **Power Sword Gauge:** Vertical sword icon with a silver blade, red grip, and gold hilt/crossguard tracking He-Man's vitality and sword charge.
+  * **Havoc Staff Gauge:** Gold vertical staff topped with a ram's skull representing the countdown toward Skeletor's victory.
+  * **Bottom Status Strip:** Displays labels for `SCORE` (white) and `CHORD` (yellow), a bordered He-Man life icon with yellow hair, and an initialized mission countdown clock window.
+
+---
+
+## Cross-Platform Navigation
+
+* **16-bit Atari ST Map & Route Guide:** [Atari ST Navigation Map & Route Guide](../../AtariST/MOTU_The_Movie/README.html) — High-resolution 1024×720 street navigation map, 8-waypoint legend, chord tone locations, and verified speedrun routing.
+* **Commodore 64 Cheats & Map Guide:** [Commodore 64 Cheats & Map Guide](../../C64/MOTU_The_Movie/README.html) — Verified unlimited-lives POKE cheats, in-game overhead radar map, and victory/defeat screen transcripts.
+* **MSX Media Archive & Screen Reference:** [MSX Media Archive & Screen Reference](../../MSX/MOTU_The_Movie/README.html) — Vertical compass HUD analysis, Graveyard, Melee Duel, Sniper Gallery, and Skeletor Communicator screens.
