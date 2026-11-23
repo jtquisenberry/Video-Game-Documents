@@ -135,7 +135,7 @@ The source listed these external references:
 Following is a verbatim transcription of the game's instruction manual. It 
 leaves grammatical errors intact.
 
-
+```
 THE LEGEND OF ZELDA 8321
 
 S1 (Mode); Normal time - Game mode - Alarm time
@@ -337,5 +337,4 @@ THE WATCH BATTER\Y SCREWS CONSTITUTE SMALL
 PARTS AND HAVE FUNCTIONAL SHARP POINTS THAT
 COULD PROVE HAZZARDOUS TO CHILDREN UNDER #^ 
 MONTHS.
-
-
+```
