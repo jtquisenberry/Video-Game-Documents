@@ -6,13 +6,13 @@ alternate_titles:
   - "The Legend of Zelda Game Watch"
   - "Nelsonic Zelda 8321"
 developer: "Nelsonic Industries"
-publisher: "Nintendo (licensed)"
+publisher: "Nelsonic Industries (licensed by Nintendo)"
 release_year: 1989
 document_type: "Walkthrough"
 author: "Jacob Quisenberry"
 version: "1.00"
 date: "2019-02-05"
-last_updated: "2026-11-07"
+last_updated: "2026-11-23"
 language: "en"
 tags:
   - the-legend-of-zelda
@@ -30,7 +30,7 @@ summary: "Version 1.00 archive of the Nelsonic 8321 Zelda wristwatch game, inclu
 
 ## Product identification
 
-The source identifies the game as a Nelsonic Industries wristwatch released in the United States on October 5, 1989, licensed by Nintendo. The recorded identifiers are model **8321** and product ID **04935301251**. It is not Nintendo's two-screen Zelda Game & Watch.
+The source identifies the game as a Nelsonic Industries wristwatch released in the United States on October 5, 1989, developed and published by Nelsonic Industries under license from Nintendo. The recorded identifiers are model number **8321** and UPC barcode **04935301251**. It is not Nintendo's two-screen Zelda Game & Watch.
 
 ## Controls and operation
 
@@ -59,11 +59,21 @@ The manual says a key is worth 20 bonus points if collected within four seconds.
 
 The manual further states that later-level bats require clearing all Iron Balls with the Boomerang before a Sword appears, and that the Sword can be used eight times.
 
-## Gameplay photograph
+## Gameplay photographs
 
-![Nelsonic Zelda Game Watch LCD displaying a cave grid, a Link sprite, a score of 1820, and a Triforce indicator.](assets/Zelda_Nelsonic_Game_Watch_gameplay.jpg)
+### 1. Active Cave Combat (`assets/Zelda_Nelsonic_Game_Watch_combat.png`)
 
-**Caption:** Photograph of the watch's monochrome LCD during a game. The screen shows a rectangular cave grid, Link near the lower-right area, the score 1820, and a triangular Triforce indicator at the top. The photograph is a single screen state, not a full map.
+![Nelsonic Zelda Game Watch LCD displaying Link engaged in active cave combat against two Iron Balls and a Bat.](assets/Zelda_Nelsonic_Game_Watch_combat.png)
+
+**Caption:** Photograph of the watch's monochrome LCD during an active dungeon encounter. Link (equipped with sword and shield) maneuvers across the 5×5 room grid, evading two Iron Balls and engaging a flying Bat. The status banner along the upper register displays the dungeon cave mini-map, sword and boomerang inventory slots, three Link shields (lives), time reading **7:20**, and two earned Triforce pieces. The lower-right corner displays three Heart containers.
+
+---
+
+### 2. Level Exit & Top Score Display (`assets/Zelda_Nelsonic_Game_Watch_gameplay.jpg`)
+
+![Nelsonic Zelda Game Watch LCD displaying a cave grid with an open exit door, Link, and the Top Score of 1820.](assets/Zelda_Nelsonic_Game_Watch_gameplay.jpg)
+
+**Caption:** Photograph of the LCD upon clearing a dungeon chamber. Link stands beside the opened eastern doorway, ready to advance to the next cave. The upper display shows the cave mini-map, all four completed Triforce pieces, and the recorded **Top Score of 1820**.
 
 ## Manual content summary
 

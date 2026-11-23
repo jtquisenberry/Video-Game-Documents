@@ -8,10 +8,10 @@ developer: "Nintendo"
 publisher: "Nintendo"
 release_year: 1989
 document_type: "Media Archive"
-author: "Unknown (source notes)"
+author: "Jacob Quisenberry"
 version: "1.00"
 date: "2026-11-07"
-last_updated: "2026-11-07"
+last_updated: "2026-11-23"
 language: "en"
 tags:
   - the-legend-of-zelda
@@ -20,7 +20,7 @@ tags:
   - zl-65
   - handheld
   - media-archive
-summary: "Identifies Nintendo's two-screen Zelda Game & Watch as product ZL-65, distinct from Nelsonic's 8321 wristwatch game. Preserves the supplied August 1989, UPC, and product notes with captioned upper- and lower-screen photographs."
+summary: "Identifies Nintendo's dual-screen Zelda Game & Watch as product ZL-65, distinct from Nelsonic's 8321 wristwatch game. Preserves August 1989 release date, UPC, and product notes with accurately captioned upper- and lower-screen photographs."
 ---
 
 # The Legend of Zelda Game & Watch ZL-65 - Media & Product Reference
@@ -42,13 +42,21 @@ The source supplied links to an instruction-manual reference, UPC listing, and b
 
 ## Screen photographs
 
-![Upper game-and-watch LCD screen with Link, enemies, hearts, a PM indicator, and the time 4:17.](assets/Zelda_Game_and_Watch_upper.png)
+### 1. Upper Screen – Dragon Boss Lair & Inventory (`Zelda_Game_and_Watch_upper.png`)
 
-**Caption:** Photograph of the upper gameplay display. Link and enemies appear among brick-patterned platforms; the lower edge shows three heart icons, a PM indicator, and a time reading of 4:17. The image documents the displayed play state, not a complete level map.
+![Upper Game & Watch LCD screen showing Link battling the Dragon boss on the right alongside the Triforce, Tomahawk, Map, and Water of Life inventory panel on the left.](assets/Zelda_Game_and_Watch_upper.png)
 
-![Lower game-and-watch LCD screen with a Triforce panel, weapon and item labels, and a small map diagram.](assets/Zelda_Game_and_Watch_lower.png)
+**Caption:** Photograph of the upper LCD display. On the right, Link confronts the fire-breathing Dragon boss with his tomahawk drawn in the final chamber of a dungeon level. The printed panel on the left displays equipment and quest progress indicators, including the **TRIFORCE** triangle, **TOMAHAWK**, **MAP**, **WATER OF LIFE**, and a 5-chamber dungeon progression path.
 
-**Caption:** Photograph of the lower display and printed game-reference panel. Visible labels include “TRIFORCE,” “TOMAHAWK,” “MAP,” and “WATER OF LIFE,” alongside small item illustrations and a route/map diagram.
+---
+
+### 2. Lower Screen – Main Dungeon Chamber & Clock (`Zelda_Game_and_Watch_lower.png`)
+
+![Lower Game & Watch LCD screen showing Link on a brick platform engaging a Stalfos and Moblin, with three heart containers, a PM indicator, and a clock time of 4:17.](assets/Zelda_Game_and_Watch_lower.png)
+
+**Caption:** Photograph of the lower LCD display. Link traverses multi-tiered brick platforms past torch braziers and arched stairways, engaging a Stalfos (skeleton) on the ground floor and a Moblin on the upper-right ledge. The bottom register shows Link's three Heart life containers, a PM indicator, and the real-time digital clock reading **4:17**.
+
+---
 
 ## Identification caveat
 

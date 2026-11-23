@@ -13,7 +13,6 @@ https://jtquisenberry.github.io/Video-Game-Documents/llms.txt
 https://jtquisenberry.github.io/Video-Game-Documents/C64/MOTU_The_Movie/README.html
 https://jtquisenberry.github.io/Video-Game-Documents/MSX/MOTU_The_Movie/README.html
 https://jtquisenberry.github.io/Video-Game-Documents/ZX_Spectrum/MOTU_Terraquake/README.html
-https://jtquisenberry.github.io/Video-Game-Documents/ColecoVision/MOTU_Power_of_He-Man/README.html
 https://jtquisenberry.github.io/Video-Game-Documents/C64/MOTU_The_Ilearth_Stone/MOTU_The_Ilearth_Stone_Walkthrough.html
 https://jtquisenberry.github.io/Video-Game-Documents/ZX_Spectrum/MOTU_The_Ilearth_Stone/README.html
 https://jtquisenberry.github.io/Video-Game-Documents/Handheld_LCD/MOTU_Electronic_Game/MOTU_Electronic_Game_Walkthrough.html
@@ -36,4 +35,4 @@ https://jtquisenberry.github.io/Video-Game-Documents/PC_Windows/Toy_Soldiers_War
 https://jtquisenberry.github.io/Video-Game-Documents/SNES/Final_Fantasy_II/Final_Fantasy_II_Spell_Cycler_Code_Reference.html
 https://jtquisenberry.github.io/Video-Game-Documents/DS/Tingle_Rupeeland/Tingle_Rupeeland_Drifter_Bodyguards.html
 https://jtquisenberry.github.io/Video-Game-Documents/Game_and_Watch/Zelda/Zelda_Game_and_Watch_Media_Archive.html
-https://jtquisenberry.github.io/Video-Game-Documents/Game_and_Watch/Zelda/Zelda_Nelsonic_Game_Watch_Guide.html
+https://jtquisenberry.github.io/Video-Game-Documents/Game_Watch/Zelda/Zelda_Nelsonic_Game_Watch_Guide.html

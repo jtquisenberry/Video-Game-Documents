@@ -91,12 +91,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jtquisenberry.github.io/Video-Game-Documents/ColecoVision/MOTU_Power_of_He-Man/README.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://jtquisenberry.github.io/Video-Game-Documents/C64/MOTU_The_Ilearth_Stone/MOTU_The_Ilearth_Stone_Walkthrough.html</loc>
     <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -224,13 +218,13 @@
   </url>
   <url>
     <loc>https://jtquisenberry.github.io/Video-Game-Documents/Game_and_Watch/Zelda/Zelda_Game_and_Watch_Media_Archive.html</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jtquisenberry.github.io/Video-Game-Documents/Game_and_Watch/Zelda/Zelda_Nelsonic_Game_Watch_Guide.html</loc>
-    <lastmod>2026-11-07</lastmod>
+    <loc>https://jtquisenberry.github.io/Video-Game-Documents/Game_Watch/Zelda/Zelda_Nelsonic_Game_Watch_Guide.html</loc>
+    <lastmod>2026-11-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
