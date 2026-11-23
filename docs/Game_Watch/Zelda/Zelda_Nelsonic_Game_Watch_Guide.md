@@ -130,51 +130,7 @@ The source listed these external references:
 - [Release and developer reference](https://zelda.gamepedia.com/The_Legend_of_Zelda_Game_Watch)
 - [Barcode listing reference](https://www.ebay.com/itm/New-Old-Stock-Black-Legend-Of-Zelda-Nelsonic-Game-Watch-Nintendo-WORKS-PERFECT/303050956101)
 
-## Complete source FAQ text
-
-The original FAQ follows in a fixed-width block to preserve its wording and diagrams. Email contact details, if present, are omitted. An embedded UTF-8 right quotation mark in the legacy source is normalized to an ASCII quotation mark.
-
-````text
-The Legend of Zelda Game Watch
-a.k.a
-THE LEGEND OF ZELDA 8321
-
-FAQ by Jacob Quisenberry
-Current Version: 1.00
-
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-I. INTRODUCTION
-
-The Legend of Zelda Game Watch is a wristwatch in which the player must 
-obtain four pieces of the Triforce. It was published by Nelsonic in the USA 
-on October 5, 1989. 
-
-This game should not be confused with the Zelda Game & Watch, which is a 
-two-screen hand-held published by Nintendo.
-
-Format: This document is a plain-text document meant to be viewed with a 
-monospace font, such as Courier New.
-
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-
-
-TABLE OF CONTENTS
-
-I.   Introduction
-II.  Version History
-III. Manual Transcription
-IV.  Strategy
-V.   Rights
-VI.  Contact
-
-
-II. VERSION HISTORY
-
-2/5/2019
-* Initial release.
-
-
-III. MANUAL TRANSCRIPTION
+## Manual Transcription
 
 Following is a verbatim transcription of the game's instruction manual. It 
 leaves grammatical errors intact.
@@ -383,23 +339,3 @@ COULD PROVE HAZZARDOUS TO CHILDREN UNDER #^
 MONTHS.
 
 
-IV. STRATEGY
-
-Incomplete.
-
-
-
-V. RIGHTS
-
-I grant to sites to which I have submitted this document rights required by 
-those sites. Currently, this includes GameFAQs.
-
-To everyone else, I make this document available under the GNU General 
-Public License v3. https://www.gnu.org/licenses/gpl.html
-
-
-VI. CONTACT
-
-I need to setup a new public email address. In the meantime, I am likely to 
-see posts on the GameFAQs message board for this game. 
-````
